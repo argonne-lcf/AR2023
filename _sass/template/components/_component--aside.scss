@@ -1,0 +1,35 @@
+/**
+  * Component: Aside
+  *  
+  * @description
+  * -
+  */
+
+.aside {
+	padding: bl(10) 0; //40px
+	width: 100vw;
+	background-color: color(blue, X);
+	color: color(blue, XXXXX);
+
+	.content-wrapper {
+		@include grid-parent();
+	}
+		
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	ul,
+	ol,
+	table,
+	.language-plaintext {
+		grid-column: span 12;
+		@include respond-to(m){
+			grid-column: 4 / 12;
+		}
+	}
+
+}

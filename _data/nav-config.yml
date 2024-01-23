@@ -1,0 +1,66 @@
+toc:
+  - title: Year in Review
+    slug: year-in-review
+    url: year-in-review/directors-letter
+    subfolderitems:
+      - page: Director&rsquo;s Letter
+        url: year-in-review/directors-letter
+      - page: ALCF Leadership
+        url: year-in-review/year-in-review
+      - page: About ALCF
+        url: year-in-review/about-alcf
+  - title: Features
+    slug: features
+    url: features
+    subfolderitems:
+      - page: Polaris Enters Production Mode
+        url: features/polaris
+      - page: ALCF AI Testbed Systems Deployed for Open Science
+        url: features/alcf-ai-testbed
+      - page: Aurora Takes Shape in the ALCF Data Center
+        url: features/aurora
+      - page: Sunspot Testbed Provides On-Ramp for Aurora
+        url: features/sunspot
+      - page: Transforming Science with Aurora and the Upgraded APS
+        url: features/aurora-and-aps
+      - page: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
+        url: features/gordon-bell-prize
+  - title: Growing the HPC Community
+    slug: community-and-outreach
+    url: community-and-outreach
+    subfolderitems:
+      - page: Partnering with Industry
+        url: community-and-outreach/industry
+      - page: Building a Diverse HPC Workforce
+        url: community-and-outreach/dei
+      - page: Shaping the Future of Supercomputing
+        url: community-and-outreach/hpc-community-activities
+      - page: Training ALCF Users
+        url: community-and-outreach/user-training-activities
+      - page: Inspiring Students
+        url: community-and-outreach/educational-outreach-activities
+  - title: Expertise and Resources
+    slug: expertise-and-resources
+    url: expertise-and-resources
+    subfolderitems:
+      - page: ALCF Systems
+        url: expertise-and-resources/systems
+      - page: ALCF Team
+        url: expertise-and-resources/team
+      - page: Staff Spotlights
+        url: expertise-and-resources/staff-spotlights
+      - page: Staff News
+        url: expertise-and-resources/staff-news
+  - title: Science
+    slug: science
+    url: science
+    subfolderitems:
+      - page: Allocation Programs
+        url: science/allocation-programs
+      - page: 2022 Science Highlights
+        url: science/highlights
+      - page: Projects
+        url: science/projects
+      - page: Publications
+        url: science/publications
+
