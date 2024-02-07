@@ -13,15 +13,15 @@ permalink: expertise-and-resources/staff-spotlights
    source= "ghadar-lenard.png"
    caption= "Left: Beth Cerny, right: Yasi Ghadar"
 %}
-# Beth Cerny, Marketing Communications Lead
+# Kyle Felker, Assistant Computational Scientist
 
-Beth Cerny has served as the head of communications for the Argonne Leadership Computing Facility since 2012. She leads a team of writers and designers to deliver integrated marketing programs and communications across print, experiential and digital channels for users, staff, potential collaborators, and the Department of Energy. Beth’s responsibilities include partnering across ALCF to launch new systems and services, build brand and voice, and improve user touchpoints such as ALCF documentation and training.
+Kyle Felker's first experiences with the ALCF were via a formative undergraduate internship in the MCS division from 2010-2013, wherein he worked with the IBM Blue Gene/P "Intrepid" machine. This spawned a drive to pursue a career in intersectional computational science involving multiple scientific domains, all tied together by their use of high-performance computing.
 
-One of her most notable efforts over the past few years has been leading Intel and HPE marketing team meetings to coordinate and collaborate joint plans in rolling out ALCF’s exascale system Aurora. These joint plans include writing early success articles, creating videos, establishing new training opportunities, pitching stories to media, and featuring ALCF experts in keynotes and podcasts.
+Kyle returned to the ALCF in 2019 as a postdoctoral appointee.  In 2021, he joined the CPS division as a Catalyst for INCITE projects involving astrophysical simulations, AI, and/or plasma physics. His current research focus is on preparing machine learning models for fusion energy to be trained at scale on Aurora via the Early Science Program. On a day-to-day basis, Kyle places additional attention on maintaining software and documentation for the ALCF user community.
 
-Her research interests include improving the experience of the user community at the ALCF, balancing user and business needs with technology and staffing constraints. She uses her user-centered design training to improve user touchpoints at the facility. Over the past few years, Beth has spearheaded user research for the ALCF portal, interviewing Argonne researchers and teams within the ALCF division to build the user requirements, structure and design guide. She also works alongside computational science staff and training team to coordinate strategy and providing online resources in the ALCF user guides and website.
+In 2023, Kyle was a part of two teams that received Impact Argonne awards: for helping organize the AI-driven Science on Supercomputers training series for students, and for supporting  the  winning team of the SC22 Gordon Bell Special Prize by building and testing scalable machine learning software on the Polaris supercomputer. 
 
-In addition to her day-to-day duties, Beth co-founded the Chicago chapter of Women in HPC in 2022, and participates in outreach activities that engage young women to choose careers in science and engineering. She also mentors staff and interns throughout the year.
+In 2023, Kyle joined the INCITE Computational Readiness committee, where he helps organize the technical evaluation processes for proposals seeking compute time on the largest ALCF and OLCF resources. Kyle also began serving as an ANL lab practicum coordinator for the DOE's Computational Sciences Graduate Fellowship. For the past two years, he has also served on the ALCF Software Committee and the Supercomputing ML & HPC program committee. 
 
 # Yasi Ghadar, Computational Scientist
 
