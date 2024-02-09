@@ -13,7 +13,7 @@ aside: about-numbers.md
 
 The Argonne Leadership Computing Facility (ALCF), a U.S. Department of Energy (DOE) Office of Science user facility at Argonne National Laboratory, enables breakthroughs in science and engineering by providing supercomputing and AI resources to the research community.
 
-ALCF computing resources—available to researchers from academia, industry, and government agencies—support large-scale computing projects aimed at solving some of the world’s most complex and challenging scientific problems. Through awards of supercomputing time and support services, the ALCF enables researchers to accelerate the pace of discovery and innovation across a broad range of disciplines.  
+ALCF computing resources—available to researchers from academia, industry, and government agencies—support large-scale computing projects aimed at solving some of the world’s most complex and challenging scientific problems. Through awards of computing time and support services, the ALCF enables researchers to accelerate the pace of discovery and innovation across a broad range of disciplines.  
 
 As a key player in the nation's efforts to provide the most advanced computing resources for science, the ALCF is helping to chart new directions in scientific computing through a convergence of simulation, data science, and AI methods and capabilities.
 
