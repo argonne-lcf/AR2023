@@ -25,9 +25,14 @@ In 2023, Kyle joined the INCITE Computational Readiness committee, where he help
 
 # Paige Kinsley, ALCF Education Outreach Lead
 
-Paige Kinsley is the ALCF Education Outreach Lead, assisting staff in the development and leading of training and outreach activities across the division, as well as acting as the central point for all education, outreach, and training activities for the ALCF. She is committed to engaging underserved populations in STEM and increasing access to resources and knowledge about the power of science and high-performance computing to change the world.
-
-In 2023, she co-led a team of 20 organizers and trainers from national labs, academia, and a non-profit to run the first pilot of the Introduction to HPC Bootcamp. As a team, they developed engaging and inclusive materials for a diverse set of students. Based on student evaluations, the bootcamp increased their interest in HPC and national lab careers, and a number of them are applying to internship programs. Kinsley also stepped in as a founding member of the Women in HPC Chicago Chapter, in collaboration with Argonne and UIC staff. The Chicago WHPC chapter provides a network and resources for women and underrepresented people in HPC to make connections, develop support networks, and find opportunities in the field. She also supported the development of tours at ALCF, with the goal of making Argonne and the ALCF more accessible to the future workforce. As part of her work to develop an inclusive culture in HPC and beyond, she developed and led four science communication workshops for Argonne staff.
+Paige Kinsley is the ALCF Education Outreach Lead, assisting staff in the development and leading of training and education activities across the division, as well as acting as the central point for all education, outreach, and training activities for the ALCF. She is committed to engaging underserved populations in STEM and increasing access to resources and knowledge about the power of science and high-performance computing to change the world.
+ 
+In 2023, she co-led a team of 20 organizers and trainers from national labs, academia, and a non-profit to run the first pilot of the Introduction to HPC Bootcamp. As a team, they developed engaging and inclusive materials for a diverse set of students. Based on student feedback, the bootcamp increased their interest in HPC and national lab careers, and a number of them have applied to DOE internship programs.
+ 
+Kinsley also stepped in as a founding member of the Women in HPC Chicago Chapter, in collaboration with Argonne and UIC staff. The Chicago WHPC chapter provides a network and resources for women and underrepresented people in HPC to make connections, develop support networks, and find opportunities in the field.
+ 
+She also supported the continued development of tours at ALCF, with the goal of making Argonne and the ALCF more accessible to the future workforce. As part of her work to develop an inclusive culture at Argonne, in HPC, and beyond, she developed and led workshops on best practices in communication for Argonne staff.
+![image](https://github.com/argonne-lcf/AR2023/assets/112573275/9db7a88b-9164-45d6-858b-a3b4e49f27a0)
 
 {% include media-img.html
    source= "pershey-sims-partacz.png"
