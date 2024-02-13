@@ -32,7 +32,7 @@ In 2023, she co-led a team of 20 organizers and trainers from national labs, aca
 Kinsley also stepped in as a founding member of the Women in HPC Chicago Chapter, in collaboration with Argonne and UIC staff. The Chicago WHPC chapter provides a network and resources for women and underrepresented people in HPC to make connections, develop support networks, and find opportunities in the field.
  
 She also supported the continued development of tours at ALCF, with the goal of making Argonne and the ALCF more accessible to the future workforce. As part of her work to develop an inclusive culture at Argonne, in HPC, and beyond, she developed and led workshops on best practices in communication for Argonne staff.
-![image](https://github.com/argonne-lcf/AR2023/assets/112573275/9db7a88b-9164-45d6-858b-a3b4e49f27a0)
+
 
 {% include media-img.html
    source= "pershey-sims-partacz.png"
