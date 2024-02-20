@@ -4,6 +4,7 @@ layout: home
 
 title: Argonne Leadership Computing Facility
 
+aside: about-numbers.md
 ---
 {% assign features = site.data.nav-config.toc | where: "title", "Features" %}
 
@@ -67,73 +68,3 @@ title: Argonne Leadership Computing Facility
 
 
 
-<div class="home--toc-wrapper">
-	<div class="content-wrapper">
-		<h2>Table of Contents</h2>
-
-		{% for item in site.data.nav-config.toc %} 
-			<div class="toc-section toc-{{item.slug}}">
-	      <h3>
-	        <a href="{{ item.url }}" class="menuitem">
-	          {{ item.title }}
-	        </a>
-	      </h3>
-
-	      {% if item.subfolderitems %}
-	      	{% if item.slug == "science" %}
-	      		<ul class="toc-science">
-		          {% for entry in item.subfolderitems %}
-		          	{% if entry.page == "2022 Science Highlights" %}
-			            <li class="hl">
-			              <a href="{{ entry.url }}">
-			              	{{ entry.page }}
-			              </a>
-			            </li>
-			            <ul class="toc-highlights">
-			              {% for highlight in site.highlights %}
-		              		<li class="toc-highlight">
-						      			<a href="{{ highlight.url }}">
-										  		<span class="title">{{ highlight.title }}</span>
-										  		<span class="pi">{{ highlight.pi }}</span>
-											  </a>
-											</li>
-										{% endfor %}
-									</ul>
-			          {% else %} 
-			          	<li class="not-hl">
-			              <a href="{{ entry.url }}">
-			              	{{ entry.page }}
-			              </a>
-			            </li>
-			          {% endif %} 
-		          {% endfor %}
-		        </ul>
-		      {% else %}
-		      	<ul>
-		          {% for entry in item.subfolderitems %}
-		            <li>
-		              <a href="{{ entry.url }}">
-		              	{{ entry.page }}
-		              </a>
-		            </li>
-		          {% endfor %}
-		        </ul>
-		      {% endif %} 
-		    {% endif %} 
-
-
-
-	      	
-
-	      		
-	      	
-	        
-	      
-
-	      
-
-	    </div>  
-  	{% endfor %}
-
-	</div>
-</div>
