@@ -10,27 +10,31 @@ hero-img-caption: "ALCF staff members were part of the multi-institutional team 
 ---
 
 
-# ALCF researchers part of team recognized with Gordon Bell Special Prize
+# ALCF Team Awarded Most Outstanding Paper at 2023 IWOCL & SYCLcon
 
-ALCF’s Venkat Vishwanath, Michael Papka, Murali Emani, Sam Foreman, and several Argonne colleagues — Maxim Zvyagin, Alexander Brace, Kyle Hippe, Austin Clyde, Danilo Perez-Rivera, Heng Ma, Carla M. Mann, Michael Irvin, Logan Ward, Zhen Xie, Diangen Lin, Maulik Shukla, Ian Foster, James J. Davis, Thomas Brettin, Rick Stevens, and Arvind Ramanathan — were part of a multi-institutional team that received the 2022 Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. The team was recognized for their groundbreaking study, “GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics.”
+ALCF researchers authored a study that was recognized as the Most Outstanding Paper at the 2023 IWOCL & SYCLcon conference. Led by ALCF’s Thomas Applencourt, the team included ALCF colleagues Kevin Harms, Brice Videau, and Nevin Liber, as well as Bryce Allen of Argonne/University of Chicago, Amanda Dufek of NERSC, and Jefferson le Quellec and Aiden Belton-Schure of Codeplay. The team’s paper, “Standardizing complex numbers in SYCL,” provides an open-source library of complex numbers and associated math functions that can be used in computations carried out with SYCL, a key programming framework for next-generation supercomputers, including the ALCF’s Aurora exascale system. 
 
-# Alexeev mentors Best Student Paper Awardee at HPEC Conference
+# ALCF Team Receives Best Paper Award at ISAV 2023 Workshop
 
-Yuri Alexeev, Argonne computational scientist, and his student Cameron A. Ibrahim (University of Delaware) won the Best Student Paper Award at the 2022 IEEE High Performance Extreme Computing (HPEC) Conference. Co-written with Danylo Lykov (Argonne) and Zichang He (UC Santa Barbara), the team’s paper, “Constructing Optimal Contraction Trees for Tensor Network Quantum Circuit Simulation,” detailed an important advancement for reducing the memory and computational requirements of simulating quantum circuits.
+An ALCF-led team was recognized with the Best Paper Award at the 2023 In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV) Workshop at the SC23 conference. Led by ALCF’s Victor Mateevitsi, the team included ALCF colleagues Joseph Insley, Michael Papka, Saumil Patel, and Silvio Rizzi; Nicola Ferrier, Paul Fischer, Yu-Hsiang Lan, and Misun Min of Argonne; and Mathis Bode, Jens Henrik Göbbert, and Jonathan Windgassen of the Jülich Supercomputing Centre (JSC) in Germany. Their paper, “Scaling Computational Fluid Dynamics: In Situ Visualization of NekRS using SENSEI,” detailed efforts to equip the NekRS computational fluid dynamics code with in situ analysis and visualization capabilities. 
 
-# Lusch and colleagues recognized with Most Valuable Technical Paper at ICE Forward Conference 
+# ALCF Team Wins First Place and Best Workflow at 2023 IEEE SciVis Contest
 
-Bethany Lusch, assistant computer scientist at the ALCF, and Argonne colleagues —Sudeepta Mondal, Gina M. Magnotti, Romit Maulik and Roberto Torelli — were recognized with the Most Valuable Technical Paper at the 2022 ASME ICE Forward Conference. The team’s paper, “Machine Learning-Enabled Prediction of Transient Injection Map in Automotive Injectors With Uncertainty Quantification,” demonstrated a data-driven approach that uses machine learning to tackle the computational overhead of fuel injector simulations.
+An ALCF team won first place and best workflow at the Institute of Electrical and Electronics Engineers’ (IEEE) 2023 SciVis Contest for their development of a multi-platform scientific visualization application for analyzing data from brain plasticity simulations. Led by Tommy Marrinan of the ALCF and the University of St. Thomas, the team included ALCF colleagues Victor Mateevitsi and Michael Papka, and University of St. Thomas students Madeleine Moeller and Alina Kanayinkal. Their paper, “VisAnywhere: Developing Multi-platform Scientific Visualization Applications,” demonstrated how a single codebase can be adapted to develop visualization applications that run on a variety of display technologies, including mobile devices, laptops, high-resolution display walls, and virtual reality headsets. 
 
-# Papka receives Pinnacle of Education Award
+# ALCF-SWIFT Collaboration Recognized with Argonne Delivering Impact Award
 
-ALCF Director Michael Papka was recognized with the 2022 UChicago Argonne Board of Governors Pinnacle of Education Award for his dedication and contributions to science education outreach activities aimed at inspiring youth. Since assuming leadership of the ALCF in 2010, Papka has launched several summer computer science camps for local middle school and high school students, including Coding for Science Camp, Big Data Camp, and most recently, an artificial intelligence-focused camp hosted in partnership with Northern Illinois University. 
+As part of Argonne National Laboratory's 2023 Commercialization Excellence Awards, ALCF researchers Venkatram Vishwanath, Michael Papka, William Allcock, and Filippo Simini were recognized with a Delivering Impact Award for their collaboration with SWIFT, a global provider of financial messaging services. The collaborative effort leveraged ALCF’s supercomputing and AI resources to explore SWIFT’s synthetic transactional data streams and identify patterns, including any anomalous activity. The pattern-detection methods developed by the ALCF team provided SWIFT with the capabilities to respond to anomalies more rapidly, thereby strengthening financial infrastructure.
 
-# Riley named HPCwire Person to Watch
+# Balin Receives Argonne Postdoctoral Performance Award
 
-Katherine Riley, ALCF Director of Science, was selected as one of HPCwire’s 2022 People to Watch. The annual list recognizes HPC professionals who play leading roles in driving innovation within their particular fields, making significant contributions to society as a whole.
+Riccardo Balin, a postdoctoral researcher at the ALCF, received a Postdoctoral Performance Award at Argonne National Laboratory's Postdoctoral Research and Career Symposium in November. Balin was recognized for his innovative work in coupling high-fidelity aerodynamic flow simulations with machine learning to improve modeling capabilities for aerospace engineering.
 
-# Vardhan named ALCF Margaret Butler Fellow
+# Papka Named ACM Distinguished Member
 
-Madhurima Vardhan, who recently earned a Ph.D. in Biomedical Engineering at Duke University, joined the ALCF in 2022 as the latest recipient of its Margaret Butler Fellowship in Computational Science. During her Ph.D., she developed a massively parallel fluid model to simulate blood flow on traditional HPC and cloud infrastructures. As part of her fellowship, she is working to demonstrate the usefulness of pre-trained AI models on synthetic and real patient datasets to predict functional biomarkers of long COVID. Ultimately, Vardhan hopes to develop scalable computational tools that enable AI to tackle healthcare challenges beyond human intuition.
+ALCF Director Michael Papka was named a 2023 Distinguished Member of the Association for Computing Machinery (ACM). Papka was recognized for his contributions in virtual reality, collaborative environments, scientific visualization, as well as research and operations in high-performance computing. 
+
+# Papka Receives Distinguished Performance Award
+
+ALCF Director Michael Papka received the Distinguished Performance Award at the Argonne Board of Governors’ awards ceremony in September. Papka was recognized for his numerous exemplary contributions to Argonne, including his efforts to help build world-class scientific computing capabilities for open science.
  
