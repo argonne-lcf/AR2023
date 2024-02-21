@@ -24,16 +24,22 @@ image-credit: 'Ao Ma, University of Illinois Chicago'
 
 # Challenge
 
-The primary goal of protein science is to understand how proteins function, which requires understanding the dynamics responsible for transitions between different functional structures of a protein. If the exact reaction coordinates (the small number of essential coordinates that control functional dynamics) were known, researchers could determine the transition rate for any protein configuration and thoroughly understand its mechanism. Despite intensive efforts, identifying the exact reaction coordinates in complex molecules remains a formidable challenge.
+Specializing in edge physics and realistic geometry, XGC is capable of solving boundary multiscale plasma problems across the magnetic separatrix (that is, the boundary between the magnetically confined and unconfined plasmas) and in contact with material wall called divertor, using first-principles-based kinetic equations.
+
+To prepare for the next generation of high-performance computing, the code is being re-implemented for exascale using a performance-portable approach. Running at exascale will yield unique computational capabilities, some of which carry the potential for transformational impacts
+on fusion science: exascale expansion will make it possible to study, for instance, a larger and more realistic range
+of dimensionless plasma parameters than has ever been achieved, along with the energy-angle distribution of plasma particles impinging upon the material wall and the full spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma. Further, exascale will enable physics modeling that incorporates multiple-charge tungsten ion species — impurities discharged from the tokamak vessel walls that impact edge-plasma behavior and fusion performance in the core-plasma through migration across the magnetic separatrix. Toward this end, XGC will support a wide array of additional features and modes, including delta-f and full-f, electrostatic and electromagnetic, axisymmetric, neutral particles with atomic cross-sections, atomic number transitions among different impurity states, and coupling physics in constant development.
+
+
 
 
 
 # Performance Results
 
-The UIC team employed their generalized work functional (GWF) method to study the flap opening process of HIV-1 protease, a complex protein and major drug target for combatting the HIV virus. GWF is a fundamental mechanical quantity rooted in Newton’s law. Using the transition path sampling method, the researchers leveraged the ALCF’s Theta supercomputer to generate 2,000 reactive trajectories that start from structures of HIV-1 protease with flaps in the semi-open state and end at structures with flaps in the open state. This data served as the input to the GWF method, which was used to pinpoint the exact reaction coordinates and determine the molecular mechanism of the flap opening process.
+Optimization for exascale has required both GPU offloading and algorithmic flexibility. Performance on the Aurora testbed, Sunspot, has yielded scaling performance comparable to that of GPU systems such as Polaris. Single-GPU performance on Aurora shows improvements by as much as 46 percent.
 
 
 
 # Impact
 
-By successfully identifying the exact reaction coordinates for a complex protein for the first time, the team has made an important breakthrough toward understanding protein functional dynamics. Their work has far-reaching implications for both biomedical research and protein engineering, providing insights that are crucial for designing drugs, fighting drug resistance, and developing artificial enzymes that can complete desired functions.
+The resulting exascale application will be unique in its computational capabilities and will have potentially transformational impact in fusion science, for example, by studying a much larger and more realistic range of dimensionless plasma parameters than ever before, by providing the energy-angle distribution of plasmas hitting the material wall, and by assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma.
