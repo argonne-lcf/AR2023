@@ -8,22 +8,12 @@ title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
 pi: 'Ao Ma, University of Illinois Chicago'
 award: 'Director’s Discretionary'
 systems: 'Theta'
-field: 'Biological Sciences'
 sdl: 's'
 
 image: 'ma.png' 
 image-caption: 'Representative open structures from accelerated trajectories along the identified six reaction coordinates. The reference semi-open structure is colored white and atoms are colored green, red, and blue according to its weight in the reaction coordinates.'
 image-credit: 'Ao Ma, University of Illinois Chicago'
 
-publications:
-  - authors: 'Wu, S., H. Li, and A. Ma'
-    title: 'Exact Reaction Coordinates for Flap Opening in HIV-1 Protease'
-    source: 'Journal of Chemical Theory and Computation'
-    date: 'December 2022'
-    publisher: 'PNAS'
-    url: 'https://doi.org/10.1073/pnas.2214906119'
-    
-    
 ---
 
 {% include txt-intro.html 
