@@ -12,7 +12,13 @@ aside: about-numbers.md
 <div class="home--hero-wrapper">
 	<div class="img-wrapper">
 		<div>
-			<img src="{{ site.url }}/assets/images/cover.png">
+			<!-- <img src="{{ site.url }}/assets/images/cover.png"> -->
+			<!-- poster="{{ site.url }}/assets/images/cover.png"  -->
+			<video autoplay loop>	
+				<source src="{{ site.url }}/assets/video/test.mp4" type="video/mp4">
+  				<!-- <source src="{{ site.url }}/assets/video/movie.webm" type="video/webm"> -->
+  				Your browser does not support the video tag.
+			</video>
 			<div class="home--hero-text">
 				<h1 class="alcf">
 					Argonne<br>
@@ -21,7 +27,7 @@ aside: about-numbers.md
 					Facility
 				</h1>
 				<h1 class="title">
-					2022<br>
+					2023<br>
 					<span>Annual<br>
 					Report</span><br>
 				</h1>
@@ -44,10 +50,8 @@ aside: about-numbers.md
 <div class="home--features-wrapper">
 	<div class="content-wrapper">
 		<h2>Features</h2>
-
 			{% for entry in features[0].subfolderitems %}
-			{% assign feature = site.pages | where: 'permalink', entry.url %}
-			  
+			{% assign feature = site.pages | where: 'permalink', entry.url %}			  
 			  <div class="teaser">
 			    <a href="/{{ entry.url }}">
 			    	<div class="image-wrapper">
@@ -59,8 +63,7 @@ aside: about-numbers.md
 			    		<p>{{ feature[0].intro }}</p>
 			    	</div>
 			    </a>
-			  </div>
-			 
+			  </div>		 
 			{% endfor %}		
 	</div>
 </div>

@@ -39,6 +39,10 @@
 		min-width: 100%;
 	}
 
+	video {
+		width: 100%;
+	}
+
 	.home--hero-text {
 		@include grid-parent();
 		position: absolute;

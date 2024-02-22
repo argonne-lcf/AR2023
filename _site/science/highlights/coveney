@@ -3,23 +3,23 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction | 2023 ALCF Annual Report</title>
+<title>COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2 | 2023 ALCF Annual Report</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction" />
+<meta property="og:title" content="COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Electron and x-ray tomography allow researchers to perform 3D characterization of materials at the nano- and mesoscale, generating data that is critical to the development of nanomaterials for a wide range of applications, including solar cells and semiconductor devices. With an ALCF Data Science Program (ADSP) award, a University of Michigan-led research team is leveraging recent advancements in tomographic reconstruction algorithms, such as compressed sensing methods, to enhance and accelerate materials characterization research." />
-<meta property="og:description" content="Electron and x-ray tomography allow researchers to perform 3D characterization of materials at the nano- and mesoscale, generating data that is critical to the development of nanomaterials for a wide range of applications, including solar cells and semiconductor devices. With an ALCF Data Science Program (ADSP) award, a University of Michigan-led research team is leveraging recent advancements in tomographic reconstruction algorithms, such as compressed sensing methods, to enhance and accelerate materials characterization research." />
-<link rel="canonical" href="http://localhost:4000/science/highlights/hovden" />
-<meta property="og:url" content="http://localhost:4000/science/highlights/hovden" />
+<meta name="description" content="Machine learning and physics-based methods combined can dramatically accelerate the process of drug discovery. With this INCITE project, researchers are developing computational methods to overcome severe bottlenecks in the pharmaceutical industry’s current process and speed the search for drug candidates for SARS-CoV-2 and other viruses." />
+<meta property="og:description" content="Machine learning and physics-based methods combined can dramatically accelerate the process of drug discovery. With this INCITE project, researchers are developing computational methods to overcome severe bottlenecks in the pharmaceutical industry’s current process and speed the search for drug candidates for SARS-CoV-2 and other viruses." />
+<link rel="canonical" href="http://localhost:4000/science/highlights/coveney" />
+<meta property="og:url" content="http://localhost:4000/science/highlights/coveney" />
 <meta property="og:site_name" content="2023 ALCF Annual Report" />
-<meta property="og:image" content="http://localhost:4000/hovden.png" />
+<meta property="og:image" content="http://localhost:4000/coveney.png" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2024-02-22T10:32:07-06:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:4000/hovden.png" />
-<meta property="twitter:title" content="Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction" />
+<meta property="twitter:image" content="http://localhost:4000/coveney.png" />
+<meta property="twitter:title" content="COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-02-22T10:32:07-06:00","datePublished":"2024-02-22T10:32:07-06:00","description":"Electron and x-ray tomography allow researchers to perform 3D characterization of materials at the nano- and mesoscale, generating data that is critical to the development of nanomaterials for a wide range of applications, including solar cells and semiconductor devices. With an ALCF Data Science Program (ADSP) award, a University of Michigan-led research team is leveraging recent advancements in tomographic reconstruction algorithms, such as compressed sensing methods, to enhance and accelerate materials characterization research.","headline":"Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction","image":"http://localhost:4000/hovden.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/science/highlights/hovden"},"url":"http://localhost:4000/science/highlights/hovden"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-02-22T10:32:07-06:00","datePublished":"2024-02-22T10:32:07-06:00","description":"Machine learning and physics-based methods combined can dramatically accelerate the process of drug discovery. With this INCITE project, researchers are developing computational methods to overcome severe bottlenecks in the pharmaceutical industry’s current process and speed the search for drug candidates for SARS-CoV-2 and other viruses.","headline":"COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2","image":"http://localhost:4000/coveney.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/science/highlights/coveney"},"url":"http://localhost:4000/science/highlights/coveney"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -361,28 +361,28 @@
         <ul>
           
             <li>
-              <!-- science/allocation-programs AND science/highlights/hovden -->
+              <!-- science/allocation-programs AND science/highlights/coveney -->
               
                 <a href="http://localhost:4000/science/allocation-programs">Allocation Programs</a>
               
             </li>
           
             <li>
-              <!-- science/highlights AND science/highlights/hovden -->
+              <!-- science/highlights AND science/highlights/coveney -->
               
                 <a class="current" href="http://localhost:4000/science/highlights">2022 Science Highlights</a>
               
             </li>
           
             <li>
-              <!-- science/projects AND science/highlights/hovden -->
+              <!-- science/projects AND science/highlights/coveney -->
               
                 <a href="http://localhost:4000/science/projects">Projects</a>
               
             </li>
           
             <li>
-              <!-- science/publications AND science/highlights/hovden -->
+              <!-- science/publications AND science/highlights/coveney -->
               
                 <a href="http://localhost:4000/science/publications">Publications</a>
               
@@ -428,7 +428,7 @@ available parameters:
   
 
   
-    / Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction
+    / COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2
   
 
 </div>
@@ -456,16 +456,16 @@ available parameters:
 <div class="cat">
 
 	<p>
-		<span class="cat--field">Materials Science</span> | 
+		<span class="cat--field">Biological Sciences</span> | 
 
 		
-			<span class="cat--sdl">&#xe905;&#xe903;<span class="inactive">&#xe904;</span></span> Simulation, Data
+			<span class="cat--sdl">&#xe905;&#xe903;&#xe904;</span> Simulation, Data, Learning
 		
 	</p>
 
 </div>
 
-	<h1 class="page-title">Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction</h1>
+	<h1 class="page-title">COMPBIO2: Combining Deep Learning with Physics-Based Affinity Estimation 2</h1>
 
 	<!-- 
 
@@ -497,13 +497,13 @@ available parameters:
 
 	<p class="meta--pair">
 		<span class="meta--name">PI</span>: 
-		<span class="meta--val">Robert Hovden, University of Michigan</span>
+		<span class="meta--val">Peter Coveney, University College London</span>
 	</p>
 	
 	
 		<p class="meta--pair">
 			<span class="meta--name">AWARD</span>: 
-			<span class="meta--val">ALCF Data Science Program</span>
+			<span class="meta--val">INCITE</span>
 		</p>
 	
 
@@ -540,14 +540,14 @@ available parameters:
 
 <div class="media-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/hovden.png"></div>
+		<div><img src="http://localhost:4000/assets/images/coveney.png"></div>
 	</div>
 
 	
 		<small class="caption">
-			a) As the tomographic experiment progresses, projections are collected across an angular range. Measured projections are fed into the dynamic CS algorithm for 3D reconstruction. b) As the amount of data increases, the root mean square error (RMSE) decreases. c) 2D slices of the 3D reconstruction at various time stamps.
+			An artistic representation of the IMPECCABLE workflow that constructively combines physics-based simulations and machine learning approaches to accelerate the process of compound screening in drug discovery.
 			
-				<span class="credit">Image: Jonathan Schwartz, University of Michigan</span>
+				<span class="credit">Image: Alex W. Wade, University College London</span>
 			
 		</small>
 	
@@ -570,25 +570,31 @@ available parameters:
 
 -->
 
-<p class="intro">Electron and x-ray tomography allow researchers to perform 3D characterization of materials at the nano- and mesoscale, generating data that is critical to the development of nanomaterials for a wide range of applications, including solar cells and semiconductor devices. With an ALCF Data Science Program (ADSP) award, a University of Michigan-led research team is leveraging recent advancements in tomographic reconstruction algorithms, such as compressed sensing methods, to enhance and accelerate materials characterization research.</p>
+<p class="intro">Machine learning and physics-based methods combined can dramatically accelerate the process of drug discovery. With this INCITE project, researchers are developing computational methods to overcome severe bottlenecks in the pharmaceutical industry’s current process and speed the search for drug candidates for SARS-CoV-2 and other viruses.</p>
 
-<h1 id="challenge">Challenge</h1>
 
-<p>Compressed sensing algorithms provide higher quality reconstructions, but they require substantially more computation time to complete, causing the rapidly expanding field of tomography to become critically bottlenecked by low throughput. To address these challenges and achieve real-time tomographic reconstruction using compressed sensing algorithms, the ADSP team has developed a dynamic framework that performs <em>in situ</em> reconstruction simultaneously with data collection.</p>
 
-<h1 id="approach">Approach</h1>
+# Challenge
 
-<p>With access to DOE supercomputing resources, the researchers are conducting comprehensive simulations for real-time electron tomography and developing reconstruction methods for through-focal tomography. The team is experimentally demonstrating their reconstruction workflow and methods on commercial scanning transmission electron microscopes and the ptychographic tomography instruments at Argonne’s Advanced Photon Source.</p>
+Drug discovery requires exploring a vast chemical space of potential ligands to test binding potency with target proteins. *In silico* (computer simulation) physics-based methods play a key role in computational drug discovery but there is a very high computational cost when using relative binding free energy (RBFE) methods based on classical molecular dynamics (MD) which can lead to insufficient sampling of the chemical space (i.e., looking at too small of a subset of possibilities). The other, less computationally expensive method of finding drug binding potency is through deep learning, which requires a huge amount of training data. This project combines both to overcome limitations of each method. 
 
-<h1 id="results">Results</h1>
 
-<p>A paper published in <em>npj Computational Materials</em> introduced fused multi-modal spectroscopy, a technique offering high signal-to-noise ratio (SNR) recovery of nanomaterial chemistry by linking correlated information encoded within detector signals. The team’s approach substantially improves SNRs for chemical maps by as much as 500 percent, reduces electron doses by an order of magnitude, and enables accurate measurement of local stoichiometry.</p>
 
-<p>A paper published in <em>Nature Communications</em> demonstrated real-time tomography with dynamic 3D tomographic visualization to enable rapid interpretation of specimen structure immediately as data are collected with an electron microscope. The authors showed volumetric interpretation can begin in less than 10 minutes and that a high-quality tomogram is available within 30 minutes. Real-time tomography is integrated into tomviz, an open-source and cross-platform 3D data analysis tool that contains intuitive graphical user interfaces (GUI), to enable any scientist to characterize biological and material structure in 3D.</p>
+# Approach
 
-<h1 id="impact">Impact</h1>
+This project combines deep learning with physics-based methods and employs a range of ensemble simulation-based methods. The most accurate among them is called Thermodynamic Integration with Enhanced Sampling (TIES) which performs an ensemble of MD simulations at each alchemical intermediate state and then integrates the ensemble averaged energy derivative to obtain RBFEs. The pipeline using AI and simulation to look for drug candidates for COVID-19 is known as IMPECCABLE (Integrated Modeling PipelinE for Covid Cure by Assessing Better Leads). ALCF staff worked with the team to build NAMD code and helped implement the sampling enhancement method REST2 on NAMD CUDA.
 
-<p>The team’s approach will help advance materials characterization research by enabling real-time analysis of 3D specimens while an experiment progresses. By integrating their framework with an open-source 3D visualization and tomography software package, the team’s techniques will be accessible to a wide range of researchers and enable new material characterizations across academia and industry</p>
+
+
+# Results
+
+The team was able to simulate many more ligand transformations with greater accuracy, reproducibility, and precision than general simulation methodology. With TIES, the team replicated MD simulations in each free energy window five times with a different initial velocity allowing for statistically meaningful results and complete control of errors based on direct ensemble averages. They computed a broad selection of over 500 ligand transformations involving over 300 ligands binding to 14 different protein targets across a wide range of protein classes and found excellent correlation between experimental and prediction results. The systematic and extensive analysis of these transformations over such a large dataset is unprecedented. 
+
+
+
+# Impact
+
+The team has demonstrated a method to overcome the limitations of physics-based drug simulations, allowing more accurate and reproducible results that can substantially reduce the time and cost of bringing new drugs to market. The team’s method will also enable researchers to assess the resistance of COVID-19 protein variants and their impact on existing drugs and vaccines.  
 
 	</div>
 
@@ -619,24 +625,36 @@ available parameters:
 		
 			<li>
 				
-					<a href="https://www.nature.com/articles/s41467-022-32046-0">
-						<span class="authors">Schwartz, J., C. Harris, J. Pietryga, H. Zheng, P. Kumar, A. Visheratina, N. A. Kotov, B. Major, P. Avery, P. Ercius, U. Ayachit, B. Geveci, D. A. Muller, A. Genova, Y. Jiang, M. Hanwell, and R. Hovden. </span>
-						<span class="title">&ldquo;Real-Time 3D Analysis during Electron Tomography Using Tomviz,&rdquo; </span>
-						<span class="source"><i>Nature Communications</i> </span>
-						<span class="date">(August 2022), </span>
-						<span class="publisher">Springer Nature.</span>
+					<a href="https://doi.org/10.1021/acs.jctc.1c01288">
+						<span class="authors">Bhati, A. P., and P. V. Coveney. </span>
+						<span class="title">&ldquo;Large Scale Study of Ligand-Protein Relative Binding Free Energy Calculations: Actionable Predictions from Statistically Robust Protocols,&rdquo; </span>
+						<span class="source"><i>Journal of Chemical Theory and Computation</i> </span>
+						<span class="date">(March 2022), </span>
+						<span class="publisher">ACS Publications.</span>
 					</a>
 				
 			</li>
 		
 			<li>
 				
-					<a href="https://www.nature.com/articles/s41524-021-00692-5">
-						<span class="authors">Schwartz, J., Z. W. Di, Y. Jiang, A. J. Fielitz, D.-H. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld, and R. Hovden. </span>
-						<span class="title">&ldquo;Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy,&rdquo; </span>
-						<span class="source"><i>npj Computational Materials</i> </span>
-						<span class="date">(January 2022), </span>
-						<span class="publisher">Springer Nature.</span>
+					<a href="https://doi.org/10.1021/acs.jctc.2c00114">
+						<span class="authors">Wade A., A. P. Bhati, S. Wan, and P. V. Coveney. </span>
+						<span class="title">&ldquo;Alchemical Free Energy Estimators and Molecular Dynamics Engines: Accuracy, Precision and Reproducibility,&rdquo; </span>
+						<span class="source"><i>Journal of Chemical Theory and Computation</i> </span>
+						<span class="date">(May 2022), </span>
+						<span class="publisher">ACS Publications.</span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					<a href="https://doi.org/10.1021/acs.jcim.2c00255">
+						<span class="authors">Wan, S., A. P. Bhati, D. Wright, I. Wall, A. Graves, D. Green, and P. V. Coveney. </span>
+						<span class="title">&ldquo;Ensemble Simulations and Experimental Free Energy Distributions: Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors,&rdquo; </span>
+						<span class="source"><i>Journal of Chemical Theory and Computation</i> </span>
+						<span class="date">(May 2022), </span>
+						<span class="publisher">ACS Publications.</span>
 					</a>
 				
 			</li>
