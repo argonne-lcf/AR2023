@@ -33,6 +33,8 @@ plugins:
 collections:
   highlights:
     output: true
+  performancehighlights:
+    output: true
 sass:
     sass_dir: _sass
     style: compressed
