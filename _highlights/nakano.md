@@ -3,7 +3,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/nakano'
 
 title: 'AI-Guided Exascale Simulations of Quantum Materials Manufacturing and Control'
 pi: 'Aiichiro Nakano, University of Southern California'
