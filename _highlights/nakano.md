@@ -1,4 +1,3 @@
-
 ---
 layout: highlight
 
@@ -9,7 +8,7 @@ title: 'AI-Guided Exascale Simulations of Quantum Materials Manufacturing and Co
 pi: 'Aiichiro Nakano, University of Southern California'
 award: 'INCITE'
 systems: 'Polaris'
-field: 'Materials Science'
+field: 'Materials Sciences'
 sdl: 's,l'
 
 image: 'nakano.png' 
