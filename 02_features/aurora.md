@@ -4,46 +4,48 @@ layout: page
 theme: dark
 permalink: features/aurora
 
-title: Aurora Takes Shape in the ALCF Data Center
+title: Standing Up Aurora
 hero-img-source: ALCF-Aurora1.jpg
 hero-img-caption: "Aurora is being installed in a new wing of the ALCF's data center."
-intro: "The ALCF has made some significant facility upgrades, including utility-scale electrical and mechanical work, to get ready for its next-generation supercomputer."
+intro: "The ALCF made significant progress in deploying its exascale supercomputer in 2023, completing the hardware installation, registering early performance numbers, and supporting early science teams’ initial runs on the system."
 ---
 
+In June 2023, the installation of Aurora’s 10,624th and final blade marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
 
-When it comes to new supercomputers, a machine’s computational horsepower often gets the most attention. And while the novel computing hardware that gives supercomputers their processing power is indeed an engineering marvel, so too is the infrastructure required to operate the massive, world-class systems.
+Built in partnership with Hewlett Packard Enterprise (HPE), Aurora is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
 
-At the U.S. Department of Energy’s (DOE) Argonne National Laboratory, work has been underway for the past several years to expand and upgrade the ALCF data center that will house the upcoming Aurora exascale supercomputer.
+As is the case with all DOE leadership supercomputers, Aurora is a first-of-its-kind system equipped with leading-edge technologies that are being deployed at an unprecedented scale. This presents unique challenges in launching leadership-class systems as various hardware and software issues only emerge when approaching full-scale operations. The Aurora team, which includes staff from Argonne, Intel and HPE, continues work to stabilize the supercomputer, which includes efforts such as optimizing the flow of data between network endpoints.
 
-Preparing for a new supercomputer requires years of planning, coordination, and collaboration. As Argonne’s largest and most powerful supercomputer to date, the lab has completed some substantial facility upgrades to get ready for the system, including adding new data center space, mechanical rooms, and equipment that significantly increase the building’s power and cooling capacity.
+# Early Performance Numbers
 
-Built by Intel and Hewlett Packard Enterprise (HPE), Aurora will be theoretically capable of delivering more than two exaflops of computing power, or more than 2 billion billion calculations per second, when it’s deployed for science. The new supercomputer will follow the ALCF’s previous and current systems – Intrepid, Mira, Theta, and Polaris – to deliver on the facility’s mission to provide leading-edge supercomputing resources that enable breakthroughs in science and engineering. Open to researchers from across the world, ALCF supercomputers are used to tackle a wide range of scientific problems including designing more efficient airplanes, investigating the mysteries of the cosmos, modeling the impacts of climate change, and accelerating the discovery of new materials.
+In November, Aurora demonstrated strong early performance numbers while still in the stabilization period, underscoring its immense potential for scientific computing. 
 
-# Aurora Hits the Floor
+At the SC23 conference, the supercomputer made its debut on the semi-annual TOP500 List with a partial system run. Using approximately half of the system’s nodes, Aurora achieved 585.34 petaflops, earning the #2 overall spot. In addition, Aurora’s storage system, DAOS, earned the top spot on the IO500 Production List, a semi-annual ranking of HPC storage performance. 
 
-Over the past year, the physical Aurora system has begun to take shape with the delivery and installation of its computer racks and several components, including a test and development platform named Sunspot, the HPE Slingshot interconnect technology, and the Intel DAOS (Distributed Asynchronous Object Storage) storage system. Occupying the space of two professional basketball courts, Aurora is made up of rows of supercomputer cabinets that stand over 8-feet tall. The cabinets are outfitted with more than 300 miles of networking cables, countless red and blue hoses that pipe water in and out to cool the system, and specialized piping and equipment that bring the water in from beneath the data center floor and the electrical power from the floor above.
+# Early Science Access
 
-The installation continues this fall with the phased delivery of Intel’s state-of-the-art Ponte Vecchio GPUs (graphics processing units) and Sapphire Rapids CPUs (central processing units). The system is slated to be completed next year with an upgrade to Sapphire Rapids CPUs with high-bandwidth memory.
-
-# Facility Upgrades
-
-While the supercomputer is nearing completion, the work to ready the Argonne site for Aurora has been years in the making. The process of deploying a new supercomputer begins with the major facility upgrades necessary to operate the system, including utility-scale electrical and mechanical work.
+In another significant milestone for the supercomputer, early science teams began using Aurora for the first time in 2023. Several teams from the ALCF’s Aurora Early Science Program (ESP) and DOE’s Exascale Computing Project (ECP) were able to transition their work from the Sunspot test and development system to Aurora to start scaling and optimizing their applications for the supercomputer’s initial science campaigns. Their work has included performing scientifically meaningful calculations across a wide range of research areas.
 
 {% include media-img.html
    source= "ALCF-Aurora2.jpg"
    caption= "The new mechanical room's pipes range from 4 inches to 30 inches in diameter, forming a complex loop that connects cooling towers, chillers, heat exchangers, a filtration system, and other components to cool Aurora."
 %}
 
-Because Aurora is a liquid-cooled system, Argonne had to upgrade its cooling capacity to pump 44,000 gallons of water through a complex loop of pipes that connects to cooling towers, chillers, heat exchangers, a filtration system, and other components. With pipes ranging from 4 inches to 30 inches in diameter, the cooling system ensures the water is at the perfect temperature, pressure, and purity levels as it passes through the Aurora hardware.
+The ECP and ESP teams’ initial runs on the Aurora GPUs have been promising compared to leading alternative GPUs. Some of the early application performance results include:
 
-The electrical room, which is located on the second floor above the data center, contains 14 substations that provide 60 megawatts of capacity to power Aurora, future Argonne computing systems, and the building’s day-to-day electricity needs. The room is outfitted with a large ceiling hatch so the substations can be lowered in (and out if needed) by construction cranes. 
+•	As part of the ECP ExaSMR (Exascale Small Modular Reactor) project, researchers achieved 30-70 percent performance improvements with NekRS, a GPU-oriented thermal-fluids simulation code, across a set of benchmark problems.
+•	Another ExaSMR code, OpenMC, which is used for neutron and photon transport simulations, showed a 205 percent performance advantage on the Intel GPUs.
+•	Supported by ESP and ECP projects, the Argonne-developed Hardware/Hybrid Accelerated Cosmology Code (HACC) has seen 2.6x speedups in early runs on the hardware.
+•	QMCPACK, a quantum Monte Carlo code used for electronic structure calculations, has shown a 50 percent improvement in runs thus far. QMCPACK’s exascale development is supported by both ESP and ECP.
+•	XGC, a fusion plasma simulation code that is also supported by ESP and ECP, has performed 60 percent faster using an initial test problem.
 
-Once the major facility upgrades were in place, the team moved on to data center enhancements. Focused on the machine room, this work included making sure power is delivered to the right locations at the right voltage, installing heavy-duty floor tiles to support the 600-ton supercomputer, and putting in pipes to link the water loop to Aurora.
+Once their applications have been fully scaled and optimized for Aurora, the ECP and ESP teams will use the machine to carry out innovative research campaigns involving simulation, artificial intelligence, and data-intensive workloads in areas ranging from fusion energy science and cosmology to cancer research and aircraft design. In addition to pursuing groundbreaking research, these early users help to further stress test the supercomputer and identify potential bugs that need to be resolved ahead of its deployment.
 
-While there are always challenges associated with construction work at this scale, many Aurora facility upgrades were carried out during the COVID-19 pandemic, creating some unforeseen issues related to contractor access and supply chain disruptions. Argonne and its partners put protocols in place to ensure they could continue to work safely and mitigate the impacts of COVID as much as possible. Due to the supply chain constraints causing various parts to be delayed, the Aurora team has been building the supercomputer piece by piece as components are delivered. Having a majority of the physical system and supporting infrastructure in place has allowed the Argonne-Intel-HPE team to test and fine-tune various components, such as DAOS and the cooling loop, ahead of the supercomputer’s deployment.
+In 2024, an additional 24 research teams will begin using Aurora to ready their codes for the system via allocation awards from DOE’s INCITE program. 
 
-# Science on Day One
+# ALCF-4: Planning for Argonne’s Next-Generation Exascale System
 
-In addition to the construction work, Argonne researchers are contributing to a broad range of activities to prepare Aurora for science on day one. To ensure key software is ready to run on the exascale system, scientists and developers participating in DOE’s Exascale Computing Project (ECP) and the ALCF’s Aurora Early Science Program (ESP) continue work to port and optimize dozens of scientific computing applications. With access to the Aurora software development kit and early hardware, the teams are working to improve the performance and functionality of various codes, frameworks, and libraries using the programming models that will be supported on Aurora. 
+Looking beyond Aurora, the facility also kicked off the ALCF-4 effort to prepare for its next-generation supercomputer. In March 2023, DOE approved Critical Decision-0 (CD-0), which is the first step in procuring a new system.  
 
-Training events, such as workshops, hackathons, and webinars, have been an important mechanism for providing guidance on application development and disseminating the latest details on hardware and software. In June, for example, the Argonne-Intel Center for Excellence hosted a multi-day workshop for ECP and ESP teams to provide updates on the system, share approaches and best practices for performance portability, and facilitate hands-on sessions with exascale software tools.
+Led by Jini Ramprakash, ALCF-4 Project Director, and Kevin Harms, ALCF-4 Technical Director, the team is targeting 2028-2029 for the acceptance and deployment of the facility’s next production supercomputer. The project’s goals include enabling a 5-10x improvement in application performance over Aurora; continuing to support traditional HPC workloads alongside AI and data-intensive computations; and investigating the potential to accelerate the deployment and realization of new technologies.
+
