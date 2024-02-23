@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/grover'
 
 title: 'First-Principles Simulation of Hypersonic Flight'
 pi: 'Maninder Grover, University of Dayton Research Institute'
