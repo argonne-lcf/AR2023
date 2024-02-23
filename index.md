@@ -14,9 +14,9 @@ aside: about-numbers.md
 		<div>
 			<!-- <img src="{{ site.url }}/assets/images/cover.png"> -->
 			<!-- poster="{{ site.url }}/assets/images/cover.png"  -->
-			<video autoplay loop>	
-				<source src="{{ site.url }}/assets/video/test.mp4" type="video/mp4">
-  				<!-- <source src="{{ site.url }}/assets/video/movie.webm" type="video/webm"> -->
+			<video autoplay loop>
+				<source src="{{ site.url }}/assets/video/bloodstream-web.webm" type="video/webm">	
+				<source src="{{ site.url }}/assets/video/bloodstream-web.mp4" type="video/mp4">
   				Your browser does not support the video tag.
 			</video>
 			<div class="home--hero-text">

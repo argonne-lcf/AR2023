@@ -31,7 +31,7 @@
 
 	.img-wrapper {
 		width: 100vw;
-		@include aspect-ratio(2, .75);
+		@include aspect-ratio(2, .85);
 	}
 
 	img {
