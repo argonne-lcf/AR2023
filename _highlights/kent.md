@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/kent'
 
 title: 'Towards DMC Accuracy Across Chemical Space with Scalable Δ-QML'
 pi: 'Paul Kent, Oak Ridge National Laboratory
