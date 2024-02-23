@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/coveney'
+permalink: 'science/highlights/tan'
 
 title: 'Multiphysics Modeling of Blood Flow with Cell Suspensions in Patient- Specific Capillary Network'
 pi: 'Jifu Tan, Northern Illinois University'
