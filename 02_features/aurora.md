@@ -33,11 +33,11 @@ In another significant milestone for the supercomputer, early science teams bega
 
 The ECP and ESP teams’ initial runs on the Aurora GPUs have been promising compared to leading alternative GPUs. Some of the early application performance results include:
 
-•	As part of the ECP ExaSMR (Exascale Small Modular Reactor) project, researchers achieved 30-70 percent performance improvements with NekRS, a GPU-oriented thermal-fluids simulation code, across a set of benchmark problems.
-•	Another ExaSMR code, OpenMC, which is used for neutron and photon transport simulations, showed a 205 percent performance advantage on the Intel GPUs.
-•	Supported by ESP and ECP projects, the Argonne-developed Hardware/Hybrid Accelerated Cosmology Code (HACC) has seen 2.6x speedups in early runs on the hardware.
-•	QMCPACK, a quantum Monte Carlo code used for electronic structure calculations, has shown a 50 percent improvement in runs thus far. QMCPACK’s exascale development is supported by both ESP and ECP.
-•	XGC, a fusion plasma simulation code that is also supported by ESP and ECP, has performed 60 percent faster using an initial test problem.
+-	As part of the ECP ExaSMR (Exascale Small Modular Reactor) project, researchers achieved 30-70 percent performance improvements with NekRS, a GPU-oriented thermal-fluids simulation code, across a set of benchmark problems.
+-	Another ExaSMR code, OpenMC, which is used for neutron and photon transport simulations, showed a 205 percent performance advantage on the Intel GPUs.
+-	Supported by ESP and ECP projects, the Argonne-developed Hardware/Hybrid Accelerated Cosmology Code (HACC) has seen 2.6x speedups in early runs on the hardware.
+-	QMCPACK, a quantum Monte Carlo code used for electronic structure calculations, has shown a 50 percent improvement in runs thus far. QMCPACK’s exascale development is supported by both ESP and ECP.
+-	XGC, a fusion plasma simulation code that is also supported by ESP and ECP, has performed 60 percent faster using an initial test problem.
 
 Once their applications have been fully scaled and optimized for Aurora, the ECP and ESP teams will use the machine to carry out innovative research campaigns involving simulation, artificial intelligence, and data-intensive workloads in areas ranging from fusion energy science and cosmology to cancer research and aircraft design. In addition to pursuing groundbreaking research, these early users help to further stress test the supercomputer and identify potential bugs that need to be resolved ahead of its deployment.
 
