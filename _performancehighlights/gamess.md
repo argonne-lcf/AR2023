@@ -1,7 +1,7 @@
 ---
 layout: highlight
 
-theme: white
+theme: dark
 permalink: 'features/aurora/gamess'
 
 title: '-'

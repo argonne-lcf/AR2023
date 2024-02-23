@@ -5,7 +5,11 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 {%- include head.html -%}
 
-  <body>
+  {% if page.theme %}
+    <body class="theme--{{ page.theme }}">
+  {% else %}
+    <body>
+  {% endif %}
 
     {%- include header.html -%}
     {%- include sidenav.html -%}

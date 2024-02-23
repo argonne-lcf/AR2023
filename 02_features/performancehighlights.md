@@ -4,7 +4,7 @@ layout: page
 title: 2023 Performance Highlights
 intro: "The quick brown fox jumps over the lazy dog"
 
-theme: white
+theme: dark
 permalink: features/performancehighlights
 ---
 
