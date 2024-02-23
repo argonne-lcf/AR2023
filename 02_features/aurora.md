@@ -26,11 +26,6 @@ At the SC23 conference, the supercomputer made its debut on the semi-annual TOP5
 
 In another significant milestone for the supercomputer, early science teams began using Aurora for the first time in 2023. Several teams from the ALCF’s Aurora Early Science Program (ESP) and DOE’s Exascale Computing Project (ECP) were able to transition their work from the Sunspot test and development system to Aurora to start scaling and optimizing their applications for the supercomputer’s initial science campaigns. Their work has included performing scientifically meaningful calculations across a wide range of research areas.
 
-{% include media-img.html
-   source= "ALCF-Aurora2.jpg"
-   caption= "The new mechanical room's pipes range from 4 inches to 30 inches in diameter, forming a complex loop that connects cooling towers, chillers, heat exchangers, a filtration system, and other components to cool Aurora."
-%}
-
 The ECP and ESP teams’ initial runs on the Aurora GPUs have been promising compared to leading alternative GPUs. Some of the early application performance results include:
 
 -	As part of the ECP ExaSMR (Exascale Small Modular Reactor) project, researchers achieved 30-70 percent performance improvements with NekRS, a GPU-oriented thermal-fluids simulation code, across a set of benchmark problems.
