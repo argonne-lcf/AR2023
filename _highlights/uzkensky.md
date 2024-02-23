@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/uzdensky'
 
 title: 'Electron Kinetic Plasma Physics of Black Hole Accretion Flows'
 pi: 'Dmitri Uzdensky, University of Colorado'
