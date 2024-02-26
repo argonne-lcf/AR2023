@@ -5,12 +5,17 @@ theme: dark
 permalink: features/aurora
 
 title: Standing Up Aurora
-hero-img-source: ALCF-Aurora1.jpg
-hero-img-caption: "Aurora is being installed in a new wing of the ALCF's data center."
+hero-img-source: Aurora-blade-33603D_0640.jpg
+hero-img-caption: "Susan Coghlan (center), ALCF Project Director for Aurora, discusses the system installation with colleagues from Intel."
 intro: "The ALCF made significant progress in deploying its exascale supercomputer in 2023, completing the hardware installation, registering early performance numbers, and supporting early science teams’ initial runs on the system."
 ---
 
 In June 2023, the installation of Aurora’s 10,624th and final blade marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
+
+{% include media-img.html
+   source= "Aurora-blade-33603D_2592.jpg"
+   caption= "The Aurora team uses a specialized machine to install the supercomputer's blades."
+%}
 
 Built in partnership with Hewlett Packard Enterprise (HPE), Aurora is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
 
@@ -21,6 +26,11 @@ As is the case with all DOE leadership supercomputers, Aurora is a first-of-its-
 In November, Aurora demonstrated strong early performance numbers while still in the stabilization period, underscoring its immense potential for scientific computing. 
 
 At the SC23 conference, the supercomputer made its debut on the semi-annual TOP500 List with a partial system run. Using approximately half of the system’s nodes, Aurora achieved 585.34 petaflops, earning the #2 overall spot. In addition, Aurora’s storage system, DAOS, earned the top spot on the IO500 Production List, a semi-annual ranking of HPC storage performance. 
+
+{% include media-img.html
+   source= "SC23-Aurora-talk.jpg"
+   caption= "ALCF's Kevin Harms discusses Aurora during a tech talk at Intel's booth at the SC23 conference."
+%}
 
 # Early Science Access
 
