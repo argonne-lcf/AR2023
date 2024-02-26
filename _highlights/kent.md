@@ -12,7 +12,7 @@ systems: 'Theta'
 field: 'Materials Science'
 sdl: 's,l'
 
-image: 'kent.png' 
+image: 'kent.jpeg' 
 image-caption: 'This figure shows the increase of accuracy as the size of the molecular fragment (amon) is increased to reach chemical accuracy.'
 image-credit: 'J. Chem. Theory Comput. 2023, 19, 6, 1711–1721'
 
