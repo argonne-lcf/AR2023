@@ -5,51 +5,57 @@ theme: white
 permalink: 'science/highlights/ma'
 
 title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
-pi: 'Ao Ma, University of Illinois Chicago'
+pi: 'Muhsin Ameen, Argonne National Laboratory
+Sicong Wu, Argonne National Laboratory'
 award: 'Director’s Discretionary'
 systems: 'Theta'
-field: 'Biological Sciences'
+field: 'Energy Technologies'
 sdl: 's'
 
 image: 'wu.png' 
-image-caption: 'Representative open structures from accelerated trajectories along the identified six reaction coordinates. The reference semi-open structure is colored white and atoms are colored green, red, and blue according to its weight in the reaction coordinates.'
-image-credit: 'Ao Ma, University of Illinois Chicago'
+image-caption: 'Instantaneous velocity magnitude in ARC-M1 combustor.'
+image-credit: 'Sicong Wu, Argonne National Laboratory'
 
 publications:
-  - authors: 'Wu, S., H. Li, and A. Ma'
-    title: 'Exact Reaction Coordinates for Flap Opening in HIV-1 Protease'
-    source: 'Journal of Chemical Theory and Computation'
-    date: 'December 2022'
-    publisher: 'PNAS'
-    url: 'https://doi.org/10.1073/pnas.2214906119'
+  - authors: 'Wu, S., D. Dasgupta, M. Ameen, and S. Patel'
+    title: 'LES Modeling of Gas Turbine Combustor Using Nek5000'
+    source: 'Bulletin of the American Physical Society'
+    date: 'November 2022'
+    publisher: 'APS'
+  - authors: 'Wu, S., D. Dasgupta, M. Ameen, and S. Patel'
+    title: 'High-Fidelity Simulations of Gas Turbine Combustor Using Spectral Element Method'
+    source: 'AIAA SCITECH 2023 Forum'
+    date: 'January 2023'
+    publisher: 'AIAA'
+    url: 'https://doi.org/10.2514/6.2023-1641'
     
     
 ---
 
 {% include txt-intro.html 
-    blurb = "Proteins play an essential role in nearly all biological processes. By investigating proteins and their functions, scientists are providing insights to drive drug development, further our understanding of disease mechanisms, and advance many other areas of biomedical research. With help from ALCF supercomputers, a team from University of Illinois Chicago (UIC) has made an important breakthrough in understanding how proteins function."
+    blurb = "With a push towards decarbonizing the aviation sector, sustainable aviation fuels (SAFs) have gained prominence as a potential replacement for fossil fuels. This project is developing the capabilities to perform fully-resolved simulations of modern gas turbine combustors to enable improved understanding of the multiphysics processes in the context of advancing the development of SAFs."
 %}
 
 
 
 # Challenge
 
-The primary goal of protein science is to understand how proteins function, which requires understanding the dynamics responsible for transitions between different functional structures of a protein. If the exact reaction coordinates (the small number of essential coordinates that control functional dynamics) were known, researchers could determine the transition rate for any protein configuration and thoroughly understand its mechanism. Despite intensive efforts, identifying the exact reaction coordinates in complex molecules remains a formidable challenge.
+To assess the viability of various SAFs, researchers must be able to understand and predict the complex flow, spray, and combustion processes taking place in the gas turbine combustors, and their influence on events such as lean blow out, high altitude relight and cold start, that affect the performance of gas turbines. With recent advances in numerical methods and the availability of HPC resources, computer simulations can provide unprecedented details of the underlying multiphysics processes, but they rely on the complex task of creating a detailed computational model of the gas turbine that is accurate and runs efficiently on modern computers.
 
 
 
 # Approach
 
-The UIC team employed their generalized work functional (GWF) method to study the flap opening process of HIV-1 protease, a complex protein and major drug target for combatting the HIV virus. GWF is a fundamental mechanical quantity rooted in Newton’s law. Using the transition path sampling method, the researchers leveraged the ALCF’s Theta supercomputer to generate 2,000 reactive trajectories that start from structures of HIV-1 protease with flaps in the semi-open state and end at structures with flaps in the open state. This data served as the input to the GWF method, which was used to pinpoint the exact reaction coordinates and determine the molecular mechanism of the flap opening process.
+The objective of this research is to develop capabilities to perform fully-resolved simulations of modern gas turbine combustors using Nek5000 to enable improved understanding of the multiphysics processes in the context of advancing the development of sustainable aviation fuels. Nek5000 is a high-order spectral element method (SEM) based code, developed at Argonne, targeted towards exascale systems. Proper orthogonal decomposition of the turbulent flow field were performed to investigate the dynamics of the large- and small-scale turbulence in the combustor. Finally, simulations with fuel injection were used to determine the effect of fuel spray on the turbulent flow structures.
 
 
 
 # Results
 
-As detailed in their paper in the _Proceedings of the National Academy of Sciences_, the team was able to identify the exact reaction coordinates for a major conformational change of a large functional protein for the first time. Their results show that the flap opening of HIV-1 protease has six reaction coordinates, providing the precise definition of collectivity and cooperativity in the functional dynamics of a protein. Success in determining the reaction coordinates enabled acceleration of this important process by 10<sup>3</sup> to 10<sup>4</sup> folds compared to regular molecular dynamics simulations. The team’s work demonstrates that the GWF method could potentially be applied to other problems in protein research, such as folding, entropic barriers, and reaction rates.
+In this project, the team performed the first-ever wall-resolved large eddy simulations of the turbulent flow and spray processes in the Army Research Laboratory’s ARC-M1 research combustor. The simulations were validated using particle image velocimetry measurements from a group at the University of Illinois at Urbana-Champaign, and showed good agreement. The simulations demonstrated the presence of large and small recirculation regions generated due to mixing between the different flow streams. The accurate prediction of these recirculation regions is key in predicting the flame anchoring and dynamics for reacting simulations.
 
 
 
 # Impact
 
-By successfully identifying the exact reaction coordinates for a complex protein for the first time, the team has made an important breakthrough toward understanding protein functional dynamics. Their work has far-reaching implications for both biomedical research and protein engineering, providing insights that are crucial for designing drugs, fighting drug resistance, and developing artificial enzymes that can complete desired functions.
+These high-fidelity simulations that leverage the DOE supercomputers can help researchers understand the combustion and heat transfer challenges introduced by using low-carbon sustainable aviation fuels. This project will help establish a high-fidelity, scalable, numerical framework that can be used for evaluating the effect of fuel properties on flow and flame dynamics in a practical gas turbine combustor.
