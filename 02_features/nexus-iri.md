@@ -4,7 +4,7 @@ layout: page
 theme: dark
 permalink: features/aurora-and-aps
 
-title: ALCF continues work to develop an integrated research infrastructure
+title: Developing an Integrated Research Infrastructure
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by seamlessly integrating supercomputing resources with large-scale experimental facilities."
 ---
