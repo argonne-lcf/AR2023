@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Biological Sciences'
 sdl: 's'
 
-image: 'ma.png' 
+image: 'ma.jpg' 
 image-caption: 'Representative open structures from accelerated trajectories along the identified six reaction coordinates. The reference semi-open structure is colored white and atoms are colored green, red, and blue according to its weight in the reaction coordinates.'
 image-credit: 'Ao Ma, University of Illinois Chicago'
 
