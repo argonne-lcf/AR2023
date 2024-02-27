@@ -16,6 +16,11 @@ The growing deluge of scientific data is not unique to light sources. Telescopes
 
 To help scientists manage the ever-increasing amount of scientific data, Argonne’s Nexus effort is playing a key role in supporting DOE’s vision to build an integrated research infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
 
+{% include media-img.html
+   source= "Nexus-Infographic.jpg"
+   caption= "Argonne's Nexus effort is working to advance data-intensive science via an integrated research infrastructure that connects experimental facilities, supercomputing resources and data technologies."
+%}
+
 For over a decade, the ALCF has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. Merging ALCF supercomputers with the APS has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from DIII-D National Fusion Facility in California to CERN’s Large Hadron Collider (LHC) in Switzerland.
 
 These collaborations have led to the creation of new capabilities for on-demand computing and managing complex workflows, giving the lab valuable experience to support the DOE IRI initiative. Argonne also operates several resources and services that are key to realizing the IRI vision.
@@ -30,11 +35,21 @@ These collaborations have led to the creation of new capabilities for on-demand 
 
 The IRI will not only enable experiments to analyze vast amounts of data, but it will also allow them to process large datasets quickly for rapid results. This is crucial as experiment-time analysis often plays a key role in shaping subsequent experiments.
 
+{% include media-img.html
+   source= "SC23-Nexus-talk.jpg"
+   caption= "Rachana Ananthakrishnan of Globus (left) and Tom Uram of Argonne (right) give a talk on Nexus at the DOE booth at the SC23 Conference."
+%}
+
 For the Argonne-DIII-D collaboration, researchers demonstrated how the close integration of ALCF supercomputers could benefit a fast-paced experimental setup. Their work centered on a fusion experiment that used a series of plasma pulses, or shots, to study the behavior of plasmas under controlled conditions. The shots were occurring every 20 minutes, but the data analysis required more than 20 minutes using their local computing resources, so the results were not available in time to inform the ensuing shot. DIII-D teamed up with the ALCF to explore how they could leverage supercomputers to speed up the analysis process. 
 
 To help DIII-D researchers obtain results on a between-pulse timescale, the ALCF team automated and shifted the analysis step to ALCF systems, which computed the analysis of every single pulse and returned the results to the research team in a fraction of the time required by the computing resources locally available at DIII-D. Not only did the DIII-D team get the results in time to calibrate the next shot, they also got 16x higher resolution analyses that helped improve the accuracy of their experimental configuration.
 
 Many APS experiments, including battery research, the exploration of materials failure and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
+
+{% include media-img.html
+   source= "Bragg-diffraction.jpg"
+   caption= "Scientific visualization of Bragg diffraction peaks in a 15x15 pixel patch of an undeformed bi-crystal gold sample. The height denotes photon counts. This data was acquired at the APS and processed on ALCF supercomputers."
+%}
 
 A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
 
@@ -48,6 +63,11 @@ To make things easy for the end users, the IRI will require implementing a unifo
 
 To that end, Argonne has developed and demonstrated methods for overcoming both the user account and job scheduling challenges. The co-location of the APS and the ALCF on the Argonne campus has offered an ideal environment for testing and demonstrating such capabilities. When the ALCF launched the Polaris supercomputer in 2022, four of the system’s racks were dedicated to advancing the integration efforts with experimental facilities.
 
+{% include media-img.html
+   source= "ALCF-Polaris.jpg"
+   caption= "The ALCF’s Polaris supercomputer is supporting research to advance the development of an integrated research infrastructure."
+%}
+
 In the case of user accounts, the existing process can get unwieldy for experiments involving several team members who need to use the computing facilities for data processing. Because many experiments have a team of people collecting data and running analysis jobs, it is important to devise a method that supports the experiment independent of who is operating the instruments on a particular day. In response to this challenge, the Argonne team has piloted the idea of employing “service accounts” that provide secure access to a particular experiment instead of requiring each team member to have an active account. 
 
 To address the job scheduling issue, the Argonne team has set aside a portion of Polaris nodes to run with “on-demand” and “preemptable” queues. This approach allows time-sensitive jobs to run on the dedicated nodes immediately. 
@@ -57,6 +77,11 @@ Using data collected during an APS experiment, the team was able to complete the
 # Bringing It All Together
 
 While Argonne and its fellow national labs have been working on projects to demonstrate the promise of an integrated research paradigm for the past several years, DOE’s Advanced Scientific Computing Research (ASCR) program made it a more formal initiative in 2020 with the creation of the IRI Task Force. Comprised of members from several national labs, including Argonne’s Corey Adams, Jini Ramprakash, Nicholas Schwarz, and Tom Uram, the task force identified the opportunities, risks and challenges posed by such an integration.
+
+{% include media-img.html
+   source= "IRI-blueprint-report.png"
+   caption= "DOE's IRI Architecture Blueprint Activity Report provides the conceptual foundations to move forward with coordinated DOE implementation efforts."
+%}
 
 ASCR recently launched the IRI Blueprint Activity to create a framework for implementing the IRI. The blueprint team, which included Ramprakash and Schwarz, released a report that describes a path forward from the lab’s individual partnerships and demonstrations to a broader long-term strategy that will work across the DOE ecosystem. Over the past year, the blueprint activities have started to formalize with the introduction of IRI testbed resources and environments. Now in place at each of the DOE computing facilities, the testbeds facilitate research to explore and refine IRI ideas in collaboration with teams from DOE experimental facilities.
 
