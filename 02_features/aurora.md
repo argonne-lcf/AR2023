@@ -15,6 +15,7 @@ In June 2023, the installation of Aurora’s 10,624th and final blade marked a m
 {% include media-img.html
    source= "Aurora-blade-33603D_2592.jpg"
    caption= "The Aurora team uses a specialized machine to install the supercomputer's blades."
+   credit= "Argonne National Laboratory"
 %}
 
 Built in partnership with Hewlett Packard Enterprise (HPE), Aurora is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
@@ -30,6 +31,7 @@ At the SC23 conference, the supercomputer made its debut on the semi-annual TOP5
 {% include media-img.html
    source= "SC23-Aurora-talk.jpg"
    caption= "ALCF's Kevin Harms discusses Aurora during a tech talk at Intel's booth at the SC23 conference."
+   credit= "Argonne National Laboratory"
 %}
 
 # Early Science Access
