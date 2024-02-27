@@ -6,7 +6,8 @@ permalink: features/aurora-and-aps
 
 title: Developing an Integrated Research Infrastructure
 hero-img-source: Aurora+APS.jpg
-hero-img-caption: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by seamlessly integrating supercomputing resources with large-scale experimental facilities."
+hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
+intro: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by seamlessly integrating supercomputing resources with large-scale experimental facilities."
 ---
 
 
@@ -19,6 +20,7 @@ To help scientists manage the ever-increasing amount of scientific data, Argonne
 {% include media-img.html
    source= "Nexus-Infographic.jpg"
    caption= "Argonne's Nexus effort is working to advance data-intensive science via an integrated research infrastructure that connects experimental facilities, supercomputing resources and data technologies."
+   credit= "Argonne National Laboratory"
 %}
 
 For over a decade, the ALCF has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. Merging ALCF supercomputers with the APS has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from DIII-D National Fusion Facility in California to CERN’s Large Hadron Collider (LHC) in Switzerland.
@@ -38,6 +40,7 @@ The IRI will not only enable experiments to analyze vast amounts of data, but it
 {% include media-img.html
    source= "SC23-Nexus-talk.jpg"
    caption= "Rachana Ananthakrishnan of Globus (left) and Tom Uram of Argonne (right) give a talk on Nexus at the DOE booth at the SC23 Conference."
+   credit= "Argonne National Laboratory"
 %}
 
 For the Argonne-DIII-D collaboration, researchers demonstrated how the close integration of ALCF supercomputers could benefit a fast-paced experimental setup. Their work centered on a fusion experiment that used a series of plasma pulses, or shots, to study the behavior of plasmas under controlled conditions. The shots were occurring every 20 minutes, but the data analysis required more than 20 minutes using their local computing resources, so the results were not available in time to inform the ensuing shot. DIII-D teamed up with the ALCF to explore how they could leverage supercomputers to speed up the analysis process. 
@@ -49,6 +52,7 @@ Many APS experiments, including battery research, the exploration of materials f
 {% include media-img.html
    source= "Bragg-diffraction.jpg"
    caption= "Scientific visualization of Bragg diffraction peaks in a 15x15 pixel patch of an undeformed bi-crystal gold sample. The height denotes photon counts. This data was acquired at the APS and processed on ALCF supercomputers."
+   credit= "ALCF Visualization and Data Analytics Team; Hemant Sharma, Argonne National Laboratory"
 %}
 
 A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
@@ -66,6 +70,7 @@ To that end, Argonne has developed and demonstrated methods for overcoming both 
 {% include media-img.html
    source= "ALCF-Polaris.jpg"
    caption= "The ALCF’s Polaris supercomputer is supporting research to advance the development of an integrated research infrastructure."
+   credit= "Argonne National Laboratory"
 %}
 
 In the case of user accounts, the existing process can get unwieldy for experiments involving several team members who need to use the computing facilities for data processing. Because many experiments have a team of people collecting data and running analysis jobs, it is important to devise a method that supports the experiment independent of who is operating the instruments on a particular day. In response to this challenge, the Argonne team has piloted the idea of employing “service accounts” that provide secure access to a particular experiment instead of requiring each team member to have an active account. 
