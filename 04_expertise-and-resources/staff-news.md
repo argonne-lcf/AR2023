@@ -5,8 +5,8 @@ theme: white
 permalink: expertise-and-resources/staff-news
 
 title: Staff News
-hero-img-source: "ALCF-GordonBell2.jpg"
-hero-img-caption: "ALCF staff members were part of the multi-institutional team recognized with the Gordon Bell Special Prize for HPC-Based COVID-19 Research at the SC22 conference."
+hero-img-source: "Papka-BOG-Award.jpg"
+hero-img-caption: "ALCF Director Michael Papka receives the Distinguished Performance Award at the Argonne Board of Governors Awards ceremony on September 19, 2023."
 ---
 
 
@@ -14,9 +14,19 @@ hero-img-caption: "ALCF staff members were part of the multi-institutional team 
 
 ALCF researchers authored a study that was recognized as the Most Outstanding Paper at the 2023 IWOCL & SYCLcon conference. Led by ALCF’s Thomas Applencourt, the team included ALCF colleagues Kevin Harms, Brice Videau, and Nevin Liber, as well as Bryce Allen of Argonne/University of Chicago, Amanda Dufek of NERSC, and Jefferson le Quellec and Aiden Belton-Schure of Codeplay. The team’s paper, “Standardizing complex numbers in SYCL,” provides an open-source library of complex numbers and associated math functions that can be used in computations carried out with SYCL, a key programming framework for next-generation supercomputers, including the ALCF’s Aurora exascale system. 
 
+{% include media-img.html
+   source= "ISAV2023-bestpaper_1600x900.jpg"
+   caption= "A team led by ALCF researchers received the Best Paper Award at the 2023 ISAV Workshop at SC23."
+%}
+
 # ALCF Team Receives Best Paper Award at ISAV 2023 Workshop
 
 An ALCF-led team was recognized with the Best Paper Award at the 2023 In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV) Workshop at the SC23 conference. Led by ALCF’s Victor Mateevitsi, the team included ALCF colleagues Joseph Insley, Michael Papka, Saumil Patel, and Silvio Rizzi; Nicola Ferrier, Paul Fischer, Yu-Hsiang Lan, and Misun Min of Argonne; and Mathis Bode, Jens Henrik Göbbert, and Jonathan Windgassen of the Jülich Supercomputing Centre (JSC) in Germany. Their paper, “Scaling Computational Fluid Dynamics: In Situ Visualization of NekRS using SENSEI,” detailed efforts to equip the NekRS computational fluid dynamics code with in situ analysis and visualization capabilities. 
+
+{% include media-img.html
+   source= "ISAV2023-bestpaper_1600x900.jpg"
+   caption= "An ALCF-led team was awarded first place at the 2023 SciVist Contest for their development of a multi-platform scientific visualization application called VisAnywhere."
+%}
 
 # ALCF Team Wins First Place and Best Workflow at 2023 IEEE SciVis Contest
 
@@ -25,6 +35,11 @@ An ALCF team won first place and best workflow at the Institute of Electrical an
 # ALCF-SWIFT Collaboration Recognized with Argonne Delivering Impact Award
 
 As part of Argonne National Laboratory's 2023 Commercialization Excellence Awards, ALCF researchers Venkatram Vishwanath, Michael Papka, William Allcock, and Filippo Simini were recognized with a Delivering Impact Award for their collaboration with SWIFT, a global provider of financial messaging services. The collaborative effort leveraged ALCF’s supercomputing and AI resources to explore SWIFT’s synthetic transactional data streams and identify patterns, including any anomalous activity. The pattern-detection methods developed by the ALCF team provided SWIFT with the capabilities to respond to anomalies more rapidly, thereby strengthening financial infrastructure.
+
+{% include media-img.html
+   source= "Balin-PostdocAward.jpg"
+   caption= "ALCF's Riccardo Balin (left) received a Postdoctoral Performance Award from Argonne Director Paul Kearns."
+%}
 
 # Balin Receives Argonne Postdoctoral Performance Award
 
