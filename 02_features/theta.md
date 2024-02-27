@@ -39,7 +39,7 @@ One of the pioneering machine learning projects was led by Jacqueline Cole of th
 {% include media-img.html
    source= "burrows.png"
    caption= "Researchers from Princeton University are using Polaris for large-scale 3D simulations aimed at advancing our understanding of supernova explosions."
-   credit= "ALCF Visualization and Data Analytics Team and Princeton University"
+   credit= "ALCF Visualization and Data Analytics Team; Princeton University"
 %}
 
 Simulating supernova explosions is another area of research that benefitted from Theta’s computational muscle. As part of a multi-year project, Adam Burrows of Princeton University used the supercomputer to advance the state of the art in performing supernova simulations in 3D. The team’s work on Theta has included carrying out one of the largest collections of 3D supernova simulations and the longest duration full-physics 3D supernova calculation ever performed. With Theta now retired, the Princeton team continues their work to carry out longer and more detailed 3D supernova simulations on Polaris and Aurora. 
