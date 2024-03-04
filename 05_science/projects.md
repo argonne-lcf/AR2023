@@ -8,7 +8,7 @@ permalink: science/projects
 ---
 
 
-# INCITE 2022
+# INCITE 2023
 
 
 
