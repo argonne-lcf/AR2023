@@ -112,54 +112,54 @@ HOURS: ALCF: 200,000 Node-Hours
 
 ## BIOLOGICAL SCIENCES
 
-### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-0)
+### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-1)
 PI: Jonathan Ozik, Argonne National Laboratory\
-HOURS: ALCF: 160,000 Node-Hours
+HOURS: ALCF: 160,000 Node-Hours, NERSC: 100,000 Node-Hours
+
+### [Scaling Genomic Variant Callers to Leadership-Class Systems: A Collaboration Between VA-MVP and DOE](https://www.alcf.anl.gov/science/projects/scaling-genomic-variant-callers-leadership-class-systems-collaboration-between-va)
+PI: Ravi Madduri, Argonne National Laboratory\
+HOURS: ALCF: 210,000 Node-Hours
 
 
 
 
 ## CHEMISTRY
 
-### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-0)
+### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-1)
 PI: Wei Jiang, Argonne National Laboratory\
-HOURS: ALCF: 1,032,000 Node-Hours
+HOURS: ALCF: 710,000 Node-Hours
 
-### [Multimodal Imaging with Intense X-ray Pulses](https://www.alcf.anl.gov/science/projects/multimodal-imaging-intense-x-ray-pulses)
-PI: Phay Ho, Argonne National Laboratory\
-HOURS: ALCF: 316,000 Node-Hours
-
-
-
-
-## EARTH SCIENCE
-
-### [Advancing Multi-Year to Decadal Climate Prediction with High-Resolution E3SM and CESM](https://www.alcf.anl.gov/science/projects/advancing-multi-year-decadal-climate-prediction-high-resolution-e3sm-and-cesm)
-PI: Ben Kirtman, University of Miami\
-HOURS: ALCF: 1,000,000 Node-Hours
-
-### [Improving the Representation of Mesoscale Convective Systems in Weather and Climate](https://www.alcf.anl.gov/science/projects/improving-representation-mesoscale-convective-systems-weather-and-climate)
-PI: Andreas Prein, National Center for Atmospheric Research\
-HOURS: ALCF: 372,000 Node-Hours
-
-### Multi-Decadal, Climate-Scale Convection-Resolving Simulations for North America
-PI: V. Rao Kotamarthi, Argonne National Laboratory\
-HOURS: ALCF: 300,000 Node-Hours
-
-### [Multi-Scale Multi-Physics Ensemble Simulations for Aerosol-Cloud Interactions](https://www.alcf.anl.gov/science/projects/multi-scale-multi-physics-ensemble-simulations-aerosol-cloud-interactions)
-PI: Po-Lun Ma, Pacific Northwest National Laboratory\
-HOURS: ALCF: 400,000 Node-Hours
+### [Relativistic Quantum Dynamics in the Non-Equilibrium Regime](https://www.alcf.anl.gov/science/projects/relativistic-quantum-dynamics-non-equilibrium-regime)
+PI: Eugene DePrince, Florida State University\
+HOURS: ALCF: 700,000 Node-Hours
 
 
 
 
 ## ENERGY TECHNOLOGIES
 
-### [Cavitation Dynamics in the Spallation Neutron Source Target](https://www.alcf.anl.gov/science/projects/cavitation-dynamics-spallation-neutron-source-target)
-PI: Eric Johnsen, University of Michigan\
-HOURS: ALCF: 108,000 Node-Hours, OLCF: 4,000 Node-Hours
+### [Accelerating Deployment of Next-Generation Nuclear Power Using High-Fidelity CFD](https://www.alcf.anl.gov/science/projects/accelerating-deployment-next-generation-nuclear-power-using-high-fidelity-cfd)
+PI: Dillon Shaver, Argonne National Laboratory\
+HOURS: ALCF: 500,000 Node-Hours
 
-### [High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-supporting-needs-industry-and-doe)
+### [High Energy Density Physics of Inertial Confinement Fusion Ablator Materials](https://www.alcf.anl.gov/science/projects/high-energy-density-physics-inertial-confinement-fusion-ablator-materials)
+PI: Ivan Oleynik , University of South Florida\
+HOURS: ALCF: 500,000 Node-Hours, OLCF: 1,500,000 Node-Hours
+
+### [Large Eddy Simulation on Flow and Heat Transfer Behavior in Involute Plate Research Reactor Supporting the Needs of the Materials Management and Minimization (M3) Reactor Conversion Program](https://www.alcf.anl.gov/science/projects/large-eddy-simulation-flow-and-heat-transfer-behavior-involute-plate-research)
+PI: Yiqi Yu, Argonne National Laboratory\
+HOURS: ALCF: 510,000 Node-Hours
+
+
+
+
+## ENGINEERING
+
+### [Two-Phase Flow Interface Capturing Simulations](https://www.alcf.anl.gov/science/projects/two-phase-flow-interface-capturing-simulations)
+PI: Igor Bolotnov, North Carolina State University\
+HOURS: ALCF: 200,000 Node-Hours, NERSC: 300,000 Node-Hours
+
+### [PICK UP HEREHigh-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-supporting-needs-industry-and-doe)
 PI: Dillon Shaver, Argonne National Laboratory\
 HOURS: ALCF: 550,000 Node-Hours, OLCF: 80,000 Node-Hours
 
