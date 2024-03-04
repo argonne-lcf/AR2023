@@ -108,6 +108,117 @@ HOURS: ALCF: 200,000 Node-Hours
 
 
 
+# ALCC 2021–2022
+
+## BIOLOGICAL SCIENCES
+
+### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-0)
+PI: Jonathan Ozik, Argonne National Laboratory\
+HOURS: ALCF: 160,000 Node-Hours
+
+
+
+
+## CHEMISTRY
+
+### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-0)
+PI: Wei Jiang, Argonne National Laboratory\
+HOURS: ALCF: 1,032,000 Node-Hours
+
+### [Multimodal Imaging with Intense X-ray Pulses](https://www.alcf.anl.gov/science/projects/multimodal-imaging-intense-x-ray-pulses)
+PI: Phay Ho, Argonne National Laboratory\
+HOURS: ALCF: 316,000 Node-Hours
+
+
+
+
+## EARTH SCIENCE
+
+### [Advancing Multi-Year to Decadal Climate Prediction with High-Resolution E3SM and CESM](https://www.alcf.anl.gov/science/projects/advancing-multi-year-decadal-climate-prediction-high-resolution-e3sm-and-cesm)
+PI: Ben Kirtman, University of Miami\
+HOURS: ALCF: 1,000,000 Node-Hours
+
+### [Improving the Representation of Mesoscale Convective Systems in Weather and Climate](https://www.alcf.anl.gov/science/projects/improving-representation-mesoscale-convective-systems-weather-and-climate)
+PI: Andreas Prein, National Center for Atmospheric Research\
+HOURS: ALCF: 372,000 Node-Hours
+
+### Multi-Decadal, Climate-Scale Convection-Resolving Simulations for North America
+PI: V. Rao Kotamarthi, Argonne National Laboratory\
+HOURS: ALCF: 300,000 Node-Hours
+
+### [Multi-Scale Multi-Physics Ensemble Simulations for Aerosol-Cloud Interactions](https://www.alcf.anl.gov/science/projects/multi-scale-multi-physics-ensemble-simulations-aerosol-cloud-interactions)
+PI: Po-Lun Ma, Pacific Northwest National Laboratory\
+HOURS: ALCF: 400,000 Node-Hours
+
+
+
+
+## ENERGY TECHNOLOGIES
+
+### [Cavitation Dynamics in the Spallation Neutron Source Target](https://www.alcf.anl.gov/science/projects/cavitation-dynamics-spallation-neutron-source-target)
+PI: Eric Johnsen, University of Michigan\
+HOURS: ALCF: 108,000 Node-Hours, OLCF: 4,000 Node-Hours
+
+### [High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-supporting-needs-industry-and-doe)
+PI: Dillon Shaver, Argonne National Laboratory\
+HOURS: ALCF: 550,000 Node-Hours, OLCF: 80,000 Node-Hours
+
+### [High-Fidelity Physics Simulations for DOE and Industry Fast Spectrum Nuclear Reactor Systems](https://www.alcf.anl.gov/science/projects/high-fidelity-physics-simulations-doe-and-industry-fast-spectrum-nuclear-reactor)
+PI: Emily Shemon, Argonne National Laboratory\
+HOURS: ALCF: 880,000 Node-Hours
+
+### [High-Fidelity Simulation of Flow and Heat Transfer Behavior to Support Conversion of Research Reactors with Involute Shaped Fuel Elements to Low Enriched Uranium](https://www.alcf.anl.gov/science/projects/high-fidelity-simulation-flow-and-heat-transfer-behavior-support-conversion)
+PI: Yiqi Yu, Argonne National Laboratory\
+HOURS: ALCF: 500,000 Node-Hours
+
+
+
+
+## ENGINEERING
+
+### [Multiscale Bubble Breakup and Gas Transfer in Turbulent Oceanic Environments](https://www.alcf.anl.gov/science/projects/multiscale-bubble-breakup-and-gas-transfer-turbulent-oceanic-environments)
+PI: Parviz Moin, Stanford University\
+HOURS: ALCF: 650,000 Node-Hours, NERSC: 500,000 Node-Hours
+
+
+
+
+## MATERIALS SCIENCE
+
+### [Inverse Design of Multicomponent Oxide Catalysts with Generative Models and DFT](https://www.alcf.anl.gov/science/projects/inverse-design-multicomponent-oxide-catalysts-generative-models-and-dft)
+PI: Rafael Gomez-Bombarelli, Massachusetts Institute of Technology\
+HOURS: ALCF: 400,000 Node-Hours, OLCF: 50,000 Node-Hours, NERSC: 200,000 Node-Hours
+
+### [Modeling of Polymeric Materials for Energy Storage Across Scales](https://www.alcf.anl.gov/science/projects/modeling-polymeric-materials-energy-storage-across-scales)
+PI: Juan de Pablo, University of Chicago\
+HOURS: ALCF: 100,000 Node-Hours
+
+### [Response Functions of LaNiO2: Insights into High-Temperature Superconductivity](https://www.alcf.anl.gov/science/projects/response-functions-lanio2-insights-high-temperature-superconductivity)
+PI: Gabriel Kotliar, Rutgers University\
+HOURS: ALCF: 115,000 Node-Hours
+
+
+
+
+## PHYSICS
+
+### [AI/Deep Learning Prediction & Real-Time Control for Fusion Energy Systems](https://www.alcf.anl.gov/science/projects/aideep-learning-prediction-real-time-control-fusion-energy-systems)
+PI: William Tang, Princeton University\
+HOURS: ALCF: 45,000 Node-Hours
+
+### [LBNF - PIP-II Optimization Studies for Megawatt 120-GeV Beams on Target](https://www.alcf.anl.gov/science/projects/lbnf-pip-ii-optimization-studies-megawatt-120-gev-beams-target)
+PI: Igor Rakhno, Fermi National Accelerator Laboratory\
+HOURS: ALCF: 450,000 Node-Hours
+
+### [Quantum Monte Carlo Calculations of Nuclei Up to <sup>16</sup>O and Neutron Matter](https://www.alcf.anl.gov/science/projects/quantum-monte-carlo-calculations-nuclei-16o-and-neutron-matter)
+PI: Alessandro Lovato, Argonne National Laboratory\
+HOURS: ALCF: 632,000 Node-Hours
+
+
+
+
+
+
 # ALCC 2022–2023
 
 ## BIOLOGICAL SCIENCES
@@ -216,111 +327,7 @@ HOURS: ALCF: 300,000 Node-Hours
 
 
 
-# ALCC 2021–2022
 
-## BIOLOGICAL SCIENCES
-
-### [Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies](https://www.alcf.anl.gov/science/projects/probabilistic-comparative-modeling-colorectal-cancer-screening-strategies-0)
-PI: Jonathan Ozik, Argonne National Laboratory\
-HOURS: ALCF: 160,000 Node-Hours
-
-
-
-
-## CHEMISTRY
-
-### [Microscopic Insight Into Transport Properties of Li-Battery Electrolytes](https://www.alcf.anl.gov/science/projects/microscopic-insight-transport-properties-li-battery-electrolytes-0)
-PI: Wei Jiang, Argonne National Laboratory\
-HOURS: ALCF: 1,032,000 Node-Hours
-
-### [Multimodal Imaging with Intense X-ray Pulses](https://www.alcf.anl.gov/science/projects/multimodal-imaging-intense-x-ray-pulses)
-PI: Phay Ho, Argonne National Laboratory\
-HOURS: ALCF: 316,000 Node-Hours
-
-
-
-
-## EARTH SCIENCE
-
-### [Advancing Multi-Year to Decadal Climate Prediction with High-Resolution E3SM and CESM](https://www.alcf.anl.gov/science/projects/advancing-multi-year-decadal-climate-prediction-high-resolution-e3sm-and-cesm)
-PI: Ben Kirtman, University of Miami\
-HOURS: ALCF: 1,000,000 Node-Hours
-
-### [Improving the Representation of Mesoscale Convective Systems in Weather and Climate](https://www.alcf.anl.gov/science/projects/improving-representation-mesoscale-convective-systems-weather-and-climate)
-PI: Andreas Prein, National Center for Atmospheric Research\
-HOURS: ALCF: 372,000 Node-Hours
-
-### Multi-Decadal, Climate-Scale Convection-Resolving Simulations for North America
-PI: V. Rao Kotamarthi, Argonne National Laboratory\
-HOURS: ALCF: 300,000 Node-Hours
-
-### [Multi-Scale Multi-Physics Ensemble Simulations for Aerosol-Cloud Interactions](https://www.alcf.anl.gov/science/projects/multi-scale-multi-physics-ensemble-simulations-aerosol-cloud-interactions)
-PI: Po-Lun Ma, Pacific Northwest National Laboratory\
-HOURS: ALCF: 400,000 Node-Hours
-
-
-
-
-## ENERGY TECHNOLOGIES
-
-### [Cavitation Dynamics in the Spallation Neutron Source Target](https://www.alcf.anl.gov/science/projects/cavitation-dynamics-spallation-neutron-source-target)
-PI: Eric Johnsen, University of Michigan\
-HOURS: ALCF: 108,000 Node-Hours, OLCF: 4,000 Node-Hours
-
-### [High-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-supporting-needs-industry-and-doe)
-PI: Dillon Shaver, Argonne National Laboratory\
-HOURS: ALCF: 550,000 Node-Hours, OLCF: 80,000 Node-Hours
-
-### [High-Fidelity Physics Simulations for DOE and Industry Fast Spectrum Nuclear Reactor Systems](https://www.alcf.anl.gov/science/projects/high-fidelity-physics-simulations-doe-and-industry-fast-spectrum-nuclear-reactor)
-PI: Emily Shemon, Argonne National Laboratory\
-HOURS: ALCF: 880,000 Node-Hours
-
-### [High-Fidelity Simulation of Flow and Heat Transfer Behavior to Support Conversion of Research Reactors with Involute Shaped Fuel Elements to Low Enriched Uranium](https://www.alcf.anl.gov/science/projects/high-fidelity-simulation-flow-and-heat-transfer-behavior-support-conversion)
-PI: Yiqi Yu, Argonne National Laboratory\
-HOURS: ALCF: 500,000 Node-Hours
-
-
-
-
-## ENGINEERING
-
-### [Multiscale Bubble Breakup and Gas Transfer in Turbulent Oceanic Environments](https://www.alcf.anl.gov/science/projects/multiscale-bubble-breakup-and-gas-transfer-turbulent-oceanic-environments)
-PI: Parviz Moin, Stanford University\
-HOURS: ALCF: 650,000 Node-Hours, NERSC: 500,000 Node-Hours
-
-
-
-
-## MATERIALS SCIENCE
-
-### [Inverse Design of Multicomponent Oxide Catalysts with Generative Models and DFT](https://www.alcf.anl.gov/science/projects/inverse-design-multicomponent-oxide-catalysts-generative-models-and-dft)
-PI: Rafael Gomez-Bombarelli, Massachusetts Institute of Technology\
-HOURS: ALCF: 400,000 Node-Hours, OLCF: 50,000 Node-Hours, NERSC: 200,000 Node-Hours
-
-### [Modeling of Polymeric Materials for Energy Storage Across Scales](https://www.alcf.anl.gov/science/projects/modeling-polymeric-materials-energy-storage-across-scales)
-PI: Juan de Pablo, University of Chicago\
-HOURS: ALCF: 100,000 Node-Hours
-
-### [Response Functions of LaNiO2: Insights into High-Temperature Superconductivity](https://www.alcf.anl.gov/science/projects/response-functions-lanio2-insights-high-temperature-superconductivity)
-PI: Gabriel Kotliar, Rutgers University\
-HOURS: ALCF: 115,000 Node-Hours
-
-
-
-
-## PHYSICS
-
-### [AI/Deep Learning Prediction & Real-Time Control for Fusion Energy Systems](https://www.alcf.anl.gov/science/projects/aideep-learning-prediction-real-time-control-fusion-energy-systems)
-PI: William Tang, Princeton University\
-HOURS: ALCF: 45,000 Node-Hours
-
-### [LBNF - PIP-II Optimization Studies for Megawatt 120-GeV Beams on Target](https://www.alcf.anl.gov/science/projects/lbnf-pip-ii-optimization-studies-megawatt-120-gev-beams-target)
-PI: Igor Rakhno, Fermi National Accelerator Laboratory\
-HOURS: ALCF: 450,000 Node-Hours
-
-### [Quantum Monte Carlo Calculations of Nuclei Up to <sup>16</sup>O and Neutron Matter](https://www.alcf.anl.gov/science/projects/quantum-monte-carlo-calculations-nuclei-16o-and-neutron-matter)
-PI: Alessandro Lovato, Argonne National Laboratory\
-HOURS: ALCF: 632,000 Node-Hours
 
 
 
