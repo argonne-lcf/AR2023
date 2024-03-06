@@ -4,11 +4,11 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/cosmictagger'
 
-title: '-'
+title: 'CosmicTagger'
 pi: '-'
 award: '-'
 systems: '-'
-sdl: '-'
+sdl: 'l'
 
 image: '-' 
 image-caption: '-'
@@ -31,9 +31,7 @@ The quick brown fox jumps over the lazy dog.
 
 
 # Performance Results
-
-The quick brown fox jumps over the lazy dog.
-
+Running the code on 512 nodes of Aurora achieved 83 percent scaling efficiency per node, using PyTorch and the distributed deep learning training framework Horovod. Running on Sunspot CosmicTagger achieved node throughput of 280 samples per second, a more than fivefold increase over other systems' throughput.
 
 
 # Impact
