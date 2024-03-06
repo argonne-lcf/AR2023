@@ -4,10 +4,9 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/xgc'
 
-title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
-pi: 'Ao Ma, University of Illinois Chicago'
-award: 'Director’s Discretionary'
-systems: 'Theta'
+title: 'XGC'
+pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
+award: 'Aurora Early Science Program and Exascale Computing Project'
 sdl: 's'
 
 image: 'ma.png' 
@@ -17,7 +16,7 @@ image-credit: 'Ao Ma, University of Illinois Chicago'
 ---
 
 {% include txt-intro.html 
-    blurb = "Proteins play an essential role in nearly all biological processes. By investigating proteins and their functions, scientists are providing insights to drive drug development, further our understanding of disease mechanisms, and advance many other areas of biomedical research. With help from ALCF supercomputers, a team from University of Illinois Chicago (UIC) has made an important breakthrough in understanding how proteins function."
+    blurb = "Developed in tandem with the ECP-supported Whole Device Model Application project—which aims to build a high-fidelity model of magnetically confined fusion plasmas to plan experiments with ITER—XGC is a gyrokinetic particle-in-cell code (with an unstructured 2D grid and structured toroidal grid) used to perform large-scale simulations on DOE supercomputers, and optimized for treating edge plasma."
 %}
 
 
@@ -26,19 +25,13 @@ image-credit: 'Ao Ma, University of Illinois Chicago'
 
 Specializing in edge physics and realistic geometry, XGC is capable of solving boundary multiscale plasma problems across the magnetic separatrix (that is, the boundary between the magnetically confined and unconfined plasmas) and in contact with material wall called divertor, using first-principles-based kinetic equations.
 
-To prepare for the next generation of high-performance computing, the code is being re-implemented for exascale using a performance-portable approach. Running at exascale will yield unique computational capabilities, some of which carry the potential for transformational impacts
-on fusion science: exascale expansion will make it possible to study, for instance, a larger and more realistic range
-of dimensionless plasma parameters than has ever been achieved, along with the energy-angle distribution of plasma particles impinging upon the material wall and the full spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma. Further, exascale will enable physics modeling that incorporates multiple-charge tungsten ion species — impurities discharged from the tokamak vessel walls that impact edge-plasma behavior and fusion performance in the core-plasma through migration across the magnetic separatrix. Toward this end, XGC will support a wide array of additional features and modes, including delta-f and full-f, electrostatic and electromagnetic, axisymmetric, neutral particles with atomic cross-sections, atomic number transitions among different impurity states, and coupling physics in constant development.
-
-
+To prepare for the next generation of high-performance computing, the code is being re-implemented for exascale using a performance-portable approach. Running at exascale will yield unique computational capabilities, some of which carry the potential for transformational impacts on fusion science: exascale expansion will make it possible to study, for instance, a larger and more realistic range of dimensionless plasma parameters than has ever been achieved, along with the energy-angle distribution of plasma particles impinging upon the material wall and the full spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma. Further, exascale will enable physics modeling that incorporates multiple-charge tungsten ion species — impurities discharged from the tokamak vessel walls that impact edge-plasma behavior and fusion performance in the core-plasma through migration across the magnetic separatrix. Toward this end, XGC will support a wide array of additional features and modes, including delta-f and full-f, electrostatic and electromagnetic, axisymmetric, neutral particles with atomic cross-sections, atomic number transitions among different impurity states, and coupling physics in constant development.
 
 
 
 # Performance Results
 
-Optimization for exascale has required both GPU offloading and algorithmic flexibility. Performance on the Aurora testbed, Sunspot, has yielded scaling performance comparable to that of GPU systems such as Polaris. Single-GPU performance on Aurora shows improvements by as much as 46 percent.
-
-
+Optimization for exascale has required both GPU offloading and algorithmic flexibility. XGC uses the Kokkos programming model as its portability layer, with different backends. Researchers evaluated system performance with a gyrokinetic particle-in-cell simulation using C++. Performance on the Aurora testbed, Sunspot, yielded scaling performance comparable to that of GPU systems such as Polaris, while single-GPU performance was as much as 46 percent greater than with other systems.
 
 # Impact
 
