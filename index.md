@@ -55,7 +55,7 @@ aside: about-numbers.md
 			  <div class="teaser">
 			    <a href="/{{ entry.url }}">
 			    	<div class="image-wrapper">
-			    		<div><img src="/assets/images/{{ feature[0].hero-img-source }}"></div>
+			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">

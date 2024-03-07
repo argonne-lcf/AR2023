@@ -11,7 +11,7 @@
 	figure-2 = "417"
 	label-2 = "Active projects"
 	note-2 = "Data from fiscal year 2023"
-	figure-3 = "TBD"
+	figure-3 = "192"
 	label-3 = "Publications"	
 %}
 
