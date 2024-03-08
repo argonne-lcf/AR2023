@@ -108,7 +108,7 @@ HOURS: ALCF: 200,000 Node-Hours
 
 
 
-# ALCC 2021–2022
+# ALCC 2023–2024
 
 ## BIOLOGICAL SCIENCES
 
@@ -159,60 +159,43 @@ HOURS: ALCF: 510,000 Node-Hours
 PI: Igor Bolotnov, North Carolina State University\
 HOURS: ALCF: 200,000 Node-Hours, NERSC: 300,000 Node-Hours
 
-### [PICK UP HEREHigh-Fidelity CFD Simulations Supporting the Needs of Industry and the DOE](https://www.alcf.anl.gov/science/projects/high-fidelity-cfd-simulations-supporting-needs-industry-and-doe)
-PI: Dillon Shaver, Argonne National Laboratory\
-HOURS: ALCF: 550,000 Node-Hours, OLCF: 80,000 Node-Hours
-
-### [High-Fidelity Physics Simulations for DOE and Industry Fast Spectrum Nuclear Reactor Systems](https://www.alcf.anl.gov/science/projects/high-fidelity-physics-simulations-doe-and-industry-fast-spectrum-nuclear-reactor)
-PI: Emily Shemon, Argonne National Laboratory\
-HOURS: ALCF: 880,000 Node-Hours
-
-### [High-Fidelity Simulation of Flow and Heat Transfer Behavior to Support Conversion of Research Reactors with Involute Shaped Fuel Elements to Low Enriched Uranium](https://www.alcf.anl.gov/science/projects/high-fidelity-simulation-flow-and-heat-transfer-behavior-support-conversion)
-PI: Yiqi Yu, Argonne National Laboratory\
-HOURS: ALCF: 500,000 Node-Hours
-
-
-
-
-## ENGINEERING
-
-### [Multiscale Bubble Breakup and Gas Transfer in Turbulent Oceanic Environments](https://www.alcf.anl.gov/science/projects/multiscale-bubble-breakup-and-gas-transfer-turbulent-oceanic-environments)
-PI: Parviz Moin, Stanford University\
-HOURS: ALCF: 650,000 Node-Hours, NERSC: 500,000 Node-Hours
-
 
 
 
 ## MATERIALS SCIENCE
 
-### [Inverse Design of Multicomponent Oxide Catalysts with Generative Models and DFT](https://www.alcf.anl.gov/science/projects/inverse-design-multicomponent-oxide-catalysts-generative-models-and-dft)
-PI: Rafael Gomez-Bombarelli, Massachusetts Institute of Technology\
-HOURS: ALCF: 400,000 Node-Hours, OLCF: 50,000 Node-Hours, NERSC: 200,000 Node-Hours
-
-### [Modeling of Polymeric Materials for Energy Storage Across Scales](https://www.alcf.anl.gov/science/projects/modeling-polymeric-materials-energy-storage-across-scales)
-PI: Juan de Pablo, University of Chicago\
+### [Computational Design of Novel Semiconductors for Power and Energy Applications](https://www.alcf.anl.gov/science/projects/computational-design-novel-semiconductors-power-and-energy-applications)
+PI: Feliciano Giustino , The University of Texas at Austin\
 HOURS: ALCF: 100,000 Node-Hours
 
-### [Response Functions of LaNiO2: Insights into High-Temperature Superconductivity](https://www.alcf.anl.gov/science/projects/response-functions-lanio2-insights-high-temperature-superconductivity)
-PI: Gabriel Kotliar, Rutgers University\
-HOURS: ALCF: 115,000 Node-Hours
+### [Large Scale Simulations of Materials for Quantum Information Science](https://www.alcf.anl.gov/science/projects/large-scale-simulations-materials-quantum-information-science)
+PI: Giulia Galli , University of Chicago\
+HOURS: ALCF: 600,000 Node-Hours, NERSC: 400,000 Node-Hours
+
+### [Quantum Accurate Large-Scale Atomistic Simulations of Advanced Fusion Reactor Materials](https://www.alcf.anl.gov/science/projects/quantum-accurate-large-scale-atomistic-simulations-advanced-fusion-reactor)
+PI: Aidan Thompson, Sandia National Laboratories\
+HOURS: ALCF: 850,000 Node-Hours, OLCF: 500,000 Node-Hours, NERSC: 250,000 Node-Hours
 
 
 
 
 ## PHYSICS
 
-### [AI/Deep Learning Prediction & Real-Time Control for Fusion Energy Systems](https://www.alcf.anl.gov/science/projects/aideep-learning-prediction-real-time-control-fusion-energy-systems)
-PI: William Tang, Princeton University\
-HOURS: ALCF: 45,000 Node-Hours
+### [Continuum Limit Latice Calculation of Direct CP-violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
+PI: Christopher Kelly , Brookhaven National Laboratory\
+HOURS: ALCF: 135,000 Node-Hours
 
-### [LBNF - PIP-II Optimization Studies for Megawatt 120-GeV Beams on Target](https://www.alcf.anl.gov/science/projects/lbnf-pip-ii-optimization-studies-megawatt-120-gev-beams-target)
-PI: Igor Rakhno, Fermi National Accelerator Laboratory\
-HOURS: ALCF: 450,000 Node-Hours
+### [Energy Partition and Particle Acceleration in Laser-Driven Laboratory Magnetized Shocks](https://www.alcf.anl.gov/science/projects/energy-partition-and-particle-acceleration-laser-driven-laboratory-magnetized)
+PI: Frederico Fiuza, SLAC National Accelerator Laboratory\
+HOURS: ALCF: 300,000 Node-Hours, NERSC: 150,000 Node-Hours
 
-### [Quantum Monte Carlo Calculations of Nuclei Up to <sup>16</sup>O and Neutron Matter](https://www.alcf.anl.gov/science/projects/quantum-monte-carlo-calculations-nuclei-16o-and-neutron-matter)
-PI: Alessandro Lovato, Argonne National Laboratory\
-HOURS: ALCF: 632,000 Node-Hours
+### [Hadronic Contributions to the Muon G-2 from Lattice QCD](https://www.alcf.anl.gov/science/projects/hadronic-contributions-muon-g-2-lattice-qcd)
+PI: Thomas Blum, University of Connecticut\
+HOURS: ALCF: 5,000 Node-Hours, OLCF: 3,283,000 Node-Hours
+
+### [Using GPU to Reconstruct LHC Collisions Recorded with the CMS Detector](https://www.alcf.anl.gov/science/projects/using-gpu-reconstruct-lhc-collisions-recorded-cms-detector)
+PI: Dirk Hufnagel , Fermi National Accelerator Laboratory\
+HOURS: ALCF: 70,000 Node-Hours
 
 
 
@@ -389,8 +372,17 @@ PI: Rick Stevens, Argonne National Laboratory
 
 # ALCF DATA SCIENCE PROGRAM
 
+### Advanced Materials Characterization with AI-Informed Computation
+PI: Marco Govoni, Argonne National Laboratory
+
 ### Autonomous Molecular Design for Redox Flow Batteries
 PI: Logan Ward, Argonne National Laboratory
+
+### Deep Learning at Scale for Multimessenger Astrophysics Through the NCSA-Argonne Collaboration
+PI: Eliu Huerta, University of Illinois at Urbana-Champaign
+
+### Developing High-Performance-Computing Applications for Liquid Argon Neutrino Detectors
+PI: Andrzej Szelc, University of Manchester
 
 ### Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction
 PI: Robert Hovden, University of Michigan
@@ -399,7 +391,14 @@ PI: Robert Hovden, University of Michigan
 PI: George Stein, Lawrence Berkeley National Laboratory
 
 ### Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments
-PI: Marco Del Tutto, Fermi National Accelerator Laboratory
+PI: Marco Del Tutto, Fermi National Accelerator Laboratory 
+
+### Machine Learning Magnetic Properties of Van Der Waals Heterostructures
+PI: Trevor Rhone, Rensselaer Polytechnic Institute
+
+### X-ray Microscopy of Extended 3D Objects: Scaling Towards the Future
+PI: Chris Jacobsen, Argonne National Laboratory and Northwestern University
+
 
 
 
@@ -415,20 +414,11 @@ The following list provides a sampling of the many Director’s Discretionary pr
 
 ## BIOLOGICAL SCIENCES
 
-### Combining Physics-Based Analysis with AI to Accelerate COVID-19 Drug Discovery
-PI: Tom Brettin and Hyunseung Yoo, Argonne National Laboratory
+### Bioinformatics Codes for Polygenic Risk Scores 
+PI: Ravi Madduri, Argonne National Laboratory 
 
 ### Large Ensemble Model of Single-Cell 3D Genome Structures
 PI: Jie Liang, University of Illinois at Chicago
-
-### Modeling the Coronavirus
-PI: Zhangli Peng, University of Illinois at Chicago
-
-### Non-Synaptic Communication and Axonal Remodeling After Exposure to Cocaine
-PI: Bobby Kasthuri, Argonne National Laboratory
-
-### Observing the SARS-CoV-2 Replication-Transcription Machinery in Action
-PI: Arvind Ramanathan, Argonne National Laboratory
 
 ### Targeting Intrinsically Disordered Proteins Using Artificial Intelligence Driven Molecular Simulations
 PI: Arvind Ramanathan, Argonne National Laboratory
@@ -438,62 +428,64 @@ PI: Arvind Ramanathan, Argonne National Laboratory
 
 ## CHEMISTRY
 
-### Adsorptive CO2 Removal from Dilute Sources
-PI: John Low, Argonne National Laboratory
-
-### Massively Parallel Electronic Stopping Simulations of High Energy Particles in Solvated DNA
-PI: Yosuke Kanai, University of North Carolina at Chapel Hill
-
 ### Multimodal Imaging with Intense X-ray Pulses
 PI: Phay Ho, Argonne National Laboratory
 
-### Structure Elucidation for Nuclear Magnetic Resonance via Structured Prediction
-PI: Eric Michael Jonas, University of Chicago
 
 
 
 
 ## COMPUTER SCIENCE
 
-### Bridging Data Center AI Systems with Edge Computing for Actionable Information Retrieval
-PI: Zhengchun Liu, Argonne National Laboratory
+### APS Beamline Data Processing and Analysis
+PI: Rafael Vescovi, Argonne National Laboratory
 
-### Training of Language Models on Large Quantities of Scientific Text
-PI: Ian Foster, Argonne National Laboratory
+### Advanced Photon Source (APS) Data Processing
+PI: Nicholas Schwarz, Argonne National Laboratory
 
-### Unsupervised Analysis of Satellite Cloud Imagery
-PI: Ian Foster, Argonne National Laboratory
+### Materials Science, Data¬Driven Molecular Engineering of Solar-powered Windows
+PI: Jacqueline Cole, University of Cambridge
 
+### Optimizing Bayesian Neural Networks for Scientific Machine Learning Applications
+PI: Murali Krishna Emani, Argonne National Laboratory
+
+
+## ENERGY TECHNOLOGIES
+
+### Optimizing Bayesian Neural Networks for Scientific Machine Learning Applications
+PI: Joshua Ryan New, Oak Ridge National Laboratory
+
+### Development of High-Fidelity Simulations of Gas Turbine Combustors for Sustainable Aviation Applications
+PI: Sicong Wu, Northwestern University
+
+### Investigation of Flow and Heat Transfer Behavior in Involute Plate Research Reactor with Large Eddy Simulation to Support the Conversion of Research Reactors to Low Enriched Uranium Fuel
+PI: Yiqi Yu, Argonne National Laboratory
+
+### Multiphase Simulations of Nuclear Reactor Thermal Hydraulics 
+PI: Igor A Bolotnov, North Carolina State University
+
+
+## ENGINEERING
+
+### Turbulent Rayleigh-Benard Convection in Suspensions of Bubbles
+PI: Parisa Mirbod, University of Illinois at Chicago
 
 
 
 ## MATERIALS SCIENCE
 
-### BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning
-PI: Zhengchun Liu, Argonne National Laboratory
-
-### Data-Driven Molecular Engineering of Solar-Powered Windows
-PI: Jacqueline Cole, University of Cambridge
+### Adsorptive CO2 Removal from Dilute Sources 
+PI: John J Low, Argonne National Laboratory
 
 ### Materials Informatics Study of Two-Dimensional Magnetic Materials and Their Heterostructures
 PI: Trevor David Rhone, Harvard University
-
-### Next-Generation Nonwoven Materials Manufacturing
-PI: Ian Foster, Argonne National Laboratory
-
-### Structure and Properties of Grain Boundaries in Materials for Energy Applications
-PI: Wissam A Saidi, University of Pittsburgh
-
 
 
 
 ## PHYSICS
 
-### Deterministic Machine Learning for Latency-Critical Control Systems
-PI: Kyle Felker, Argonne National Laboratory; William Tang, Princeton Plasma Physics Laboratory
-
-### Model Quality Breakthrough for Cosmic Background Removal
-PI: Corey Adams, Argonne National Laboratory
+### Analytic Continuation of Interacting Fermion Spectra
+PI: Adrian Giuseppe Del Maestro, University of Tennessee
 
 ### Neural Network Quantum States for Atomic Nuclei
 PI: Alessandro Lovato, Argonne National Laboratory
