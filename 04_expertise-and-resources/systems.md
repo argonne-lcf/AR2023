@@ -38,13 +38,13 @@ ALCF supercomputing resources support large-scale, computationally intensive pro
 
 The ALCF AI Testbed provides an infrastructure of next-generation AI-accelerator machines that allows researchers to evaluate the usability and performance of machine learning-based applications running on the systems. AI testbeds include:
 
-| System Name | System Details |  |  |  |  |
+| System Name | System Size | Compute Units per Accelerator | Estimated Performance of a Single Accelerator (TFlops) | Software Stack Support  | Interconnect |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| **Cerebras CS-2** | Wafer-Scale Engine | 800,000+ processing cores | 2.6 trillion transistors, 7 nm |SwarmX fabric | TensorFlow, PyTorch |
-| **SambaNova DataScale** | Reconfigurable Dataflow Unit | 40 billion+ transistors, 7 nm | – | RDU-Connect | SambaFlow software stack, PyTorch | 
-| **Graphcore MK1** | Intelligent Processing Unit (IPU) | 1,216 IPU tiles, 14 nm | 23 billion+ transistors | IPU-Links interconnect | Poplar software stack, PyTorch, TensorFlow |
-| **Groq** | Tensor Streaming Processor | 26 billion+ transistors, 14 nm | – | Chip-to-chip interconnect | GroqWare software stack, Onnx |
-| **Habana Gaudi** | Tensor processing cores | 7 nm | – | Integrated 100 GbE-based interconnect | Synapse AI Software, PyTorch, TensorFlow |
+| **Cerebras CS-2** | 2 Nodes (Each with a Wafer-Scale Engine) Including MemoryX and SwarmX | 850,000 Cores | > 5,780 (FP16) | Cerebras SDK, TensorFlow, PyTorch | Ethernet-based |
+| **SambaNova Cardinal SN30** | 64 Accelerators (8 Nodes and 8 Accelerators per Node) | 1,280 Programmable Compute Units | >660 (BF16) | SambaFlow, PyTorch | Ethernet-based | 
+| **GroqRack** | 72 Accelerators (9 Nodes and 8 Accelerators per Node) | 5,120 Vector ALUs | >188 (FP16) >750 (INT8) | GroqWare SDK, ONNX | RealScale |
+| **Graphcore Bow Pod-64** | 64 Accelerators (4 Nodes and 16 Accelerators per Node) | 1,472 Independent Processing Units | >250 (FP16) | PopART, TensorFlow, PyTorch, ONNX | IPU Link |
+| **Habana Gaudi** | 16 Accelerators (2 Nodes and 8 Accelerators per Node) | 8 TPC + GEMM Engine | >150 (FP16) | SynapseAI, TensorFlow, PyTorch | Ethernet-based |
 {: .scroll-table }
 
 
@@ -95,6 +95,8 @@ extreme-scale computing systems, technologies, and capabilities. JLSE testbeds i
 - Presque: Intel DAOS nodes for testing the Aurora storage system
 - Edge Testbed: NVIDIA Jetson Xavier and Jetson Nano platforms provide a resource for testing and developing edge computing applications
 - NVIDIA and AMD GPUs: Clusters of NVIDIA V100, A100, and A40 GPUs, and AMD MI50 and MI100 GPUs for preparing applications for heterogeneous computing architectures
+- NVIDIA Bluefield-2 DPU SmartNICs: Platform used for confidential computing, MPICH offloading, and APS data transfer acceleration
+- NextSilicon Maverick: First-generation product being tested by Argonne researchers
 - Atos Quantum Learning Machine: Platform for testing and developing quantum algorithms and applications
  
 
