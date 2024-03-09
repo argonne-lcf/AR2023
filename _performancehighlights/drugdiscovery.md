@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/smiles'
+permalink: 'features/aurora/drugdiscovery'
 
 title: '-'
 pi: '-'
