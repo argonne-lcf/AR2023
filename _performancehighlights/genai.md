@@ -4,11 +4,11 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/genai'
 
-title: '-'
-pi: '-'
+title: 'AuroraGenAI'
+pi: 'Venkat Vishwanath, Argonne National Laboratory'
 award: '-'
 systems: '-'
-sdl: '-'
+sdl: 'l'
 
 image: '-' 
 image-caption: '-'
