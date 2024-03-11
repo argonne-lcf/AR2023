@@ -19,7 +19,7 @@ publications:
   - authors: 'Shepard, C., D.C. Yost, and Y. Kanai'
     title: 'Electronic Excitation Response of DNA to High-Energy Proton Radiation in Water'
     source: 'Physical Review Letters'
-    date: 'Marcg 2023'
+    date: 'March 2023'
     publisher: 'American Physical Society'
     url: 'https://doi.org/10.1103/PhysRevLett.130.118401'
 
