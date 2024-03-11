@@ -23,7 +23,7 @@ publications:
     publisher: 'American Physical Society'
     url: 'https://doi.org/10.1103/PhysRevLett.130.118401'
 
-      - authors: 'Shepard, C. and Y. Kanai'
+  - authors: 'Shepard, C. and Y. Kanai'
     title: 'Ion-Type Dependence of DNA Electronic Excitation in Water under Proton, α-Particle, and Carbon Ion Irradiation: A First-Principles Simulation Study'
     source: 'The Journal of Physical Chemistry B'
     date: 'November 2023'
