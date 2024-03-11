@@ -39,7 +39,8 @@ For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to 
 
 # Performance Results
 
-NWChemEx has been executed on Aurora for both single-GPU performance evaluations and demonstration runs on as many as 2000 nodes. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description show significantly faster performance on Aurora than other achieved with other systems, as does the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD).
+The NWChem simulations were carried out in 2023 for both single-GPU performance evaluations and demonstration runs involving as many as 2000 nodes. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description showed significantly faster performance on Aurora than was achieved using previous-generation systems, as did the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD).
+
 
 
 
