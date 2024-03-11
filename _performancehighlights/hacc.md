@@ -5,7 +5,7 @@ theme: dark
 permalink: 'features/aurora/hacc'
 
 title: '-'
-pi: 'Katrin Keitmann, Salman Habib, Argonne National Laboratory'
+pi: 'Katrin Heitmann and Salman Habib, Argonne National Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
 sdl: 's'
@@ -32,11 +32,10 @@ Versions of HACC being developed for exascale systems incorporate basic gas phys
 
 
 # Performance Results
-HACC employs n-body methods for gravity and a novel formulation of Smoothed Particle Hydrodynamics (CRK-SPH) for baryons.	CUDA and HIP are maintained as a single source with macros, and SYCL kernels were translated from CUDA using SYCLomatic and custom LLVM-based tools (including optimizations for Intel GPUs). HACC simulations have been performed on Aurora in runs using as many as 1536 nodes. Single-GPU performance on Aurora exceeds that of compared systems: Figure-of-Merit assessments with units of particle-steps per second (and 33 million particles per GPU) saw -performance increases ranging from 15 to 50 percent.
-
+HACC simulations have been performed on Aurora in runs using as many as 1536 nodes. Visualizations of results generated on Aurora illustrate the large-scale structure of the universe. Single-GPU performance on Aurora exceeds that of compared systems: Figure-of-Merit assessments measuring particle-steps per second used 33 million particles per GPU) saw performance increases ranging from 15 to 50 percent.
 
 
 
 # Impact
 
-Modern cosmology provides a unique window to fundamental physics, and has led to remarkable discoveries culminating in a highly successful model for the dynamics of the Universe. Simulations and predictions enabled by the HACC code deployed at exascale will help deepen our understanding of structure of the universe and its underlying physics. generate New generations of cosmological instruments, such as the Vera Rubin Observatory, will depend on exascale systems in order to perform measurements of unprecedented precision.
+Modern cosmology provides a unique window to fundamental physics, and has led to remarkable discoveries culminating in a highly successful model for the dynamics of the Universe. Simulations and predictions enabled by the HACC code deployed at exascale will help deepen our understanding of the structure of the universe and its underlying physics. Furthermore, new generations of cosmological instruments, such as the Vera Rubin Observatory, will depend on exascale systems in order to perform measurements of unprecedented precision, and exascale cosmological simulations developed through HACC will enable researchers to simultaneously analyze observational data from state-of-the-art telescopes to test different theories.
