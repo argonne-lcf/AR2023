@@ -9,9 +9,6 @@ pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 sdl: 's'
 
-image: 'ma.png' 
-image-caption: 'Representative open structures from accelerated trajectories along the identified six reaction coordinates. The reference semi-open structure is colored white and atoms are colored green, red, and blue according to its weight in the reaction coordinates.'
-image-credit: 'Ao Ma, University of Illinois Chicago'
 
 ---
 
@@ -31,7 +28,7 @@ To prepare for the next generation of high-performance computing, the code is be
 
 # Performance Results
 
-Optimization for exascale has required both GPU offloading and algorithmic flexibility. XGC uses the Kokkos programming model as its portability layer, with different backends. Researchers evaluated system performance with a gyrokinetic particle-in-cell simulation using C++. Performance on the Aurora testbed, Sunspot, yielded scaling performance comparable to that of GPU systems such as Polaris, while single-GPU performance was as much as 46 percent greater than with other systems.
+Optimization for exascale has required both GPU offloading and algorithmic flexibility. XGC uses the Kokkos programming model as its portability layer, with different backends. Researchers evaluated system performance with a gyrokinetic particle-in-cell simulation using C++. Performance on the Aurora testbed, Sunspot, yielded scaling performance comparable to that of GPU systems such as Polaris, while single-GPU performance was as much as 46 percent greater than was achieved with other systems.
 
 # Impact
 
