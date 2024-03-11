@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "A computer vision model featuring high-resolution imaging data and corresponding segmentation labels originating from a high-energy neutrino physics experiment, CosmicTagger is used to detect neutrino interactions from other cosmic particles and background noise."
+    blurb = "A computer vision model featuring high-resolution imaging data and corresponding segmentation labels originating from a high-energy neutrino physics experiment, CosmicTagger is used by researchers working in high-energy particle physics to detect neutrino interactions from other cosmic particles and background noise. Deep learning has enabled state-of-the-art results in the domain, achieving fivefold improvements in background particle rejection compared to classical techniques. A key benchmark for high-performance computing systems, CosmicTagger is run in both PyTorch and Tensorflow on multiple systems, representing a variety of architectures."
 %}
 
 
@@ -28,7 +28,7 @@ The CosmicTagger project deals with the detection of neutrino interactions in a 
 
 
 # Performance Results
-Running the code on 512 nodes of Aurora achieved 83 percent scaling efficiency per node, using PyTorch and the distributed deep learning training framework Horovod. Running on Sunspot, the Aurora testbed, CosmicTagger achieved node throughput of 280 samples per second, a more than fivefold increase over other systems' throughput.
+Running the code on 512 nodes of Aurora achieved 83 percent scaling efficiency per node, using PyTorch and the distributed deep learning training framework Horovod. Running on Sunspot, the Aurora testbed, CosmicTagger achieved node throughput of 280 samples per second, a more than fivefold increase over other compared systems' throughput.
 
 
 # Impact
