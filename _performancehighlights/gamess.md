@@ -4,11 +4,11 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/gamess'
 
-title: '-'
-pi: '-'
-award: '-'
+title: 'GAMESS'
+pi: 'Mark Gordon, Iowa State University'
+award: 'Exascale Computing Project'
 systems: '-'
-sdl: '-'
+sdl: 's'
 
 image: '-' 
 image-caption: '-'
