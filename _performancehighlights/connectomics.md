@@ -4,11 +4,11 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/connectomics'
 
-title: '-'
-pi: '-'
-award: '-'
+title: 'Connectomics Machine Learning with Flood-Filling Networks'
+pi: 'Nicola Ferrier, Argonne National Laboraotory'
+award: 'Early Science Program'
 systems: '-'
-sdl: '-'
+sdl: 'd,l'
 
 image: '-' 
 image-caption: '-'
