@@ -57,9 +57,9 @@
 
 	h1 {
 		@include typestyle($sans-lg-bld);
-		color: color(green, XX);
+		color: color(blue, XX);
 		span {
-			color: color(green, X);
+			color: color(blue, X);
 		}		
 	}
 
@@ -78,7 +78,7 @@
 		right: 0;
 		bottom: 0;
 		left: 0;
-		background-color: color(blue, XXXX);
+		background-color: color(warm, XXXX);
 		opacity: 0.5;
 		mix-blend-mode: multiply;
 	}
@@ -156,8 +156,8 @@
 	}
 
 	.teaser {
-		background-color: color(blue, XXXX);
-		color: color(neutral, X);
+		background: color(warm, XXXX);
+  	color: color(blue, X);
 		transition: all .15s;
 		@include stack(lg);
 		grid-column: span 12;
@@ -184,14 +184,14 @@
 			right: 0;
 			bottom: 0;
 			left: 0;
-			background-color: color(blue, XXXXX);
+			background-color: color(warm, XXXXX);
 			opacity: 0;
 			transition: all .15s;
 			mix-blend-mode: multiply;
 		}
 
 		&:hover {
-			background-color: color(blue, XXXXX);
+			background-color: color(warm, XXXXX);
 			h3 { text-decoration: underline; }
 			.hover-scrim { opacity: .2; }
 		}
@@ -212,7 +212,7 @@
 // ----------------------------------------------------------------------------
 
 .home--toc-wrapper  {
-	background-color: color(blue, XXXX);
+	background-color: color(warm, XXXXX);
 	color: color(neutral, X);
 	width: 100vw;
 	padding: bl(10) 0;

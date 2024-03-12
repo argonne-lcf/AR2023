@@ -1,7 +1,7 @@
 ---
 layout: page
 theme: cyan
-permalink: features/polaris
+permalink: features/theta
 
 title: ALCF Retires Theta Supercomputer
 hero-img-source: Theta.jpg

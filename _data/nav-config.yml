@@ -13,20 +13,16 @@ toc:
     slug: features
     url: features
     subfolderitems:
-      - page: Polaris Enters Production Mode
-        url: features/polaris
+      - page: Standing Up Aurora
+        url: features/aurora
+      - page: Developing an Integrated Research Infrastructure
+        url: features/aurora-and-aps
+      - page: 2023 Performance Highlights
+        url: features/performancehighlights
       - page: ALCF AI Testbed Systems Deployed for Open Science
         url: features/alcf-ai-testbed
-      - page: Aurora Takes Shape in the ALCF Data Center
-        url: features/aurora
-      - page: Performance Highlights
-        url: features/performancehighlights
-      - page: Sunspot Testbed Provides On-Ramp for Aurora
-        url: features/sunspot
-      - page: Transforming Science with Aurora and the Upgraded APS
-        url: features/aurora-and-aps
-      - page: Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
-        url: features/gordon-bell-prize
+      - page: ALCF Retires Theta Supercomputer
+        url: features/theta
   - title: Growing the HPC Community
     slug: community-and-outreach
     url: community-and-outreach
@@ -59,7 +55,7 @@ toc:
     subfolderitems:
       - page: Allocation Programs
         url: science/allocation-programs
-      - page: 2022 Science Highlights
+      - page: 2023 Science Highlights
         url: science/highlights
       - page: Projects
         url: science/projects

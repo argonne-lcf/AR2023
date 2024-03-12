@@ -145,8 +145,20 @@
                     <ul>
                       
                         <li>
-                          <a href="/features/polaris">
-                            Polaris Enters Production Mode
+                          <a href="/features/aurora">
+                            Standing Up Aurora
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/aurora-and-aps">
+                            Developing an Integrated Research Infrastructure
+                          </a>
+                        </li>
+                      
+                        <li>
+                          <a href="/features/performancehighlights">
+                            2023 Performance Highlights
                           </a>
                         </li>
                       
@@ -157,32 +169,8 @@
                         </li>
                       
                         <li>
-                          <a href="/features/aurora">
-                            Aurora Takes Shape in the ALCF Data Center
-                          </a>
-                        </li>
-                      
-                        <li>
-                          <a href="/features/performancehighlights">
-                            Performance Highlights
-                          </a>
-                        </li>
-                      
-                        <li>
-                          <a href="/features/sunspot">
-                            Sunspot Testbed Provides On-Ramp for Aurora
-                          </a>
-                        </li>
-                      
-                        <li>
-                          <a href="/features/aurora-and-aps">
-                            Transforming Science with Aurora and the Upgraded APS
-                          </a>
-                        </li>
-                      
-                        <li>
-                          <a href="/features/gordon-bell-prize">
-                            Argonne-Led Team Wins Gordon Bell Special Prize for COVID-19 Research
+                          <a href="/features/theta">
+                            ALCF Retires Theta Supercomputer
                           </a>
                         </li>
                       
@@ -293,7 +281,7 @@
                       
                         <li>
                           <a href="/science/highlights">
-                            2022 Science Highlights
+                            2023 Science Highlights
                           </a>
                         </li>
                       
@@ -542,53 +530,53 @@ available parameters:
   <thead>
     <tr>
       <th style="text-align: left">System Name</th>
-      <th style="text-align: left">System Details</th>
-      <th style="text-align: left"> </th>
-      <th style="text-align: left"> </th>
-      <th style="text-align: left"> </th>
-      <th style="text-align: left"> </th>
+      <th style="text-align: left">System Size</th>
+      <th style="text-align: left">Compute Units per Accelerator</th>
+      <th style="text-align: left">Estimated Performance of a Single Accelerator (TFlops)</th>
+      <th style="text-align: left">Software Stack Support</th>
+      <th style="text-align: left">Interconnect</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: left"><strong>Cerebras CS-2</strong></td>
-      <td style="text-align: left">Wafer-Scale Engine</td>
-      <td style="text-align: left">800,000+ processing cores</td>
-      <td style="text-align: left">2.6 trillion transistors, 7 nm</td>
-      <td style="text-align: left">SwarmX fabric</td>
-      <td style="text-align: left">TensorFlow, PyTorch</td>
+      <td style="text-align: left">2 Nodes (Each with a Wafer-Scale Engine) Including MemoryX and SwarmX</td>
+      <td style="text-align: left">850,000 Cores</td>
+      <td style="text-align: left">&gt; 5,780 (FP16)</td>
+      <td style="text-align: left">Cerebras SDK, TensorFlow, PyTorch</td>
+      <td style="text-align: left">Ethernet-based</td>
     </tr>
     <tr>
-      <td style="text-align: left"><strong>SambaNova DataScale</strong></td>
-      <td style="text-align: left">Reconfigurable Dataflow Unit</td>
-      <td style="text-align: left">40 billion+ transistors, 7 nm</td>
-      <td style="text-align: left">–</td>
-      <td style="text-align: left">RDU-Connect</td>
-      <td style="text-align: left">SambaFlow software stack, PyTorch</td>
+      <td style="text-align: left"><strong>SambaNova Cardinal SN30</strong></td>
+      <td style="text-align: left">64 Accelerators (8 Nodes and 8 Accelerators per Node)</td>
+      <td style="text-align: left">1,280 Programmable Compute Units</td>
+      <td style="text-align: left">&gt;660 (BF16)</td>
+      <td style="text-align: left">SambaFlow, PyTorch</td>
+      <td style="text-align: left">Ethernet-based</td>
     </tr>
     <tr>
-      <td style="text-align: left"><strong>Graphcore MK1</strong></td>
-      <td style="text-align: left">Intelligent Processing Unit (IPU)</td>
-      <td style="text-align: left">1,216 IPU tiles, 14 nm</td>
-      <td style="text-align: left">23 billion+ transistors</td>
-      <td style="text-align: left">IPU-Links interconnect</td>
-      <td style="text-align: left">Poplar software stack, PyTorch, TensorFlow</td>
+      <td style="text-align: left"><strong>GroqRack</strong></td>
+      <td style="text-align: left">72 Accelerators (9 Nodes and 8 Accelerators per Node)</td>
+      <td style="text-align: left">5,120 Vector ALUs</td>
+      <td style="text-align: left">&gt;188 (FP16) &gt;750 (INT8)</td>
+      <td style="text-align: left">GroqWare SDK, ONNX</td>
+      <td style="text-align: left">RealScale</td>
     </tr>
     <tr>
-      <td style="text-align: left"><strong>Groq</strong></td>
-      <td style="text-align: left">Tensor Streaming Processor</td>
-      <td style="text-align: left">26 billion+ transistors, 14 nm</td>
-      <td style="text-align: left">–</td>
-      <td style="text-align: left">Chip-to-chip interconnect</td>
-      <td style="text-align: left">GroqWare software stack, Onnx</td>
+      <td style="text-align: left"><strong>Graphcore Bow Pod-64</strong></td>
+      <td style="text-align: left">64 Accelerators (4 Nodes and 16 Accelerators per Node)</td>
+      <td style="text-align: left">1,472 Independent Processing Units</td>
+      <td style="text-align: left">&gt;250 (FP16)</td>
+      <td style="text-align: left">PopART, TensorFlow, PyTorch, ONNX</td>
+      <td style="text-align: left">IPU Link</td>
     </tr>
     <tr>
       <td style="text-align: left"><strong>Habana Gaudi</strong></td>
-      <td style="text-align: left">Tensor processing cores</td>
-      <td style="text-align: left">7 nm</td>
-      <td style="text-align: left">–</td>
-      <td style="text-align: left">Integrated 100 GbE-based interconnect</td>
-      <td style="text-align: left">Synapse AI Software, PyTorch, TensorFlow</td>
+      <td style="text-align: left">16 Accelerators (2 Nodes and 8 Accelerators per Node)</td>
+      <td style="text-align: left">8 TPC + GEMM Engine</td>
+      <td style="text-align: left">&gt;150 (FP16)</td>
+      <td style="text-align: left">SynapseAI, TensorFlow, PyTorch</td>
+      <td style="text-align: left">Ethernet-based</td>
     </tr>
   </tbody>
 </table>
@@ -681,6 +669,8 @@ extreme-scale computing systems, technologies, and capabilities. JLSE testbeds i
   <li>Presque: Intel DAOS nodes for testing the Aurora storage system</li>
   <li>Edge Testbed: NVIDIA Jetson Xavier and Jetson Nano platforms provide a resource for testing and developing edge computing applications</li>
   <li>NVIDIA and AMD GPUs: Clusters of NVIDIA V100, A100, and A40 GPUs, and AMD MI50 and MI100 GPUs for preparing applications for heterogeneous computing architectures</li>
+  <li>NVIDIA Bluefield-2 DPU SmartNICs: Platform used for confidential computing, MPICH offloading, and APS data transfer acceleration</li>
+  <li>NextSilicon Maverick: First-generation product being tested by Argonne researchers</li>
   <li>Atos Quantum Learning Machine: Platform for testing and developing quantum algorithms and applications</li>
 </ul>
 
