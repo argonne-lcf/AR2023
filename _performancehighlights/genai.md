@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "Researchers from Argonne National Laboratory, Intel, and Hewlett Packard Enterprise are collaborating in the Aurora Generative AI (AuroraGenAI) project, which aims to create state-of-the-art foundational AI models for scientific applications across disciplines. Trained on a range of materials, including proprietary datasets of general and scientific texts, data, and codes, AuroraGenAI is a one-trillion-parameter GPT-3 large language model (LLM) whose deployment stands to accelerate research in wide range of fields, from biology and climatology to cosmology and materials chemistry."
+    blurb = "Researchers from Argonne National Laboratory, Intel, and Hewlett Packard Enterprise are collaborating for the Aurora Generative AI (AuroraGenAI) project, which aims to create state-of-the-art foundational AI models for scientific applications across disciplines. Trained on a range of materials, including proprietary datasets of general and scientific texts, data, and codes, AuroraGenAI is a one-trillion-parameter GPT-3 large language model (LLM) whose deployment stands to accelerate research in wide range of fields, from biology and climatology to cosmology and materials chemistry."
 %}
 
 
