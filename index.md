@@ -53,7 +53,7 @@ aside: about-numbers.md
 			{% for entry in features[0].subfolderitems %}
 			{% assign feature = site.pages | where: 'permalink', entry.url %}			  
 			  <div class="teaser">
-			    <a href="/{{ entry.url }}">
+			    <a href="{{ site.url }}/{{ entry.url }}">
 			    	<div class="image-wrapper">
 			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
 			    		<div class="hover-scrim"></div>
