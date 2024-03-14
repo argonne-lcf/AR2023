@@ -18,7 +18,7 @@ ALCF researchers regularly contribute to some of the world’s leading computing
 
 # Exascale Computing Project
 
-DOE’s Exascale Computing Project (ECP) is a multi-lab initiative to accelerate the delivery of a capable exascale computing ecosystem. Launched in 2016, the ECP’s mission is to pave the way for the deployment of the nation’s first exascale systems by building an ecosystem that encompasses applications, system software, hardware technologies, architectures, and workforce development. Researchers from the ALCF and across Argonne—one of the six ECP core labs—are helping the project deliver on its ambitious goals. The laboratory has a strong presence on the ECP leadership team. It has several researchers engaged in ECP projects and working groups focused on application development, software development, and hardware technology. In the workforce development space, the ECP continues to fund the annual Argonne Training Program on Extreme-Scale Computing (ATPESC), organized and managed by ALCF staff.
+DOE’s Exascale Computing Project (ECP) is a multi-lab initiative to accelerate the delivery of a capable exascale computing ecosystem. Launched in 2016, the ECP’s mission is to pave the way for deploying the nation’s first exascale systems by building an ecosystem encompassing applications, system software, hardware technologies, architectures, and workforce development. Researchers from the ALCF and across Argonne—one of the six ECP core labs—are helping the project achieve its ambitious goals. The laboratory has a strong presence on the ECP leadership team. It has several researchers engaged in ECP projects and working groups focused on application development, software development, and hardware technology. In the workforce development space, the ALCF is highly involved in the DOE Exascale Computing Project’s [Broadening Participation Initiative](https://www.exascaleproject.org/hpc-workforce/) and leads the Intro to HPC thrust. Additionally, the ECP provided funds for the annual [Argonne Training Program on Extreme-Scale Computing (ATPESC)](https://extremecomputingtraining.anl.gov), organized and managed by ALCF staff.
 
 # HPC Standards and Community Groups
 
@@ -26,7 +26,7 @@ ALCF staff members remain actively involved in several HPC standards and communi
 
 # Performance Portability
 
-The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a [website](performanceportability.org) dedicated to enabling performance portability across the DOE Office of Science HPC facilities. The website serves a documentation hub and guide for applications teams targeting systems at multiple computing facilities. The DOE computing facilities staff also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
+The ALCF continued its collaboration with NERSC and OLCF to operate and maintain a [website](performanceportability.org) dedicated to enabling performance portability across the DOE Office of Science HPC facilities. The website serves as a documentation hub and guide for applications teams targeting systems at multiple computing facilities. The DOE computing facilities staff also collaborate on various projects and training events to maximize the portability of scientific applications on diverse supercomputer architectures.
 
 # Vendor Collaborations
 
