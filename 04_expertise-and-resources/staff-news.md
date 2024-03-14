@@ -5,7 +5,7 @@ theme: white
 permalink: expertise-and-resources/staff-news
 
 title: Staff News
-hero-img-source: "Papka-BOG-Award.jpg"
+hero-img-source: "Papka-BOG.jpg"
 hero-img-caption: "ALCF Director Michael Papka receives the Distinguished Performance Award at the Argonne Board of Governors Awards ceremony on September 19, 2023."
 ---
 
@@ -37,7 +37,7 @@ An ALCF team won first place and best workflow at the Institute of Electrical an
 As part of Argonne National Laboratory's 2023 Commercialization Excellence Awards, ALCF researchers Venkatram Vishwanath, Michael Papka, William Allcock, and Filippo Simini were recognized with a Delivering Impact Award for their collaboration with SWIFT, a global provider of financial messaging services. The collaborative effort leveraged ALCF’s supercomputing and AI resources to explore SWIFT’s synthetic transactional data streams and identify patterns, including any anomalous activity. The pattern-detection methods developed by the ALCF team provided SWIFT with the capabilities to respond to anomalies more rapidly, thereby strengthening financial infrastructure.
 
 {% include media-img.html
-   source= "Balin-PostdocAward.jpg"
+   source= "Balin-award.jpg"
    caption= "ALCF's Riccardo Balin (left) received a Postdoctoral Performance Award from Argonne Director Paul Kearns."
 %}
 
