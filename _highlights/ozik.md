@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/ozik'
 
 title: 'Probabilistic Comparative Modeling of Colorectal Cancer Screening Strategies'
 pi: 'Jonathan Ozik, Argonne National Laboratory'
