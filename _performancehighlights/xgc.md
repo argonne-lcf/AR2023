@@ -32,4 +32,5 @@ Optimization for exascale has required both GPU offloading and algorithmic flexi
 
 # Impact
 
-The resulting exascale application will be unique in its computational capabilities and will have potentially transformational impact in fusion science, for example, by studying a much larger and more realistic range of dimensionless plasma parameters than ever before, by providing the energy-angle distribution of plasmas hitting the material wall, and by assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma.
+The resulting exascale application will be unique in its computational capabilities and will have potentially transformational impact in fusion science, for example, by studying a much larger and more realistic range of dimensionless plasma parameters than ever before—by providing the energy-angle distribution of plasmas hitting the material wall, and by assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma (e.g., tokamaks, stellarators)—with the core and the edge plasma strongly coupled at a fundamental kinetic level based on the gyrokinetic equations.
+
