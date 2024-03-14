@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/kanai'
 
 title: 'First-Principles Simulation of Electronic Stopping Excitation and Beyond'
 pi: 'Yosuke Kanai, University of North Carolina at Chapel Hill'
