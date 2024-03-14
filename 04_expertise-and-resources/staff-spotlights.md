@@ -10,8 +10,8 @@ permalink: expertise-and-resources/staff-spotlights
 
 
 {% include media-img.html
-   source= "ghadar-lenard.png"
-   caption= "Left: Beth Cerny, right: Yasi Ghadar"
+   source= "FelkerKinsley.png"
+   caption= "Left: Kyle Felker, right: Paige Kinsley"
 %}
 # Kyle Felker, Assistant Computational Scientist
 
@@ -35,8 +35,8 @@ She also supported the continued development of tours at ALCF, with the goal of 
 
 
 {% include media-img.html
-   source= "pershey-sims-partacz.png"
-   caption= "Left: Ben Lenard, right: Eric Pershey"
+   source= "KnowlesKoyama.png"
+   caption= "Left: Janet Knowles, right: Sean Koyama"
 %}
 
 # Janet Knowles, Principal Software Development Specialist
@@ -56,8 +56,8 @@ In 2023, Sean deployed the scientific software stacks on Aurora and Aurora's tes
 
 
 {% include media-img.html
-   source= "Videau.png"
-   caption= "Left: Katie Sims-Partacz, right: Brice Videau"
+   source= "NgomSimini.png"
+   caption= "Left: Marieme Ngom, right: Filippo Simini"
 %}
 
 # Marieme Ngom, Assistant Computational Scientist
