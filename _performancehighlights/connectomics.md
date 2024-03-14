@@ -31,7 +31,7 @@ An exascale pipeline requires scalable computational tools for analysis of EM da
 
 
 # Performance Results
-Connectomics has done training and inference at scale on Aurora. Using AI methods like flood filling networks, one of the largest brain connectomics reconstruction on 512 nodes of Aurora showed more than a 2X performance gain over ALCF’s Polaris (44 petaflops) system at similar scale.
+Connectomics has done training and inference at scale on Aurora.  One of the largest brain connectomics reconstructions was carried out on 512 nodes of Aurora and showed more a more than twofold performance gain over what was achieved using the ALCF’s 44-petaplop Polaris system at similar scale.
 
 # Impact
 
