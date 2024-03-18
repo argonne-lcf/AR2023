@@ -1,4 +1,4 @@
----
+![image](https://github.com/argonne-lcf/AR2023/assets/110477819/5e7a7285-4f09-4ade-85cc-9615d6cff097)---
 layout: highlight
 
 theme: dark
@@ -36,5 +36,5 @@ Connectomics has done training and inference at scale on Aurora.  One of the lar
 # Impact
 
 This project is working to establish and refine the computational methods needed for fast routine brain mapping, building an end-to-end processing pipeline for extracting large scale connectomic information from nanometer-resolution serial-section EM image data sets of brain samples, providing huge benefits to the brain science and neuroimaging communities. The realization of an exascale data and computational pipeline for neuroscience could help revolutionize our understanding of brain function and pathology. Connectomics can help elucidate how even the smallest neurological changes contribute to diseases and disorders such as Alzheimer’s and autism, perhaps thereby providing a path to improved treatments.
-The work done to prepare this project for exascale will also serve as a benefit to other exascale system users, with the electron microscopy algorithms under development, for example, promising broad application to . For example, the algorithms they are developing for their electron microscopy data will find application with X-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source (APS), a DOE Office of Science User Facility.
 
+The work done to prepare this project for exascale will also serve as a benefit to other exascale system users; with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source (APS), a DOE Office of Science User Facility.
