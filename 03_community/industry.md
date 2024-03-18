@@ -2,9 +2,9 @@
 layout: page
 
 title: Partnering with Industry
-hero-img-source: "ALCF-3M_965x543.png"
-hero-img-caption: Researchers from 3M and Argonne are using ALCF supercomputers and machine learning to improve the energy efficiency of the manufacturing process that produces melt-blown nonwoven fabric for products like masks and respirators. The team is performing computational fluid dynamics simulations to model the process.
-hero-img-credit: "Argonne National Laboratory"
+hero-img-source: "Biofuels-ARC-M1.jpg"
+hero-img-caption: Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This image shows a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the ARC M1 gas turbine combustor using the Nek5000 code.
+hero-img-credit: "ALCF Visualization and Data Analytics Team; Muhsin Ameen and Sicong Wu, Argonne National Laboratory"
 
 theme: white
 permalink: community-and-outreach/industry
@@ -19,11 +19,6 @@ Access to ALCF systems and expertise allows industry researchers to make predict
 The ALCF has enhanced its industry outreach program by partnering with other Argonne user facilities and divisions, including the Science and Technology Partnership Outreach (STPO) division. By providing more complete picture of the laboratory’s resources, this collaborative approach has resulted in broader engagements across Argonne with a number of companies. 
 
 The ALCF is also actively involved in directing the DOE Exascale Computing Project’s Industry and Agency Council, an advisory group of senior executives from prominent U.S. companies and U.S. government agencies interested in working with Argonne and other DOE laboratories to deploy exascale computing to improve their products and services.
-
-{% include media-img.html
-   source= "ALCF-ComEd.jpg"
-   caption= "ComEd and Argonne are collaborating to analyze how climate change could affect the company's distribution grid. As part of the effort, the team is using ALCF supercomputers to provide detailed climate projections and analysis for northern Illinois."
-%}
 
 # Driving Innovation for Industry
 
