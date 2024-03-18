@@ -1,4 +1,4 @@
-![image](https://github.com/argonne-lcf/AR2023/assets/110477819/5e7a7285-4f09-4ade-85cc-9615d6cff097)---
+---
 layout: highlight
 
 theme: dark
@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "Using the most advanced imaging techniques available, researchers aim to create a full mapping of neural connections in brains, known as a connectome, to reveal fundamental principles of organization and facilitate advances in neuroscience and neural computation by processing massive electron microscopy data of brain tissue. Researchers at the DOE’s Argonne National Laboratory are working to develop a brain connectome — an accurate map that lays out every connection between every neuron and the precise location of the associated dendrites, axons and synapses that help form the communications or signaling pathways of a brain. Only the computing power on the scale provided by Aurora will meet the near-term challenges of brain mapping."
+    blurb = "Using the most advanced imaging techniques available, researchers led by Argonne National Laboraotry aim to create a full mapping of neural connections in brains, known as a connectome, to reveal fundamental principles of organization and facilitate advances in neuroscience and neural computation by processing massive electron microscopy data of brain tissue. Only the computing power on the scale provided by Aurora will meet the near-term challenges of brain mapping."
 %}
 
 
