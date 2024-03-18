@@ -4,7 +4,7 @@ layout: page
 theme: dark
 permalink: features/aurora
 
-title: Standing Up Aurora
+title: Bringing Aurora Online
 hero-img-source: Aurora-blade-33603D_0640.jpg
 hero-img-caption: "Susan Coghlan (center), ALCF Project Director for Aurora, discusses the system installation with colleagues from Intel."
 intro: "The ALCF made significant progress in deploying its exascale supercomputer in 2023, completing the hardware installation, registering early performance numbers, and supporting early science teams’ initial runs on the system."
