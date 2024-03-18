@@ -5,7 +5,7 @@ theme: white
 permalink: expertise-and-resources/team
 
 title: ALCF Team
-hero-img-source: "ALCF-team.jpg"
+hero-img-source: "ALCFteam-Aurora.jpg"
 hero-img-caption: "The ALCF team provides expertise and support to the research community to help maximize their use of the facility's supercomputing and AI resources."
 
 aside: team.md
