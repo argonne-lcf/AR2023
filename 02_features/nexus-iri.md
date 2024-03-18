@@ -4,10 +4,10 @@ layout: page
 theme: dark
 permalink: features/aurora-and-aps
 
-title: Developing an Integrated Research Infrastructure
+title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
-intro: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by seamlessly integrating supercomputing resources with large-scale experimental facilities."
+intro: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by developing an integrated research infrastructure that seamlessly connects supercomputing resources with large-scale experimental facilities."
 ---
 
 
