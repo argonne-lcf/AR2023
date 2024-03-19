@@ -5,8 +5,7 @@ theme: white
 permalink: 'science/highlights/ma'
 
 title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
-pi: 'Muhsin Ameen, Argonne National Laboratory
-Sicong Wu, Argonne National Laboratory'
+pi: 'Muhsin Ameen, Sicong Wu, Argonne National Laboratory'
 award: 'Director’s Discretionary'
 systems: 'Theta'
 field: 'Energy Technologies'
