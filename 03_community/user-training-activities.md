@@ -20,8 +20,8 @@ Held in October at Argonne, the ALCF Hands-on HPC Workshop is designed to help a
 In April and May, the ALCF partnered with NVIDIA to host its GPU Hackathon for the third time, a hybrid event designed to help developers accelerate their codes on ALCF resources and prepare for the INCITE call for proposals. The multi-day hackathon gave attendees access to ALCF’s Polaris system. A total of 12 teams participated this year, exploring a vast array of topics including weather research and forecasting models, colon cancer research, and methods to reconstruct large biomolecular structures.
 
 {% include media-img.html
-   source= "ATPESC-classroom.jpg"
-   caption= "The Argonne Training Program on Extreme-Scale Computing (ATPESC) teaches attendees the key tools and techniques to use supercomputers for scientific research."
+   source= "HackathonImg.jpeg"
+   caption= "ALCF’s Christine Simpson (right) works with Temidayo Adeluwa (left) of the University of Chicago at the 2023 ALCF GPU Hackathon."
 %}
 
 # ATPESC 2023
