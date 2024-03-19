@@ -34,7 +34,7 @@ publications:
 
 # Challenge
 
-Lead-cooled fast reactors are a type of nuclear reactor design that offer many advantages, including the ability to operate at higher thermal efficiencies than existing commercial light water reactors. Developing these advanced reactors poses challenges due to the unique characteristics of heavy liquid metal (HLM) coolants, such as a low Prandtl number (Pr<sub>t</sub>) compared to water. Existing turbulence models are inadequate for accurately predicting heat transfer in HLM flows, making the selection of an appropriate turbulent Prandtl number (Pr<sub>t</sub>) critical. Accurate modeling and simulation of heat transfer and mixing in the HLM coolant is needed to help prepare the technology for licensing.
+Lead-cooled fast reactors are a type of nuclear reactor design that offer many advantages, including the ability to operate at higher thermal efficiencies than existing commercial light water reactors. Developing these advanced reactors poses challenges due to the unique characteristics of heavy liquid metal (HLM) coolants, such as a low Prandtl number (Pr) compared to water. Existing turbulence models are inadequate for accurately predicting heat transfer in HLM flows, making the selection of an appropriate turbulent Prandtl number (Pr<sub>t</sub>) critical. Accurate modeling and simulation of heat transfer and mixing in the HLM coolant is needed to help prepare the technology for licensing.
 
 
 # Approach
