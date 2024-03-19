@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/drugdiscovery'
 
-title: 'Drug Discovery'
+title: 'Accelerating Drug Design & Discovery'
 pi: 'Archit Vasan, Argonne National Laboratory'
 award: 'Early Science Program'
 systems: '-'
