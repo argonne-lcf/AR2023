@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/cosmictagger'
 
-title: 'CosmicTagger'
+title: 'High-Energy Particle Physics at Scale: CosmicTagger'
 pi: 'Corey Adams, Argonne National Laboratory'
 award: '-'
 systems: '-'
