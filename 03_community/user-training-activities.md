@@ -38,8 +38,8 @@ The ALCF, in collaboration with Intel Software, continued hosting their Aurora L
 In 2023, the ALCF, OLCF, NERSC, and ECP continued their collaboration with the Interoperable Design of Extreme-Scale Application Software (IDEAS) project to deliver a series of webinars—Best Practices for HPC Software Developers—to help users of HPC systems carry out their software development more productively. Webinar topics included writing clean scientific software, infrastructure for high-fidelity testing in HPC facilities, simplifying scientific python package installation, and how researchers can take HACC into the exascale era. 
 
 {% include media-img.html
-   source= "ALCF-SDLWksp1.png"
-   caption= "Training events like the annual Simulation, Data, and Learning Workshop are helping to build a community of researchers who can employ ALCF supercomputing resources to advance AI- and data-driven research."
+   source= "Hackimg2.jpg"
+   caption= "ALCF’s Brian Homerding gives a talk on programming models at the 2023 ALCF Hands-on HPC Workshop."
 %}
 
 # DOE Cross-facility Workflows Training
