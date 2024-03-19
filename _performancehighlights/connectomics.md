@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "Using the most advanced imaging techniques available, researchers led by Argonne National Laboraotry aim to create a full mapping of neural connections in brains, known as a connectome, to reveal fundamental principles of organization and facilitate advances in neuroscience and neural computation by processing massive electron microscopy data of brain tissue. Only the computing power on the scale provided by Aurora will meet the near-term challenges of brain mapping."
+    blurb = "Using the most advanced imaging techniques available, researchers led by Argonne National Laboraotry aim to create a full mapping of neural connections in brains, known as a connectome, to reveal fundamental principles of organization and facilitate advances in neuroscience and neural computation by processing massive electron microscopy data of brain tissue. Only computing power on the scale provided by Aurora will meet the near-term challenges of brain mapping."
 %}
 
 
