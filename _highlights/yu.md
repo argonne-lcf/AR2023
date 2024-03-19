@@ -44,7 +44,7 @@ For this effort, the team performed large eddy simulations (LES) using the open-
 
 # Results
 
-In a paper published in _Nuclear Engineering and Design_, the researchers showed that the selection of the appropriate Pr<sub>t</sub> significantly impacts the accuracy of simulations for advanced nuclear reactors. By analyzing a prototypical lead-cooled fast reactor assembly with different Pr<sub>t</sub> values, the team found that inappropriate Pr can introduce error in Nusselt number (a measure of heat transfer) by up to 44 percent. They also compared detailed temperature distributions obtained by computationally expensive LES and less expensive RANS simulations to better understand the deviation introduced by the turbulence model. The analysis shows that the RANS model with Pr<sub>t</sub>=1.5 shows the best agreement with LES on the prediction of local temperature distribution and global Nusselt number. 
+In a paper published in _Nuclear Engineering and Design_, the researchers showed that the selection of the appropriate Pr<sub>t</sub> significantly impacts the accuracy of simulations for advanced nuclear reactors. By analyzing a prototypical lead-cooled fast reactor assembly with different Pr<sub>t</sub> values, the team found that inappropriate Pr<sub>t</sub>can introduce error in Nusselt number (a measure of heat transfer) by up to 44 percent. They also compared detailed temperature distributions obtained by computationally expensive LES and less expensive RANS simulations to better understand the deviation introduced by the turbulence model. The analysis shows that the RANS model with Pr<sub>t</sub>=1.5 shows the best agreement with LES on the prediction of local temperature distribution and global Nusselt number. 
 
 
 
