@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/gamess'
 
-title: 'GAMESS'
+title: 'Unlocking the secrets of molecular science: GAMESS'
 pi: 'Mark Gordon, Iowa State University'
 award: 'Exascale Computing Project'
 systems: '-'
