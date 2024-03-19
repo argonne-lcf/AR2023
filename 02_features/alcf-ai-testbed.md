@@ -10,17 +10,22 @@ hero-img-caption: "The ALCF AI Testbed's Cerebras, Graphcore, Groq, and SambaNov
 intro: "The ALCF’s testbed of AI accelerators is enabling the research community to advance the use of AI for data-intensive science."
 ---
 
-In May 2022, the ALCF AI Testbed was officially rolled out to the research community as the facility began accepting proposals for computing time on its Cerebras CS-2 and SambaNova DataScale systems.
+In 2023, the ALCF AI Testbed expanded its offerings to the research community, with the addition of new Graphcore and Groq systems as well as upgraded Cerebras and SambaNova machines. 
 
-A growing collection of some of the world’s most advanced AI accelerators available for science, the ALCF AI Testbed also includes Graphcore, Groq, and Habana AI systems that will be made available to researchers in the near future.
+The testbed is a growing collection of some of the world’s most advanced AI accelerators available for open science. Designed to enable researchers to explore next-generation machine learning applications and workloads to advance AI for science, the systems are also helping the facility to gain a better understanding of how novel AI technologies can be integrated with traditional supercomputing systems powered by CPUs and GPUs.
 
-The ALCF assembled and launched the AI Testbed to enable researchers to explore next-generation machine learning applications and workloads to advance the use of AI for science. The testbed platforms complement the ALCF’s current and next-generation supercomputers to
-provide a state-of-the-art computing environment that supports pioneering research at the intersection of AI, big data, and HPC. Looking to the future, the ALCF is also using the testbed to determine how AI accelerators could be coupled with supercomputers to build and design next-generation computing facilities that meet the evolving needs of the research community. 
+The testbed’s newest additions give the ALCF user community access to new leading-edge platforms for data-intensive research projects.
 
-Offering architectural features designed specifically for AI and data-centric workloads, the AI Testbed systems are uniquely well-suited to handle the growing amount of scientific data produced by supercomputers, light sources, telescopes, particle accelerators, and other
-experimental tools and facilities. The state-of-the-art accelerators are allowing researchers to explore novel workflows that combine AI methods with simulation and experimental science to accelerate the pace of discovery. Moreover, the testbed stands to significantly broaden data analysis and processing capabilities in the project workflows deployed at the ALCF beyond those supported by traditional CPU- and GPU-based machines.
+The new Graphcore Bow Pod64 is well-suited for both common and specialized machine learning applications, which will help to facilitate the use of new AI techniques and model types.
 
-To introduce researchers to using the AI accelerators for science, the ALCF hosted hands-on workshops for both the Cerebras and SambaNova systems. The two-day events covered system hardware, software, application porting, and best practices.
+The new GroqRack system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data.
+
+The upgrade to a Cerebras Wafer-Scale Cluster WSE-2 optimizes the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
+The upgrade to a second-generation SambaNova DataScale SN30 system enables a wider range of AI-for-science applications, making massive AI models and datasets more tractable to users. In this system, each accelerator is allocated a terabyte of memory, which is ideal for applications involving LLMs as well as high-resolution imaging data from experimental facilities.
+
+Together, the ALCF AI Testbed systems provide advanced capabilities that will support Argonne’s efforts to develop an integrated research infrastructure that seamlessly connects advanced computing resources with data-intensive experiments, such as light sources and fusion experiments, to accelerate the pace of discovery.
+
+Scientists are leveraging the ALCF AI Testbed systems for a wide range of data-driven research campaigns. The following summaries provide a glimpse of some of the efforts that are benefitting from the AI accelerators’ advanced capabilities.
 
 Researchers have already had some early successes in using the AI accelerators for various data-centric studies. The following summaries provide a glimpse of some of the science carried out on AI Testbed systems thus far.
 
