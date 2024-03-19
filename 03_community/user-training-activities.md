@@ -2,8 +2,8 @@
 layout: page
 
 title: Training ALCF Users
-hero-img-source: "GPUHackathon-group.png"
-hero-img-caption: "The 2022 ALCF-NVIDIA GPU Hackathon hosted 15 teams to help them get their applications running efficiently on the facility's GPU-accelerated systems."
+hero-img-source: "TourImg.jpg"
+hero-img-caption: "Argonne’s Wilkie Olin-Ammentorp gives workshop attendees an overview of the Aurora blade as part of the facility tour."
 
 theme: white
 permalink: community-and-outreach/user-training-activities
