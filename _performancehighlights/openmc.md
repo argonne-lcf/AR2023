@@ -5,7 +5,7 @@ theme: dark
 permalink: 'features/aurora/openmc'
 
 title: 'Monte Carlo Neutron and Photon Transport Simulations: OpenMC'
-pi: 'Steven Hamilton, Oak Ridge National Laboratory; Paul Romano, Argonne National Laboratory'
+pi: 'Steven Hamilton, Oak Ridge National Laboratory; Paul Romano, Jon Tramm, Argonne National Laboratory'
 award: 'Exascale Computing Project'
 systems: '-'
 sdl: 's'
@@ -25,7 +25,7 @@ image-credit: '-'
 # Challenge
 The GPU-oriented version of OpenMC has been completed and is already running on a number of GPU-based supercomputers, including Sunspot—the ALCF’s Aurora testbed and development system—and the ALCF’s NVIDIA-based Polaris. While the team’s goal is focused on honing performance on Aurora, the OpenMP offloading model has resulted in strong performance on every machine on which it was deployed, irrespective of vendor.
 
-Current full-machine projections for OpenMC running on Aurora, based on preliminary simulation runs performed on Sunspot, are in the ballpark of 25 billion particle histories per second—indicating a speedup by some 2500x over what could be achieved at full-machine scale at the time of the ECP’s inception (the goal for which had been a fiftyfold speedup).
+Current full-machine projections for OpenMC running on Aurora, based on preliminary simulation runs performed on Sunspot, are in the ballpark of 20 billion particle histories per second—indicating a speedup by some 2500x over what could be achieved at full-machine scale at the time of the ECP’s inception (the goal for which had been a fiftyfold speedup).
 
 
 
