@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/nwchemex'
 
-title: 'NWChemEx'
+title: 'High-Performance Computational Chemistry: NWChemEx'
 pi: 'Theresa Windus, Ames National Laboratory and Iowa State University'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "As the original NWChem code is some quarter-century old, in updating the NWChem code, the NWChemEx developers decided to rewrite the application from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new package is capable of enabling chemistry research on a variety of leading-edge computing systems."
+    blurb = "As the original NWChem code—an ab initio computational chemistry software package which includes quantum chemical and molecular dynamics functionality— is nearly a quarter-century old, in updating the application, the NWChemEx developers decided to rewrite from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new code is capable of enabling chemistry research on a variety of leading-edge computing systems."
 %}
 
 
@@ -39,9 +39,7 @@ For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to 
 
 # Performance Results
 
-The NWChem simulations were carried out in 2023 for both single-GPU performance evaluations and large-scale demonstration runs involving up to 2000 nodes. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description showed significantly faster performance on Aurora than was achieved using previous-generation systems, as did the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD).
-
-
+The NWChem simulations were carried out in 2023 for both single-GPU performance evaluations and large-scale demonstration runs involving up to 2000 nodes on Aurora. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description showed significantly faster performance on Aurora than was achieved using previous-generation systems, as did the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD).
 
 
 # Impact
