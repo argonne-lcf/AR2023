@@ -27,18 +27,20 @@ Together, the ALCF AI Testbed systems provide advanced capabilities that will su
 
 Scientists are leveraging the ALCF AI Testbed systems for a wide range of data-driven research campaigns. The following summaries provide a glimpse of some of the efforts that are benefitting from the AI accelerators’ advanced capabilities.
 
-Researchers have already had some early successes in using the AI accelerators for various data-centric studies. The following summaries provide a glimpse of some of the science carried out on AI Testbed systems thus far.
+Scientists are leveraging the ALCF AI Testbed systems for a wide range of data-driven research campaigns. The following summaries provide a glimpse of some of the efforts that are benefitting from the AI accelerators’ advanced capabilities.
 
-# Drug Discovery
-A team of researchers leveraged the ALCF’s Groq system to accelerate the process of searching through a vast number of small molecules to find promising antiviral drugs to fight COVID-19. With billions upon billions of potential drug candidates to sort through, the scientists needed a way to dramatically speed up their search. In tests on a large dataset of molecules, the team found they could achieve 20 million predictions, or inferences, a second, vastly reducing the time needed for each search from days to minutes. The most promising candidates were sent to a laboratory for further testing on human cells.
+# Experimental Data Analysis
+Argonne researchers are leveraging multiple ALCF AI Testbed systems to accelerate and scale deep learning models to aid the analysis of X-ray data obtained at Argonne’s Advanced Photon Source (APS). The team is using the ALCF AI Testbed to train models—too large to run on a single GPU — to generate improved 3D images from x-ray data.
 
-# Edge Computing
-To keep pace with the growing amount of data produced at DOE light source facilities, researchers are looking to machine learning methods to help with tasks such as data
-reduction and providing insights to steer future experiments. Using the ALCF’s Cerebras and SambaNova systems, researchers demonstrated how specialized AI systems can be used to quickly train machine learning models through a geographically distributed workflow. To obtain actionable information in real-time, the team trained the models on the remote AI system and then deployed them on edge computing devices near the experimental data source.
+They are also exploring the use of the ALCF’s AI platforms for fast-inference applications. Their work has yielded some promising initial results, with various models (PtychoNN, BraggNN, and AutoPhaseNN) showing speedups over traditional supercomputers. ALCF and vendor software teams are collaborating with the APS team to achieve further advances.
 
-# Fusion Energy
-As part of an effort to improve predictive capabilities for fusion energy research, researchers turned to the ALCF’s Groq system to accelerate the performance of deep learning models used to investigate fusion control in real time. The Groq system’s architecture ensured fixed,
-predictable compute times for a key phase of deep learning (inference) that would vary in duration if carried out on CPU- and GPU-driven machines. Ultimately, the researchers aim to develop a workflow that leverages AI and exascale computing power for training and inference tasks that will advance fusion energy research.
+# Neural Networks
+Graph neural networks (GNNs) are powerful machine learning tools that can process and learn from data represented as graphs. GNNs are being used for research in several areas, including molecular design, financial data, and social networks. ALCF researchers are working to compare the performance of GNN models across multiple ALCF AI Testbed accelerators. With a focus on inference, the team is examining which GNN-specific operators or kernels, as a result of increasing numbers of parameters or batch sizes, can create computational bottlenecks that affect overall runtime.
 
-# Neutrino Physics
-To improve the neutrino signal efficiency, scientists use image segmentation to tag each input pixel as one of three classes: cosmic-induced, neutrino-induced, or background noise. Deep learning has been a useful tool for accelerating this classic image segmentation task, but it has been limited by the image size that available GPU-based platforms can efficiently train on. Leveraging the ALCF’s SambaNova system, researchers were able to improve this method to establish a new state-of-the art accuracy level of 90.23% using images at their original resolution without the need to downsample. Their work demonstrates capabilities that can be used to advance model quality for a variety of important and challenging image processing problems.
+# COVID-19 Research
+An Argonne-led team relied on the ALCF AI Testbed when using LLMs to discover SARS-CoV-2 variants. Their workflow leveraged AI accelerators alongside GPU-accelerated systems including the ALCF’s Polaris supercomputer. One of the critical problems the team had to overcome was how to manage extensive genomic sequences, the size of which can overwhelm many computing systems when establishing foundation models. The learning-optimized architecture
+of the ALCF AI Testbed systems was key for accelerating the training process. The team’s research resulted in the 2022 Gordon Bell Award Special Prize for COVID-19 Research.
+
+
+# Battery Materials
+Argonne scientists are leveraging the ALCF AI Testbed to aid in the development of an application that combines two types of computations for research into potential battery materials: (1) running physics simulations of molecules under redox and (2) training a machine learning model that predicts that energy quantity. The application uses the machine learning model to predict the outcomes of the redox simulations, helping to identify molecules with the desired capacity for energy storage. The ALCF AI Testbed has enabled shortened latency when cycling between the execution of a new calculation that yields additional training data and when that model is used to select the next calculation.
