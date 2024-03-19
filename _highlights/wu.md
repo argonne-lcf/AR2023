@@ -4,7 +4,7 @@ layout: highlight
 theme: white
 permalink: 'science/highlights/ma'
 
-title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
+title: 'High-Fidelity Simulations of Gas Turbine Combustors for Sustainable Aviation Applications'
 pi: 'Muhsin Ameen, Sicong Wu, Argonne National Laboratory'
 award: 'Director’s Discretionary'
 systems: 'Theta'
