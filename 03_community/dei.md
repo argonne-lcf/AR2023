@@ -2,8 +2,8 @@
 layout: page
 
 title: Building a Diverse HPC Workforce
-hero-img-source: "Tapia-ANLbooth.jpg"
-hero-img-caption: "Argonne staff members discuss career opportunities at the Richard Tapia Celebration of Diversity in Computing Conference."
+hero-img-source: "MorrissetteMateevitsi.jpg"
+hero-img-caption: "Morrissette (right) discusses his digital twins research project with Mateevitsi. Image: Argonne National Laboratory"
 
 theme: white
 permalink: community-and-outreach/dei
