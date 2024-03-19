@@ -25,8 +25,8 @@ ALCF led the Intro to HPC thrust, which focused on developing training materials
 The ALCF team also contributed to the two other Broadening Participation thrusts: the HPC Workforce Development and Retention Action Group, and Sustainable Research Pathways for HPC. The action group shares best practices and develops recommendations and strategies for improving the workforce pipeline through webinars and other outreach materials. Sustainable Research Pathways is an internship and mentoring program that pairs students with ECP teams at different institutions, including ALCF, to work on a variety of projects across application development, software technologies, and computing facilities.
 
 {% include media-img.html
-   source= "IGED2.jpg"
-   caption= "Serving as mentors and volunteers at outreach events like Argonne's Introduce a Girl to Engineering Day, ALCF staff members are able to engage with the next generation of engineers and scientists."
+   source= "MiddleAlvaro.png"
+   caption= "ALCF’s Alvaro Vazquez-Mayagoitia leads a breakout session at the 2023 Intro to HPC Bootcamp."
 %}
 
 # Student Outreach
