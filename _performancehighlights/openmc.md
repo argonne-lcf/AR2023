@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/openmc'
 
-title: 'OpenMC'
+title: 'Monte Carlo Neutron and Photon Transport Simulations: OpenMC'
 pi: 'Steven Hamilton, Oak Ridge National Laboratory; Paul Romano, Argonne National Laboratory'
 award: 'Exascale Computing Project'
 systems: '-'
