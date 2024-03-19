@@ -1,7 +1,7 @@
 ---
 layout: back-proj
 
-title: Projects
+title: 2023 Award List
 
 theme: sky
 permalink: science/projects
