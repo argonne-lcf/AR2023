@@ -15,7 +15,7 @@ When the massive upgrade at Argonne’s Advanced Photon Source (APS) is complete
 
 The growing deluge of scientific data is not unique to light sources. Telescopes, particle accelerators, fusion research facilities, remote sensors, and other scientific instruments also produce large amounts of data. And as their capabilities improve over time, the data generation rates will only continue to grow. The scientific community’s ability to process, analyze, store, and share these massive datasets is critical to gaining insights that will spark new discoveries. 
 
-To help scientists manage the ever-increasing amount of scientific data, Argonne’s Nexus effort is playing a key role in supporting DOE’s vision to build an integrated research infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
+To help scientists manage the ever-increasing amount of scientific data, [Argonne’s Nexus effort] (www.anl.gov/nexus-connect) is playing a key role in supporting DOE’s vision to build an integrated research infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
 
 {% include media-img.html
    source= "Nexus-Infographic.jpg"
@@ -23,14 +23,14 @@ To help scientists manage the ever-increasing amount of scientific data, Argonne
    credit= "Argonne National Laboratory"
 %}
 
-For over a decade, the ALCF has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. Merging ALCF supercomputers with the APS has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from DIII-D National Fusion Facility in California to CERN’s Large Hadron Collider (LHC) in Switzerland.
+For over a decade, the ALCF has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS] (www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility] (www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)] (www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
 
 These collaborations have led to the creation of new capabilities for on-demand computing and managing complex workflows, giving the lab valuable experience to support the DOE IRI initiative. Argonne also operates several resources and services that are key to realizing the IRI vision.
 
--	The ALCF's Polaris and Aurora systems are powerful supercomputers with advanced capabilities for simulation, AI, and data analysis.
--	The ALCF AI Testbed provides researchers with access to novel AI accelerators for data-intensive tasks and AI workloads, including training, inference, large language models, and computer vision models. 
--	The ALCF Community Data Co-Op (ACDC) provides large-scale data storage capabilities, offering a portal that makes it easy to share data with external collaborators across the globe. 
--	Globus, a research automation platform created by researchers at Argonne and the University of Chicago, is a not-for-profit service used to manage high-speed data transfers, computing workflows, data collection and other tasks for experiments.
+-	The ALCF's [Polaris] (www.alcf.anl.gov/polaris) and [Aurora] (www.alcf.anl.gov/aurora) systems are powerful supercomputers with advanced capabilities for simulation, AI, and data analysis.
+-	The [ALCF AI Testbed] (www.alcf.anl.gov/alcf-ai-testbed) provides researchers with access to novel AI accelerators for data-intensive tasks and AI workloads, including training, inference, large language models, and computer vision models. 
+-	The [ALCF Community Data Co-Op (ACDC)] (www.acdc.alcf.anl.gov) provides large-scale data storage capabilities, offering a portal that makes it easy to share data with external collaborators across the globe. 
+-	[Globus] (www.globus.org), a research automation platform created by researchers at Argonne and the University of Chicago, is a not-for-profit service used to manage high-speed data transfers, computing workflows, data collection and other tasks for experiments.
 
 
 # Streamlining Science
@@ -88,6 +88,6 @@ While Argonne and its fellow national labs have been working on projects to demo
    caption= "DOE's IRI Architecture Blueprint Activity Report provides the conceptual foundations to move forward with coordinated DOE implementation efforts."
 %}
 
-ASCR recently launched the IRI Blueprint Activity to create a framework for implementing the IRI. The blueprint team, which included Ramprakash and Schwarz, released a report that describes a path forward from the lab’s individual partnerships and demonstrations to a broader long-term strategy that will work across the DOE ecosystem. Over the past year, the blueprint activities have started to formalize with the introduction of IRI testbed resources and environments. Now in place at each of the DOE computing facilities, the testbeds facilitate research to explore and refine IRI ideas in collaboration with teams from DOE experimental facilities.
+ASCR recently launched the IRI Blueprint Activity to create a framework for implementing the IRI. In 2023, the blueprint team, which included Ramprakash and Schwarz, released the [IRI Archictecture Blueprint Activity Report] (www.osti.gov/biblio/1984466), which describes a path forward from the lab’s individual partnerships and demonstrations to a broader long-term strategy that will work across the DOE ecosystem. Over the past year, the blueprint activities have started to formalize with the introduction of IRI testbed resources and environments. Now in place at each of the DOE computing facilities, the testbeds facilitate research to explore and refine IRI ideas in collaboration with teams from DOE experimental facilities.
 
 With the launch of Argonne’s Nexus effort, the lab will continue to leverage its expertise and resources to help DOE and the larger scientific community enable and scale this new paradigm across a diverse range of research areas, scientific instruments, and user facilities. 
