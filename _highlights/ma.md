@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: white
-permalink: 'science/highlights/ma'
+permalink: 'science/highlights/ma.md'
 
 title: 'Identifying Reaction Coordinates for Complex Protein Dynamics'
 pi: 'Ao Ma, University of Illinois Chicago'
