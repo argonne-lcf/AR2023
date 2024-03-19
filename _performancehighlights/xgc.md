@@ -4,7 +4,7 @@ layout: highlight
 theme: dark
 permalink: 'features/aurora/xgc'
 
-title: 'XGC'
+title: 'Multiphysics Magnetic Fusion Reactor Simulations: XGC'
 pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 sdl: 's'
