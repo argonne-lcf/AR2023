@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "OpenMC, originally written for CPU-based high-performance computers and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor."
+    blurb = "OpenMC, a Monte Carlo neutron and photon transport simulation code originally written for CPU-based high-performance computers (HPC) and which is capable of using both distributed-memory (MPI) and shared-memory (OpenMP) parallelism, simulates the stochastic motion of neutral particles through a model that, as a representation of a real-world experimental setup, can range in complexity from a simple slab of radiation-shielding material to a full-scale nuclear reactor. Researchers have been working porting the application to graphics processor unit- (GPU-) based HPC systems."
 %}
 
 
