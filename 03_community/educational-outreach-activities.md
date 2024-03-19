@@ -2,8 +2,8 @@
 layout: page
 
 title: Inspiring Students
-hero-img-source: "IGED.jpg"
-hero-img-caption: "ALCF's Jini Ramprakash discusses supercomputers with students at Argonne's annual Introduce a Girl to Engineering Day."
+hero-img-source: "SummerCamp2023.jpg"
+hero-img-caption: "Argonne summer camps allow students to get firsthand experience with coding and computer science. Image: Argonne National Laboratory."
 
 theme: white
 permalink: community-and-outreach/educational-outreach-activities
@@ -31,8 +31,8 @@ In October, nearly 100 undergraduate students from Chicagoland universities atte
 ALCF staff members continued to contribute to Argonne’s annual Science Careers in Search of Women (SCSW) conference. The event hosts female high school students for a day of inspiring lectures, facility tours, career booth exhibits, and mentoring. SCSW provides participants with the unique experience to explore their desired profession or area of interest through interaction with Argonne’s women scientists and engineers.
 
 {% include media-img.html
-   source= "AI-Training.jpg"
-   caption= "Undergraduate and graduate students from across the country attended the ALCF’s eight-part training series, Intro to AI-Driven Science on Supercomputers, to learn the fundamentals of using AI and supercomputers for scientific research."
+   source= "AmbassadorAR23.png"
+   caption= "Group photo from OneAPI Academic Hands-on Workshop featuring ALCF staff, Intel staff, and faculty members in the back row with student ambassadors in the front row."
 %}
 
 
