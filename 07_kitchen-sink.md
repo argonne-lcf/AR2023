@@ -118,6 +118,34 @@ var example = example;
 
 
 
+
+<!-- Video 2x
+	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
+	   NOTE: Make sure to remove any width/height properties from the embed code
+
+	  available parameters:
+		* embed-code1
+		- caption1
+		- credit1
+		* embed-code2
+		- caption2
+		- credit2
+
+		* required
+------------------------------------------------------------------------------>
+
+{% include media-video2x.html
+   embed-code1= '<iframe src="https://www.youtube.com/embed/tE9uKTgmQvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption1= "The quick brown fox jumps over the lazy dog."
+   credit1= "Name A. Name"
+   embed-code2= '<iframe src="https://www.youtube.com/embed/tE9uKTgmQvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption2= "The quick brown fox jumps over the lazy dog."
+   credit2= "Name A. Name"
+%}
+
+
+
+
 <!-- Meta Info
 	   NOTE: Can include up to 6 name:value pairs
 
