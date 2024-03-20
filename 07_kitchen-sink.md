@@ -84,6 +84,19 @@ var example = example;
 %}
 
 
+<!-- Image 2x
+------------------------------------------------------------------------------>
+
+{% include media-img2x.html
+   source1= "fpo.jpg"
+   caption1= "The quick brown fox jumps over the lazy dog."
+   credit1= "Name A. Name"
+   source2= "fpo.jpg"
+   caption2= "The quick brown fox jumps over the lazy dog."
+   credit2= "Name A. Name"
+%}
+
+
 
 <!-- Video
 	   NOTE: Make sure to surround the embed code with different quotation marks than are used within the code. For example, surround the code with single quotation marks if double marks are used within the embed code.
