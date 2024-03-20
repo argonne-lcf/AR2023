@@ -24,7 +24,7 @@ image-credit: '-'
 
 # Challenge
 
-The NWChemEX developers aim to restructure core functionality—including the elimination of longstanding bottlenecks associated with the generally successful NWChem code—concurrent with the production of sophisticated physics models intended to leverage the computing power promised by the exascale era. As one component of this strategy, the developers have adopted the Aurora-supported DPC++ programming model as one of its development platforms.
+The NWChemEx developers aim to restructure core functionality—including the elimination of longstanding bottlenecks associated with the generally successful NWChem code—concurrent with the production of sophisticated physics models intended to leverage the computing power promised by the exascale era. As one component of this strategy, the developers have adopted the Aurora-supported DPC++ programming model as one of its development platforms.
 
 From a design point-of-view, the development team gives equal weight and consideration to physics models, architecture, and software structure, in order to fully harness large-scale HPC systems. To this end, NWChemEx incorporates numerous modern software-engineering techniques for C++, while GPU compatibility and support have been planned since the project’s initial stages, thereby orienting the code to the demands of exascale as matter of constitution.
 
@@ -39,7 +39,7 @@ For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to 
 
 # Performance Results
 
-The NWChem simulations were carried out in 2023 for both single-GPU performance evaluations and large-scale demonstration runs involving up to 2000 nodes on Aurora. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description showed significantly faster performance on Aurora than was achieved using previous-generation systems, as did the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD).
+The NWChemEx simulations were carried out in 2023 for both single-GPU performance evaluations and large-scale demonstration runs involving up to 512 nodes. Canonical coupled cluster singles and doubles (CCSD) methods for molecular description showed faster performance on Aurora than was achieved using previous-generation systems, while the domain-based local pair natural orbital coupled-cluster method with single-, double- and perturbative triple excitations (DLPNO-CCSD) gave approximately the same performance compared to another tested system.
 
 
 # Impact
