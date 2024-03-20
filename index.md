@@ -4,7 +4,6 @@ layout: home
 
 title: Argonne Leadership Computing Facility
 
-aside: about-numbers.md
 ---
 {% assign features = site.data.nav-config.toc | where: "title", "Features" %}
 
