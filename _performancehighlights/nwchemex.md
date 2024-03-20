@@ -17,7 +17,7 @@ image-credit: '-'
 ---
 
 {% include txt-intro.html 
-    blurb = "As the original NWChem code—an ab initio computational chemistry software package which includes quantum chemical and molecular dynamics functionality— is nearly a quarter-century old, in updating the application, the NWChemEx developers decided to rewrite from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new code is capable of enabling chemistry research on a variety of leading-edge computing systems."
+    blurb = "As the original NWChem code—an ab initio computational chemistry software package which includes quantum chemical and molecular dynamics functionality— is nearly a quarter-century old, in updating the application, the NWChemEx developers decided to rewrite from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new, exascale-optimized code is capable of enabling chemistry research on a variety of leading-edge computing systems."
 %}
 
 
