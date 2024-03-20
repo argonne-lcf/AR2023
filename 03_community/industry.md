@@ -2,8 +2,9 @@
 layout: page
 
 title: Partnering with Industry
-hero-img-source: "Biofuels-ARC-M1.jpg"
-hero-img-caption: Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This image shows a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the ARC M1 gas turbine combustor using the Nek5000 code.
+hero-mp4-source: "industry.mp4"
+hero-webm-source: "industry.webm"
+hero-img-caption: "Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This image shows a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the ARC M1 gas turbine combustor using the Nek5000 code."
 hero-img-credit: "ALCF Visualization and Data Analytics Team; Muhsin Ameen and Sicong Wu, Argonne National Laboratory"
 
 theme: white
@@ -46,5 +47,3 @@ In a collaborative project between Aramco Americas, Convergent Science, and Argo
 
 ## Wabtec Advances the Development of Hydrogen-Powered Train Technologies
 Wabtec Corp., a leading manufacturer of freight locomotives, has entered Cooperative Research and Development Agreements (CRADAs) with Argonne and Oak Ridge national laboratories to advance the development of combustion technologies to power the next generation of trains with 100 percent hydrogen and low-carbon fuels. As part of the collaboration, Argonne researchers are using ALCF supercomputers to create a modeling framework to study combustion and emission control technologies used in hydrogen combustion engines. The simulation software tool will help predict the behavior of combustion engines and increase understanding the combustion process, helping to drive improvements in energy efficiency and emission reduction.
-
-
