@@ -26,7 +26,7 @@ ALCF Director Michael Papka received the [Distinguished Performance Award](www.a
 
 # Balin Receives Argonne Postdoctoral Performance Award
 
-Riccardo Balin, a postdoctoral researcher at the ALCF, received a Postdoctoral Performance Award at Argonne National Laboratory's Postdoctoral Research and Career Symposium in November. Balin was recognized for his innovative work in coupling high-fidelity aerodynamic flow simulations with machine learning to improve modeling capabilities for aerospace engineering.
+Riccardo Balin, a postdoctoral researcher at the ALCF, received a [Postdoctoral Performance Award](www.alcf.anl.gov/news/10-researchers-receive-argonne-postdoctoral-performance-awards) at Argonne National Laboratory's Postdoctoral Research and Career Symposium in November. Balin was recognized for his innovative work in coupling high-fidelity aerodynamic flow simulations with machine learning to improve modeling capabilities for aerospace engineering.
 
 # ALCF Team Awarded Most Outstanding Paper at 2023 IWOCL & SYCLcon
 
