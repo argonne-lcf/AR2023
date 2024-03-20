@@ -58,7 +58,7 @@ title: Argonne Leadership Computing Facility
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">
-			    		<h3>{{ entry.page }}</h3>
+			    		<h3>{{ feature[0].title }}</h3>
 			    		<p>{{ feature[0].intro }}</p>
 			    	</div>
 			    </a>

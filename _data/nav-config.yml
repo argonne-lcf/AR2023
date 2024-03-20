@@ -13,13 +13,13 @@ toc:
     slug: features
     url: features
     subfolderitems:
-      - page: Standing Up Aurora
+      - page: Bringing Aurora Online
         url: features/aurora
-      - page: Developing an Integrated Research Infrastructure
-        url: features/aurora-and-aps
-      - page: 2023 Performance Highlights
+      - page: Aurora Performance Highlights
         url: features/performancehighlights
-      - page: ALCF AI Testbed Systems Deployed for Open Science
+      - page: Bringing Supercomputers and Experiments Together
+        url: features/aurora-and-aps
+      - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
         url: features/alcf-ai-testbed
       - page: ALCF Retires Theta Supercomputer
         url: features/theta

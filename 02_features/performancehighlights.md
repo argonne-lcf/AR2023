@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: 2023 Performance Highlights
+title: Aurora Performance Highlights
 intro: "The quick brown fox jumps over the lazy dog"
 
 theme: dark
