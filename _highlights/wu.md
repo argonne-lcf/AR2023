@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Energy Technologies'
 sdl: 's'
 
-image: 'wu.png' 
+image: 'Wu.png' 
 image-caption: 'Instantaneous velocity magnitude in ARC-M1 combustor.'
 image-credit: 'Sicong Wu, Argonne National Laboratory'
 

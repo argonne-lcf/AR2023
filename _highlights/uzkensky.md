@@ -11,7 +11,7 @@ systems: 'Theta'
 field: 'Physics'
 sdl: 's'
 
-image: 'uzdensky.png' 
+image: 'Uzdensky.png' 
 image-caption: 'Evolution of the pair-plasma MRI in a small 3D box (2 × 2 × 2 λ 3 MRI, where λMRI is the most unstable MRI wavelength), showing the spatial distribution of the radial (Bx) and toroidal (By) magnetic field at subsequent times during the simulation (in terms of P0, the orbital period). '
 image-credit: 'Dmitri Uzdensky, University of Colorado'
 
