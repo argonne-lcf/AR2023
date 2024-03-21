@@ -9,6 +9,8 @@ hero-mp4-source: "aurora.mp4"
 hero-webm-source: "aurora.webm"
 hero-img-caption: "Susan Coghlan (center), ALCF Project Director for Aurora, discusses the system installation with colleagues from Intel."
 intro: "The ALCF made significant progress in deploying its exascale supercomputer in 2023, completing the hardware installation, registering early performance numbers, and supporting early science teams’ initial runs on the system."
+
+aside: alcf-4.md
 ---
 
 In June 2023, the [installation of Aurora’s 10,624th and final blade](www.alcf.anl.gov/news/argonne-installs-final-components-aurora-supercomputer) marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
@@ -42,10 +44,3 @@ In another significant milestone for the supercomputer, early science teams bega
 Once the early science period begins, the ECP and ESP teams will use the machine to carry out innovative research campaigns involving simulation, artificial intelligence, and data-intensive workloads in areas ranging from fusion energy science and cosmology to cancer research and aircraft design. In addition to pursuing groundbreaking research, these early users help to further stress test the supercomputer and identify potential bugs that need to be resolved ahead of its deployment.
 
 In 2024, an additional 24 research teams will begin using Aurora to ready their codes for the system via allocation awards from DOE’s [INCITE program](www.alcf.anl.gov/news/incite-program-awards-supercomputing-time-75-high-impact-projects). 
-
-# ALCF-4: Planning for Argonne’s Next-Generation Exascale System
-
-Looking beyond Aurora, the facility also kicked off the ALCF-4 effort to prepare for its next-generation supercomputer. In April 2023, DOE approved Critical Decision-0 (CD-0), which is the first step in procuring a new system.  
-
-Led by Jini Ramprakash, ALCF-4 Project Director, and Kevin Harms, ALCF-4 Technical Director, the team is targeting 2028-2029 for the deployment of the facility’s next production supercomputer. The project’s goals include enabling a significant improvement in application performance over Aurora; continuing to support traditional HPC workloads alongside AI and data-intensive computations; and investigating the potential to accelerate the deployment and realization of new technologies.
-
