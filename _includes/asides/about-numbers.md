@@ -3,7 +3,7 @@
 
 
 <br>
-## 2022 Stats
+## 2023 Stats
 
 {%	include txt-fig.html 
   	figure-1 = "35.7M"
@@ -27,7 +27,7 @@
 
 
 <br><br><br>
-## 2022 ALCF Users by Affiliation
+## 2023 ALCF Users by Affiliation
 
 {%	include txt-fig.html 
 	  	figure-1 = "857"
@@ -40,7 +40,7 @@
 
 
 <br><br><br>
-## 2022 U.S. ALCF Users by State
+## 2023 U.S. ALCF Users by State
 
 {% include media-img.html
    source= "usa.png"
@@ -51,6 +51,17 @@
 | California <br> Illinois | &nbsp; | Colorado <br> Georgia <br> Florida <br> Indiana <br> Iowa <br> Maryland <br> Massachusetts <br> Michigan <br> Minnesota <br> North Carolina <br> New Jersey | New Mexico <br> New York <br> Ohio <br> Oregon <br> Pennsylvania <br> Rhode Island <br> Tennessee <br> Texas <br> Virginia <br> Washington | Alabama <br> Arizona <br> Connecticut <br> Delaware <br> Idaho <br> Kansas <br> Louisiana <br> Mississippi <br> Missouri <br> Nebraska <br> North Dakota | Nevada <br> Oklahoma <br> South Carolina <br> Utah <br> Washington D.C. <br> West Virginia <br> Wisconsin <br> Wyoming |
 
 
+<br><br><br>
+## ALCF Staff Numbers
+
+{%	include txt-fig.html 
+	figure-1 = "128"
+	label-1 = "Staff Members"
+  figure-2 = "17"
+  label-2 = "Postdoctoral Researchers"
+  figure-3 = "31"
+	label-3 = "Summer Students"
+%}
 
 
 
