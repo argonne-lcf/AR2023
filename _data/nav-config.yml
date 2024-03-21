@@ -10,7 +10,7 @@ toc:
       - page: About ALCF
         url: year-in-review/about-alcf
       - page: 2023 By The Numbers
-        url: year-in-review/about-alcf/#by-the-numbers
+        url: year-in-review/about-alcf#by-the-numbers
   - title: Features
     slug: features
     url: features
