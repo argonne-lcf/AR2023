@@ -38,11 +38,14 @@ Theta allowed researchers to perform some of the world’s largest simulations o
 
 One of the pioneering machine learning projects was led by Jacqueline Cole of the University of Cambridge. With support from the ADSP, her team used Theta to speed up the process of [identifying new materials for improved solar cells](www.alcf.anl.gov/news/scientists-use-machine-learning-identify-high-performing-solar-materials). It began with an effort to sort through hundreds of thousands of scientific journals to collect data on a wide variety of chemical compounds. The team created an automated workflow that combined simulation, data mining and machine learning techniques to zero in on the most promising candidates from a pool of nearly 10,000 compounds. This allowed the researchers to pinpoint five high-performing materials for laboratory testing.
 
-{% include media-img.html
-   source= "burrows.png"
+<br>
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/vpg9C0w4TVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption= "Researchers from Princeton University are using Polaris for large-scale 3D simulations aimed at advancing our understanding of supernova explosions."
    credit= "ALCF Visualization and Data Analytics Team; Princeton University"
 %}
+
 
 Simulating supernova explosions is another area of research that benefitted from Theta’s computational muscle. As part of a multi-year project, Adam Burrows of Princeton University used the supercomputer to advance the state of the art in performing [supernova simulations in 3D](www.alcf.anl.gov/news/simulating-supernova-explosions-3d). The team’s work on Theta has included carrying out one of the largest collections of 3D supernova simulations and the longest duration full-physics 3D supernova calculation ever performed. With Theta now retired, the Princeton team continues their work to carry out longer and more detailed 3D supernova simulations on Polaris and Aurora. 
 
