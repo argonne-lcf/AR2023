@@ -7,7 +7,7 @@
 
 .home--video-wrapper {
 	@include stack(xl);
-	@include grid-parent();
+	@include grid-parent($config: $grid-full);
 
 
 	h2 {
