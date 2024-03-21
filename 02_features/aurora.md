@@ -8,7 +8,7 @@ title: Bringing Aurora Online
 hero-mp4-source: "aurora.mp4"
 hero-webm-source: "aurora.webm"
 hero-img-source: ALCF-Aurora1.jpg
-hero-img-caption: "Susan Coghlan (center), ALCF Project Director for Aurora, discusses the system installation with colleagues from Intel."
+hero-img-caption: "The Aurora team uses a specialized machine to install the supercomputer's blades."
 intro: "The ALCF made significant progress in deploying its exascale supercomputer in 2023, completing the hardware installation, registering early performance numbers, and supporting early science teams’ initial runs on the system."
 
 aside: alcf-4.md
@@ -16,13 +16,15 @@ aside: alcf-4.md
 
 In June 2023, the [installation of Aurora’s 10,624th and final blade](www.alcf.anl.gov/news/argonne-installs-final-components-aurora-supercomputer) marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
 
-{% include media-img.html
-   source= "Aurora-blade-33603D_2592.jpg"
-   caption= "The Aurora team uses a specialized machine to install the supercomputer's blades."
+<!-- {% include media-img.html
+   source= "Aurora-blade-33603D_0640.jpg"
+   caption= "Susan Coghlan (center), ALCF Project Director for Aurora, discusses the system installation with colleagues from Intel."
    credit= "Argonne National Laboratory"
-%}
+%} -->
 
 Built in partnership with Hewlett Packard Enterprise (HPE), [Aurora](www.alcf.anl.gov/aurora) is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
+
+{% include media-video.html embed-code= '<iframe src="https://youtu.be/VW0hCq4G3uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>' caption= "The quick brown fox jumps over the lazy dog." credit= "Name A. Name" %}
 
 As is the case with all DOE leadership supercomputers, Aurora is a first-of-its-kind system equipped with leading-edge technologies that are being deployed at an unprecedented scale. This presents unique challenges in launching leadership-class systems as various hardware and software issues only emerge when approaching full-scale operations. The Aurora team, which includes staff from Argonne, Intel and HPE, continues work to stabilize the supercomputer, which includes efforts such as optimizing the flow of data between network endpoints.
 
