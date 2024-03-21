@@ -49,10 +49,10 @@ To help DIII-D researchers obtain results on a between-pulse timescale, the ALCF
 
 Many APS experiments, including battery research, the exploration of materials failure and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
 
-{% include media-img.html
-   source= "Bragg-diffraction.jpg"
-   caption= "Scientific visualization of Bragg diffraction peaks in a 15x15 pixel patch of an undeformed bi-crystal gold sample. The height denotes photon counts. This data was acquired at the APS and processed on ALCF supercomputers."
-   credit= "ALCF Visualization and Data Analytics Team; Hemant Sharma, Argonne National Laboratory"
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/twLutyNPmX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "The quick brown fox jumps over the lazy dog."
+   credit= "Name A. Name"
 %}
 
 A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
