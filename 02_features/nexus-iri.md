@@ -49,6 +49,8 @@ To help DIII-D researchers obtain results on a between-pulse timescale, the ALCF
 
 Many APS experiments, including battery research, the exploration of materials failure and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
 
+<br>
+
 {% include media-video.html
    embed-code= '<iframe src="https://www.youtube.com/embed/twLutyNPmX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption= "The quick brown fox jumps over the lazy dog."
