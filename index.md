@@ -65,7 +65,7 @@ title: Argonne Leadership Computing Facility
 			  </div>		 
 			{% endfor %}	
 			<div class="teaser">
-			    <a href="{{ site.url }}/science/highlights/">
+			    <a href="{{ site.url }}/science/highlights">
 			    	<div class="image-wrapper">
 			    		<div><img src="{{ site.url }}/assets/images/Uzdensky.png"></div>
 			    		<div class="hover-scrim"></div>
