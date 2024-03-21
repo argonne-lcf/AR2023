@@ -63,7 +63,19 @@ title: Argonne Leadership Computing Facility
 			    	</div>
 			    </a>
 			  </div>		 
-			{% endfor %}		
+			{% endfor %}	
+			<div class="teaser">
+			    <a href="{{ site.url }}/science/highlights/">
+			    	<div class="image-wrapper">
+			    		<div><img src="{{ site.url }}/assets/images/Uzdensky.png"></div>
+			    		<div class="hover-scrim"></div>
+			    	</div>
+			    	<div class="content-wrapper">
+			    		<h3>Science Highlights</h3>
+			    		<p>In 2023, scientists from across the world used ALCF supercomputing and AI resources to accelerate discovery and innovation across a wide range of research areas. The following science highlights detail some of the groundbreaking research campaigns carried out by ALCF users over the past year.</p>
+			    	</div>
+			    </a>
+			  </div>	
 	</div>
 </div>
 
