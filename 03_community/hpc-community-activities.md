@@ -3,8 +3,8 @@ layout: page
 
 title: Shaping the Future of Supercomputing
 
-hero-img-source: "ASCAC-Vishwanath.png"
-hero-img-caption: "ALCF's Venkat Vishwanath (top left) delivers a presentation on the ALCF AI Testbed at DOE's Advanced Scientific Computing Advisory Committee (ASCAC) meeting."
+hero-img-source: "ATPESC2023-community.jpg"
+hero-img-caption: "ALCF has been leading the ATPESC training program for the past eleven years to help computational scientists grow their HPC skills."
 
 theme: white
 permalink: community-and-outreach/hpc-community-activities
