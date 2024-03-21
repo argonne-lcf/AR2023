@@ -32,12 +32,10 @@ Leveraging ALCF leadership-computing resources, the researchers devised a workfl
 
 
 # Performance Results
-Drug screening inference scaled to 128 nodes on Aurora, screening approximately 11 billion drug molecules per hour. Screening inference was then scaled to 256 nodes on Aurora, screening approximately 22 billion drug molecules per hour. These results indicate that Aurora enabled strong performance improvements over other systems: the workflow facilitated screening some 3 billion compounds per hour when scaled to 48 nodes on Polaris.
+Drug screening inference scaled to 128 nodes on Aurora, screening approximately 11 billion drug molecules per hour. Screening inference was then scaled to 256 nodes on Aurora, screening approximately 22 billion drug molecules per hour. These results indicate that Aurora enabled strong performance improvements over other systems: the workflow facilitated screening some 3 billion compounds per hour when scaled to 48 nodes on Polaris. Assuming linear scaling, researchers could expect about a trillion compounds screened per hour if using all compute resources in Aurora.
 
-Tested surrogates showed impressive predictive powers, with r-squared values between 70 and 90 percent, thereby affirming the capability of ST to learn molecular features directly from language-based data. Furthermore, one significant advantage of the ST approach is its notably faster tokenization preprocessing compared to alternative methods for generating molecular descriptors.
-
-
+SST showed comparable accuracy to state-of-the-art surrogate models, with r-squared values between 70 and 90 percent on multiple test protein receptors, affirming the capability of SST to learn molecular information directly from language-based data. One significant advantage of the SST approach is its notably faster tokenization preprocessing compared to alternative preprocessing methods such as generating molecular descriptors. Furthermore, SST predictions emphasize several molecular motifs that have previously been confirmed to interact with residues in their target binding pockets.
 
 # Impact
-The team’s approach presents an efficient means for screening cumbersomely extensive compound databases for molecular properties potentially useful for targeting cancer and other diseases. Aurora system capabilities will make possible screening 40 to 60 billion candidate compounds for potential synthesis. A key future direction for the workflow involves integrating de-novo drug design, enabling the researchers to scale their efforts to explore the limits of synthesizable compounds within chemical space.
+The team’s approach presents an efficient means for screening otherwise cumbersomely extensive compound databases for molecular properties that could prove useful for targeting cancer and other diseases. Aurora system capabilities will make possible screening 40 to 60 billion candidate compounds for potential synthesis. A key future direction for the workflow involves integrating de-novo drug design, enabling the researchers to scale their efforts to explore the limits of synthesizable compounds within chemical space.
 
