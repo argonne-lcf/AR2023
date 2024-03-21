@@ -25,19 +25,7 @@
     </div>
 
     <div class="page-intro-media">
-			{% if page.hero-img-source %}
-				{% include media-hero-img.html
-				   source= page.hero-img-source
-				   caption= page.hero-img-caption
-				   credit= page.hero-img-credit
-				%}
-			{% elsif page.hero-vid-embed-code %}
-				{% include media-hero-video.html
-					 embed-code= page.hero-vid-embed-code
-      		 caption= page.hero-vid-caption
-      		 credit= page.hero-vid-credit
-      	%}
-      {% elsif page.hero-mp4-source or page.hero-webm-source %}
+      {% if page.hero-mp4-source or page.hero-webm-source %}
 				<div class="media-hero-img">
 					<div class="img-wrapper">
 						<div>
@@ -62,6 +50,18 @@
 						</small>
 					{% endif %}
 				</div>
+			{% elsif page.hero-img-source %}
+				{% include media-hero-img.html
+				   source= page.hero-img-source
+				   caption= page.hero-img-caption
+				   credit= page.hero-img-credit
+				%}
+			{% elsif page.hero-vid-embed-code %}
+				{% include media-hero-video.html
+					 embed-code= page.hero-vid-embed-code
+      		 caption= page.hero-vid-caption
+      		 credit= page.hero-vid-credit
+      	%}
 			{% endif %}
     </div>
     

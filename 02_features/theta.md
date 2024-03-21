@@ -6,6 +6,7 @@ permalink: features/theta
 title: ALCF Retires Theta Supercomputer
 hero-mp4-source: "theta.mp4"
 hero-webm-source: "theta.webm"
+hero-img-source: Theta.jpg
 hero-img-caption: "The ALCF's Theta supercomputer supported more than 600 research projects before being retired at the end of 2023."
 intro: "Theta's retirement marks the end of a productive run of enabling groundbreaking research across diverse fields, including materials discovery, supernova simulations, and AI for science."
 ---
