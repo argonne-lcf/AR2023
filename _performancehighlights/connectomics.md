@@ -10,7 +10,7 @@ award: 'Early Science Program'
 systems: '-'
 sdl: 'd,l'
 
-image: '-' 
+image: 'connectomics.png' 
 image-caption: '-'
 image-credit: '-'
 
