@@ -147,7 +147,7 @@ Gao, X., A. D. Hanlon, J. Holligan, N. Karthik, S. Mukherjee, P. Petreczky, S. S
 
 Holford, J. J., M. Lee, and Y. Hwang. “Optimal White-Noise Stochastic Forcing for Linear Models of Turbulent Channel Flow," <i>Journal of Fluid Mechanics</i> (April 2023), Cambridge University Press. doi: 10.1017/jfm.2023.234
 
-Ichibha, T., K. Saritas, J. T. Krogel, Y. Luo, P. R. C. Kent, and F. A. Reboredo. “Existence of La-site Antisite Defects in LaMO3 (M=Mn, Fe, and Co) Predicted with Many-Body Diffusion Quantum Monte Carlo," <i>Scientific Reports</i> (April 2023), Springer Nature. doi: 10.1038/s41598-023-33578-1
+Ichibha, T., K. Saritas, J. T. Krogel, Y. Luo, P. R. C. Kent, and F. A. Reboredo. “Existence of La-site Antisite Defects in LaMO<sub>3</sub> (M=Mn, Fe, and Co) Predicted with Many-Body Diffusion Quantum Monte Carlo," <i>Scientific Reports</i> (April 2023), Springer Nature. doi: 10.1038/s41598-023-33578-1
 
 Lavroff, R. H., J. Wang, M. G. White, P. Sautet, and A. N. Alexandrova. “Mechanism of Stoichiometrically Governed Titanium Oxide Brownian Tree Formation on Stepped Au(111)," <i>The Journal of Physical Chemistry C</i> (April 2023), ACS. doi: 10.1021/acs.jpcc.3c00715
 
