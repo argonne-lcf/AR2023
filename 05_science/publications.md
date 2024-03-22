@@ -12,47 +12,59 @@ permalink: science/publications
 
 # JANUARY 
 
-Andreoli, L., J. Carlson, A. Lovato, S. Pastore, N. Rocco, and R. B. Wiringa. “Electron Scattering on A=3 Nuclei from Quantum Monte Carlo Based Approaches," <i>Physical Review C</i> (January 2022), APS. doi: 10.1103/physrevc.105.014002
+Andrusenko, I., C. L. Hall, E. Mugnaioli, J. Potticary, S. R. Hall, W. Schmidt, S. Gao, K. Zhao, N. Marom, and M. Gemmi. “True Molecular Conformation and Structure Determination by Three-Dimensional Electron Diffraction of PAH By-Products Potentially Useful for Electronic Applications," <i>IUCrJ</i> (January 2023), International Union of Crystallography. doi: 10.1107/s205225252201154x
 
-Ashwin Renganathan, S., R. Maulik, S. Letizia, and G. Valerio Iungo. “Data-Driven Wind Turbine Wake Modeling via Probabilistic Machine Learning," <i>Neural Computing and Applications</i> (January 2022), Springer Nature. doi: 10.1007/s00521-021-06799-6
+Ashley, W. S., A. M. Haberlie, and V. A. Gensini. “The Future of Supercells in the United States," <i>Bulletin of the American Meteorological Society</i> (January 2023), American Meteorological Society. doi: 10.1175/BAMS-D-22-0027.1
 
-Bayerl, B., C. M., Andolina ,S. Dwaraknath, and W. A. Saidi. “Convergence Acceleration in Machine Learning Potentials for Atomistic Simulations," <i>Digital Discovery</i> (January 2022), no. 1, Royal Society of Chemistry, pp. 61-69. doi: 10.1039/d1dd00005e
+Babu, A. V., T. Bicer, S. Kandel, T. Zhou, D. J. Ching, S. Henke, S. Veseli, R. Chard, A. Miceli, and M. J. Cherukara. “AI-Assisted Automated Workflow for Real-Time X-ray Ptychography Data Analysis via Federated Resources," <i>Electronic Imaging</i> (January 2023), Society for Imaging Science and Technology. doi: 10.2352/ei.2023.35.11.hpci-232
 
-Berres, A. S., B. C. Bass, M. B. Adams, E. Garrison, and J. R. New. “A Data-Driven Approach to Nation-Scale Building Energy Modeling," <i>2021 IEEE International Conference on Big Data (Big Data)</i> (January 2022), Orlando, FL, IEEE. doi: 10.1109/BigData52589.2021.9671786
+Bagusetty, A., A. Panyala, G. Brown, and J. Jirk. “Towards Cross-Platform Portability of Coupled-Cluster Methods with Perturbative Triples using SYCL," <i>2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC)</i> (January 2023), Dallas, TX, IEEE. doi: 10.1109/p3hpc56579.2022.00013
 
-Bosilca, G., A. Bouteiller, T. Herault, V. Le Févre, Y. Robert, and J. Dongarra. “Comparing Distributed Termination Detection Algorithms for Modern HPC Platforms," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing. doi: 10.15803/ijnc.12.1_26
+Berquist, W., D. Lykov, M. Liu, and Y. Alexeev. “Stochastic Approach for Simulating Quantum Noise Using Tensor Networks," <i>2022 IEEE/ACM Third International Workshop on Quantum Computing Software (QCS)</i> (January 2023), Dallas, TX, IEEE. doi: 10.1109/QCS56647.2022.00018
 
-Chidyagwaia, S. G., M. Vardhana, M. Kapland, R. Chamberlain, P. Barker, and A. Randles. "Characterization of Hemodynamics in Anomalous Aortic Origin of Coronary Arteries Using Patient-Specific Modeling," <i>Journal of Biomechanics</i> (January 2022), Elsevier. doi: 10.1016/j.jbiomech.2021.110919
+Bieniek, M. K., A. D. Wade, A. P. Bhati, S. Wan, and P. V. Coveney. “TIES 2.0: A Dual-Topology Open Source Relative Binding Free Energy Builder with Web Portal," <i>Journal of Chemical Information and Modeling</i> (January 2023), ACS Publications. doi: 10.1021/acs.jcim.2c01596
 
-Clyde, A., S. Galanie, D.W. Kneller, H. Ma, Y Babuji, B Blaiszik, A. Brace, T. Brettin, K. Chard, R. Chard, L. Coates, I. Foster, D. Hauner, V. Kertesz, N. Kumar, H. Lee, Z. Li, A. Merzky, J.G. Schmidt, L. Tan, M. Titov, A. Trifan, M. Turilli, H. Van Dam, S.C. Chennubhotla, S. Jha, A. Kovalevsky, A. Ramanathan, M.S. Head, and R. Stevens. “High-Throughput Virtual Screening and Validation of a SARS-CoV-2 Main Protease Noncovalent Inhibitor," <i>Journal of Chemical Information and Modeling</i> (January 2022), ACS. doi: 10.1021/acs.jcim.1c00851
+Ceccarelli, L., A. Gnech, L. E. Marcucci, M. Piarulli, and M. Viviani. “Muon Capture on Deuteron Using Local Chiral Potentials," <i>Frontiers in Physics</i> (January 2023), Frontiers Media SA. doi: 10.3389/fphy.2022.1049919
 
-Drobchik, A. N., V. V. Nikitin, M. I. Fokin, G. A. Dugarov, A. L. Shevchenko, A. L. Deriy, A. Y. Manikov, K. E. Kuper, and A.A. Duchtov. “Environmental Cell for In Situ X-ray Synchrotron Micro-CT Imaging with Simultaneous Acoustic Measurements," <i>Journal of Synchrotron Radiation</i> (January 2022), International Union of Crystallography. doi: 10.1107/s1600577521013308
+Chard, R., J. Pruyne, K. McKee, J. Bryan, B. Raumann, R. Ananthakrishnan, K. Chard, and I. T. Foster. “Globus Automation Services: Research Process Automation across the Space-Time Continuum," <i>Future Generation Computer Systems</i> (January 2023), Elsevier. doi: 10.1016/j.future.2023.01.010
 
-Feldman, C., B. Michalowicz, E. Siegmann, T. Curtis, A. Calder, and R. Harrison. “Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform," <i>HPCAsia 2022 Workshop: International Conference on High Performance Computing in Asia-Pacific Region Workshops</i> (January 2022), ACM. doi: 10.1145/3503470.3503478
+Ćiprijanović. A, A. Lewis, K. Pedro, S. Madireddy, B. Nord G. N. Perdue, Gabriel, S. Wild. “Semi-Supervised Domain Adaptation for Cross-Survey Galaxy Morphology Classification and Anomaly Detection," <i>Machine Learning and the Physical Sciences Workshop, NeurIPS 2022</i> (January 2023), US DOE. doi: 10.2172/1915406
 
-Khan, A., E. A. Huerta, and H. Zheng. “Interpretable AI Forecasting for Numerical Relativity Waveforms of Quasicircular, Spinning, Nonprocessing Binary Black Hole Mergers," <i>Physical Review D</i> (January 2022), APS. doi: 10.1103/PhysRevD.105.024024
+Frontiere, N., J. D. Emberson, M. Buehlmann, J. Adamo, S. Habib, K. Heitmann, and C.-A. Faucher-Giguère. “Simulating Hydrodynamics in Cosmology with CRK-HACC," <i>The Astrophysical Journal</i> (January 2023), IOP Publishing. doi: 10.3847/1538-4365/aca58d
 
-Liu, Z., H. Sharma, J.-S. Park, P. Kenesei, A. Miceli, J. Almer, R. Kettimuthu,and I. Foster. “BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning," <i>IUCrJ</i> (January 2022), vol. 9, no. 1, International Union of Crystallography, pp. 104-113. doi: 10.1107/S2052252521011258
+King, G. B., A. Baroni, V. Cirigliano, S. Gandolfi, L. Hayden, E. Mereghetti, S. Pastore, and M. Piarulli. “Ab Initio Calculation of the β-Decay Spectrum of 6He," <i>Physical Review C</i> (January 2023), APS. doi: 10.1103/PhysRevC.107.015503
 
-Malbrunot-Ettenauer, S., S. Kaufmann, S. Bacca, C. Barbieri, J. Billowes, M. L. Bissell, K. Blaum, B. Cheal, T. Duguet, R. F. Garcia Ruiz, W. Gins, C. Gorges, G. Hagen, H. Heylen, J. D. Holt, G. R. Jansen, A. Kanellakopoulos, M. Kortelainen, T. Miyagi, P. Navrátil, W. Nazarewicz, R. Neugart, G. Neyens, W. Nörtershäuser, S. J. Novario, T. Papenbrock, T. Ratajczyk, P.-G. Reinhard, L. V. Rodríguez, R. Sánchez, S. Sailer, A. Schwenk, J. Simonis, V. Somà, S. R. Stroberg, L. Wehner, C. Wraith, L. Xie, Z. Y. Xu, X. F. Yang, and D. T. Yordanov. “Nuclear Charge Radii of the Nickel Isotopes <sup>58−68,70</sup>Ni," <i>Physical Review Letters</i> (January 2022), APS. doi: 10.1103/PhysRevLett.128.022502
+Luo, Y., P. Doak, and P. Kent. “A High-Performance Design for Hierarchical Parallelism in the Qmcpack Monte Carlo Code," <i>2022 IEEE/ACM International Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)</i> (January 2023), IEEE. doi: 10.1109/HiPar56574.2022.00008
 
-Manna, S., T. D. Loeffler, R. Batra, S. Banik, H. Chan, B. Varughese, K. Sasikumar, M. Sternberg, T. Peterka, M. J. Cherukara, S. K. Gray, B. G. Sumpter, and S. K. R. S. Sankaranarayanan. “Learning in Continuous Action Space for Developing High Dimensional Potential Energy Models," <i>Nature Communications</i> (January 2022), Springer Nature. doi: 10.1038/s41467-021-27849-6
+Nastac, G., A. Walden, L. Wang, E. J. Nielsen, Y. Liu, M. Opgenorth, J. Orender, and M. Zubair. “A Multi-Architecture Approach for Implicit Computational Fluid Dynamics on Unstructured Grids," <i>AIAA SCITECH 2023 Forum</i> (January 2023), National Harbor, MD, AIAA. doi: 10.2514/6.2023-1226
 
-Posner, J., L. Reitz, and C. Fohry. “Task-Level Resilience: Checkpointing vs. Supervision," <i>International Journal of Networking and Computing</i> (January 2022), vol. 12, no. 1, International Journal of Networking and Computing, pp. 47-72. doi: 10.15803/ijnc.12.1_47
+Nealey, I., N. Ferrier, J. Insley, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Cinema Transfer: A Containerized Visualization Workflow," <i>ISC High Performance 2022: High Performance Computing. ISC High Performance 2022 International Workshops</i> (January 2023), Springer Nature, pp. 324-343. doi: 10.1007/978-3-031-23220-6_23
 
-Saidi, W. A. “Optimizing the Catalytic Activity of Pd-Based Multinary Alloys toward Oxygen Reduction Reaction," <i>The Journal of Physical Chemistry Letters</i> (January 2022), vol. 13, ACS Publications. doi: 10.1021/acs.jpclett.1c04128
+Nikitin, V. “TomocuPy – Efficient GPU-Based Tomographic Reconstruction with Asynchronous Data Processing," <i>Journal of Synchrotron Radiation</i> (January 2023), vol. 30, International Union of Crystallography, pp. 179-191. doi: 10.1107/s1600577522010311
 
-Schwartz, J., Z. W. Di, Y. Jiang, A. J. Fielitz, D.-H. Ha, S. D. Perera, I. El Baggari, R. D. Robinson, J. A. Fessler, C. Ophus, S. Rozeveld, and R. Hovden. “Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy," <i>npj Computational Materials</i> (January 2022), Springer Nature. doi: 10.1038/s41524-021-00692-5
+Novario, S. J., D. Lonardoni, S. Gandolfi, and G. Hagen. “Trends of Neutron Skins and Radii of Mirror Nuclei from First Principles," <i>Physical Review Letters</i> (January 2023), APS. doi: 10.1103/PhysRevLett.130.032501
 
-Sudharsan, S., B. Ganapathysubramanian, and A. Sharma. “A Vorticity-Based Criterion to Characterise Leading Edge Dynamic Stall Onset," <i>Journal of Fluid Mechanics</i> (January 2022), Cambridge University Press. doi: 10.1017/jfm.2021.1149
+Piarulli, M., S. Pastore, R. B. Wiringa, S. Brusilow, and R. Lim. “Densities and Momentum Distributions in A ≤ 12 Nuclei from Chiral Effective Field Theory Interactions," <i>Physical Review C</i> (January 2023), APS. doi: 10.1103/PhysRevC.107.014314
 
-Vorabbi, M., M. Gennari, P. Finelli, C. Giusti, P. Navrátil, and R. Machleidt. “Elastic Proton Scattering Off Nonzero Spin Nuclei," <i>Physical Review C</i> (January 2022), APS. doi: 10.1103/PhysRevC.105.014621
+Ramesh, P. S., and T. K. Patra. “Polymer Sequence Design via Molecular Simulation-Based Active Learning," <i>Soft Matter</i> (January 2023), vol. 19, no. 2, Royal Society of Chemistry, pp. 282-294. doi: 10.1039/d2sm01193j
 
-Xie, Z., S. Raskar, and M. Emani. “Throughput-Oriented and Accuracy-Aware DNN Training with BFloat16 on GPU," <i>4th IEEE International Parallel and Distributed Processing Symposium Workshop on Scalable Deep Learning over Parallel and Distributed Infrastructure</i> (January 2022), Lyons, France, IEEE. doi: 10.1109/IPDPSW55747.2022.00176
+Smith, S. E. Belli, O. Meneghini, R. Budiardja, D. Schissel, J. Candy, T. Neiser, and A. Eubanks, "A Vision for Coupling Operation of US Fusion Facilities with HPC Systems and the Implications for Workflows and Data Management," <i>SMC 2022: Accelerating Science and Engineering Discoveries Through Integrated Research Infrastructure for Experiment, Big Data, Modeling and Simulation</i> (January 2023), Springer Nature, pp. 87-100. doi: 10.1007/978-3-031-23606-8_6
 
-Xu, H., A. Berres, S. Yoginath, K. Kurte, R. Peleti, J. R. New, and J. Sanyal. “Towards Adaptive Decision Support: A Perspective from Intelligent and Annotated Visual Analytics for Exploring Big Urban Mobility Data," <i>ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication</i> (January 2022), U.S. Department of Energy. doi: 10.2172/1843572
 
-Ye, Z., C. Zhang, and G. Galli. “Photoelectron Spectra of Water and Simple Aqueous Solutions at Extreme Conditions," <i>Faraday Discussions</i> (January 2022), Royal Society of Chemistry. doi: 10.1039/D2FD00003B
+Su, Z., S. Di, A. M. Gok, Y. Cheng, and F. Cappello. “Understanding Impact of Lossy Compression on Derivative-Related Metrics in Scientific Datasets," <i>2022 IEEE/ACM 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD)</i> (January 2023), Dallas, TX, IEEE. doi: 10.1109/DRBSD56682.2022.00011
+
+Tavakol, M., J. Liu, S. E. Hoff, C. Zhu, and H. Heinz. “Osteocalcin: Promoter or Inhibitor of Hydroxyapatite Growth?," <i>Langmuir</i> (January 2023), ACS. doi: 10.1021/acs.langmuir.3c02948
+
+Thiyagalingam, J., G. von Laszewski, J. Yin, M. Emani, J. Papay, G. Barrett, P. Luszczek, A. Tsaris, C. Kirkpatrick, F. Wang, T. Gibbs, V. Vishwanath, M. Shankar, G. Gox, and T. Hey. “AI Benchmarking for Science: Efforts from the MLCommons Science Working Group," <i>High Performance Computing. ISC High Performance 2022 International Workshops</i> (January 2023), Springer Nature. doi: 10.1007/978-3-031-23220-6_4
+
+Valetov, E. "Beamline Design and Optimisation for High Intensity Muon Beams at PSI," <i>Journal of Physics: Conference Series</i> (January 2023), vol. 2420, Bangkok, Thailand, IOP Publishing. doi: 10.1088/1742-6596/2420/1/012053
+
+Yu, Y., E. Shemon, and E. Merzari. “LES Simulation on Heavy Liquid Metal Flow in a Bare Rod Bundle for Assessment of Turbulent Prandtl Number," <i>Nuclear Engineering and Design</i> (January 2023), Elsevier. doi: 10.1016/j.nucengdes.2023.112175
+
+Wang, T., and A. Burrows. “Effects of Different Closure Choices in Core-collapse Supernova Simulations," <i>The Astrophysical Journal</i> (January 2023), IOP Publishing. doi: 10.3847/1538-4357/aca75c
+
+Zhu, H., and N. Y. Gnedin. “Cosmic Reionization on Computers: Baryonic Effects on Halo Concentrations during the Epoch of Reionization," <i>The Astrophysical Journal</i> (January 2023), IOP Publishing. doi: 10.3847/1538-4357/aca1b3
+
 
 
 
