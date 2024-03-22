@@ -10,7 +10,7 @@ award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
 sdl: 's'
 
-image: '-' 
+image: 'hacc.png' 
 image-caption: '-'
 image-credit: '-'
 
