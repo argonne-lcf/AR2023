@@ -16,10 +16,9 @@ The testbed is a growing collection of some of the world’s most advanced AI ac
 
 The testbed’s newest additions give the ALCF user community access to new leading-edge platforms for data-intensive research projects.
 
--The new <b>Graphcore Bow Pod64</b> is well-suited for both common and specialized machine learning applications, which will help to facilitate the use of new AI techniques and model types. The Graphcore Bow Pod64 relies on Intelligence Processing Units (IPUs). Unlike central processing units (CPUs) and graphics processing units (GPUs)—which can be found in everything from the fastest supercomputers to the simplest home laptops—IPUs are designed to handle the computational demands of AI-driven tasks. These specialized accelerators are equipped with highly efficient memory architectures that include high-bandwidth memory and on-chip memory, and can more easily support specialized software frameworks and libraries necessary for AI workloads.
+-The new <b>Graphcore Bow Pod64</b> is well-suited for both common and specialized machine learning applications, which will help to facilitate the use of new AI techniques and model types. The Graphcore Bow Pod64 relies on Intelligence Processing Units (IPUs). IPUs are designed to handle the computational demands of AI-driven tasks. These specialized accelerators are equipped with highly efficient memory architectures that include high-bandwidth memory and on-chip memory, and can more easily support specialized software frameworks and libraries necessary for AI workloads.
 
-
--The new <b>GroqRack</b> system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data.
+-The new <b>GroqRack</b> system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data. Based on the Tensor Streaming Processor (TSP) architecture, the GroqChip processor included advanced vector and matrix mathematical acceleration units, and provides for predictable and repeatable performance
 
 -The upgrade to a <b>Cerebras Wafer-Scale Cluster WSE-2</b> optimizes the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
 
