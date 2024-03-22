@@ -32,7 +32,7 @@ Chard, R., J. Pruyne, K. McKee, J. Bryan, B. Raumann, R. Ananthakrishnan, K. Cha
 
 Frontiere, N., J. D. Emberson, M. Buehlmann, J. Adamo, S. Habib, K. Heitmann, and C.-A. Faucher-Giguère. “Simulating Hydrodynamics in Cosmology with CRK-HACC," <i>The Astrophysical Journal</i> (January 2023), IOP Publishing. doi: 10.3847/1538-4365/aca58d
 
-King, G. B., A. Baroni, V. Cirigliano, S. Gandolfi, L. Hayden, E. Mereghetti, S. Pastore, and M. Piarulli. “Ab Initio Calculation of the β-Decay Spectrum of 6He," <i>Physical Review C</i> (January 2023), APS. doi: 10.1103/PhysRevC.107.015503
+King, G. B., A. Baroni, V. Cirigliano, S. Gandolfi, L. Hayden, E. Mereghetti, S. Pastore, and M. Piarulli. “Ab Initio Calculation of the β-Decay Spectrum of <sup>6</sup>He," <i>Physical Review C</i> (January 2023), APS. doi: 10.1103/PhysRevC.107.015503
 
 Luo, Y., P. Doak, and P. Kent. “A High-Performance Design for Hierarchical Parallelism in the Qmcpack Monte Carlo Code," <i>2022 IEEE/ACM International Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)</i> (January 2023), IEEE. doi: 10.1109/HiPar56574.2022.00008
 
