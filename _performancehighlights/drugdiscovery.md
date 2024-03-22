@@ -11,7 +11,7 @@ systems: '-'
 sdl: 'l'
 
 image: 'drugdiscovery.png' 
-image-caption: 'Results of a screening run on Aurora targeting the oncoprotein RTCB ligase. The identified top compounds share a hydroxamic acid group."
+image-caption: 'Results of a screening run on Aurora targeting the oncoprotein RTCB ligase. The identified top compounds share a hydroxamic acid group.'
 image-credit: '-'
 
 ---
