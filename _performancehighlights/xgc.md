@@ -9,6 +9,9 @@ pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 sdl: 's'
 
+image: 'xgc.png'
+image-caption: '-'
+image-credit: '-'
 
 ---
 
