@@ -10,7 +10,7 @@ award: '-'
 systems: '-'
 sdl: 'l'
 
-image: '-' 
+image: 'cosmictagger.png' 
 image-caption: '-'
 image-credit: '-'
 
