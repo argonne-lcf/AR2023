@@ -10,7 +10,7 @@ award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
 sdl: 's'
 
-image: '-' 
+image: 'nwchemex.jpg' 
 image-caption: '-'
 image-credit: '-'
 
