@@ -50,7 +50,6 @@ Ramesh, P. S., and T. K. Patra. “Polymer Sequence Design via Molecular Simulat
 
 Smith, S. E. Belli, O. Meneghini, R. Budiardja, D. Schissel, J. Candy, T. Neiser, and A. Eubanks, "A Vision for Coupling Operation of US Fusion Facilities with HPC Systems and the Implications for Workflows and Data Management," <i>SMC 2022: Accelerating Science and Engineering Discoveries Through Integrated Research Infrastructure for Experiment, Big Data, Modeling and Simulation</i> (January 2023), Springer Nature, pp. 87-100. doi: 10.1007/978-3-031-23606-8_6
 
-
 Su, Z., S. Di, A. M. Gok, Y. Cheng, and F. Cappello. “Understanding Impact of Lossy Compression on Derivative-Related Metrics in Scientific Datasets," <i>2022 IEEE/ACM 8th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD)</i> (January 2023), Dallas, TX, IEEE. doi: 10.1109/DRBSD56682.2022.00011
 
 Tavakol, M., J. Liu, S. E. Hoff, C. Zhu, and H. Heinz. “Osteocalcin: Promoter or Inhibitor of Hydroxyapatite Growth?," <i>Langmuir</i> (January 2023), ACS. doi: 10.1021/acs.langmuir.3c02948
@@ -71,35 +70,22 @@ Zhu, H., and N. Y. Gnedin. “Cosmic Reionization on Computers: Baryonic Effects
 
 # FEBRUARY
 
-Appelquist, T., R. C. Brower, K. K. Cushman, G. T. Fleming, A. Gasbarro, A. Hasenfratz, J. Ingoldby, X. Y. Jin, E. T. Neil, J. C. Osborn, C. Rebbi, E. Rinaldi, D. Schaich, P. Vranas, E. Weinberg, and O. Witzel. “Goldstone Boson Scattering with a Light Composite Scalar," <i>Physical Review D</i> (February 2022), APS. doi: 10.1103/physrevd.105.034505
+Banik, S., D. Dhabal, H. Chan, S. Manna, M. Cherukara, V. Molinero, and S. K. R. S. Sankaranarayanan. “CEGANN: Crystal Edge Graph Attention Neural Network for Multiscale Classification of Materials Environment," <i>npj Computational Materials</i> (February 2023), Springer Nature. doi: 10.1038/s41524-023-00975-z
 
-Burrows, A., and M. Coleman. “The Character of Three-Dimensional Core-Collapse Simulation Results," <i>The 16th International Symposium on Nuclei in the Cosmos</i> (February 2022), Chengdu, China, EPJ Web Conferences. doi: 10.1051/epjconf 202226007001
+Clyde, A., X. Liu, T. Brettin, H. Yoo, A. Partin, Y. Babuji, B. Blaiszik, J. Mohd-Yusof, A. Merzky, M. Turilli, S. Jha, A. Ramanathan, and R. Stevens. “AI-Accelerated Protein-Ligand Docking for SARS-CoV-2 Is 100-Fold Faster with No Significant Change in Detection," <i>Scientific Reports</i> (February 2023), Springer Nature. doi: 10.1038/s41598-023-28785-9
+ 
+Jaysaval, P., G. Hammond, and T. C. Johnson. “Massively Parallel Modeling and Inversion of Electrical Resistivity Tomography Data Using PFLOTRAN," <i>Geoscientific Model Development</i> (February 2023), European Geosciences Union. doi: 10.5194/gmd-2022-66
 
-Chaturvedi, P., A. Khan, M. Tian, E. A. Huerta, and H. Zheng. “Inference-Optimized AI and High Performance Computing for Gravitational Wave Detection at Scale," <i>Frontiers in Artificial Intelligence</i> (February 2022), Frontiers Media SA. doi: 10.3389/frai.2022.828672
+Musaelian, A., S. Batzner, A. Johansson, L. Sun, C. J. Owen, M. Kornbluth, and B. Kozinsky. “Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics," <i>Nature Communications</i> (February 2023), Springer Nature. doi: 10.1038/s41467-023-36329-y
 
-Elhatisari, S., T. A. Lähde, D. Lee, U.-G. Meißner, and T. Vonk . “Alpha-Alpha Scattering in the Multiverse," <i>Journal of High Energy Physics</i> (February 2022), Springer Nature. doi: 10.1007/JHEP02
+Raskar, S., T. Applencourt, K. Kumaran, and G. Gao. “Towards Maximum Throughput of Dataflow Software Pipeline under Resource Constraints," <i>PMAM'23: Proceedings of the 14th International Workshop on Programming Models and Applications for Multicores and Manycores</i> (February 2023), ACM, pp. 20-28. doi: 10.1145/3582514.3582521
 
-Frontiere, N., K. Heitmann, E. Rangel, P. Larsen, A. Pope, I. Sultan, T. Uram, S. Habib, S. Rizzi, J. Insley, and The HACC Collaboration. “Farpoint: A High-Resolution Cosmology Simulation at the Gigaparsec Scale," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4365/ac43b9
+Rigo, M., B. Hall, M. Hjorth-Jensen, A. Lovato, and F. Pederiva. “Solving the Nuclear Pairing Model with Neural Network Quantum States," <i>Physical Review E</i> (February 2023), APS. doi: 10.1103/PhysRevE.107.025310
+ 
+Shao, X., C. Zhu, P. Kumar, Y. Wang, J. Lu, M. Cha, L. Yao, Y. Cao, X. Mao, H. Heinz, and N. A. Kotov. “Voltage-Modulated Untwist Deformations and Multispectral Optical Effects from Ion Intercalation into Chiral Ceramic Nanoparticles," <i>Advanced Materials</i> (February 2023), John Wiley and Sons. doi: 10.1002/adma.202206956
+ 
+Vallejo, J. L. G., G. M. Tow, E. J. Maginn, B. Q. Pham, D. Datta, and M. S. Gordon. “Quantum Chemical Modeling of Propellant Degradation," <i>The Journal of Physical Chemistry A</i> (February 2023), ACS Publications. doi: 10.1021/acs.jpca.2c08722
 
-Guo, J., Ward, L., Babuji, Y., Hoyt, N., Williamson, M., Foster, I., Jackson, N., Benmore, C. and Sivarman, G. “A Composition-Transferable Machine Learning Potential for LiCl-KCl Molten Salts Validated by HEXRD," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-8w9ft
-
-Huang, B., C. González-Zacarías, S. S. Güitrón, A. Aslam, S. G. Biedron, K. Bronw, and T. Bolin. “Artificial Intelligence-Assisted Design and Virtual Diagnostic for the Initial Condition of a Storage-Ring-Based Quantum Information System," <i>IEEE Access</i> (February 2022), IEEE. doi: 10.1109/ACCESS.2022.3147727
-
-Impagnatiello, M., M. Bolla, K. Keskinen, G. Giannakopoulos, C. E. Frouzakis, Y. M. Wright, and K. Boulochos. “Systematic Assessment of Data-Driven Approaches for Wall Heat Transfer Modelling for LES in IC Engines Using DNS Data," <i>International Journal of Heat and Mass Transfer</i> (February 2022), vol. 183, no. B, Elsevier. doi: 10.1016/j.ijheatmasstransfer.2021.122109
-
-Kortelainen, M., Z. Sun, G. Hagen, W. Nazarewicz, T. Papenbrock, and P.-G. Reinhard. “Universal Trend of Charge Radii of Even-Even Ca–Zn Nuclei," <i>Physical Review C</i> (February 2022), APS. doi: 10.1103/PhysRevC.105.L021303
-
-Larsson, J., V. Kumar, N. Oberoi, M. Di Renzo, and S. Pirozzoli. “Large-Eddy Simulations of Idealized Shock/Boundary-Layer Interactions with Crossflow," <i>AIAA Journal</i> (February 2022), AIAA. doi: 10.2514/1.J061060
-
-Shepard, C., and Y. Kanai. “Nonlinear Electronic Excitation in Water under Proton Irradiation: A First Principles Study," <i>Physical Chemistry Chemical Physics</i> (February 2022), Royal Society of Chemistry. doi: 10.1039/D1CP05313B
-
-Thompson, A. P., H. M. Aktulga, R. Berger, D. S. Bolintineanu, W. M. Brown, P. S. Crozier, P. J. in 't Veld, A. Kohlmeyer, S. G. Moore, T. D. Nguyen, R. Shan, M. J. Stevens, J. Tranchida, C. Trott, and S. J. Plimpton. “LAMMPS - A Flexible Simulation Tool for Particle-Based Materials Modeling at the Atomic, Meso, and Continuum Scales," <i>Computer Physics Communications</i> (February 2022), Elsevier. doi: 10.1016/j.cpc.2021.108171
-
-Tiihonen, J., P. R. C. Kent, and J. T. Krogel. “Surrogate Hessian Accelerated Structural Optimization for Stochastic Electronic Structure Theories," <i>The Journal of Chemical Physics</i> (February 2022), AIP. doi: 10.1063/5.0079046
-
-Wan, S., B. Agastya, D. Wright, I. Wall, A. Graves, D. Green, and P. Coveney. “Evaluation and Characterization of Isoxazole Amides as SMYD3 Inhibitors Inhibitors," <i>ChemRxiv</i> (February 2022), Cambridge University Press. doi: 10.26434/chemrxiv-2022-hrxqs
-
-White, C. J., A. Burrows, M. S. B. Coleman, and D. Vartanyan. “On the Origin of Pulsar and Magnetar Magnetic Fields," <i>The Astrophysical Journal</i> (February 2022), IOP Publishing. doi: 10.3847/1538-4357/ac4507
 
 
 
