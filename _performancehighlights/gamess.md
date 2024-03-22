@@ -10,7 +10,7 @@ award: 'Exascale Computing Project'
 systems: '-'
 sdl: 's'
 
-image: '-' 
+image: 'gamess.png' 
 image-caption: '-'
 image-credit: '-'
 
