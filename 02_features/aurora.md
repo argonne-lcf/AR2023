@@ -14,9 +14,9 @@ intro: "The ALCF made significant progress in deploying its exascale supercomput
 aside: alcf-4.md
 ---
 
-In June 2023, the [installation of Aurora’s 10,624th and final blade](www.alcf.anl.gov/news/argonne-installs-final-components-aurora-supercomputer) marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
+In June 2023, the [installation of Aurora’s 10,624th and final blade](https://www.alcf.anl.gov/news/argonne-installs-final-components-aurora-supercomputer) marked a major milestone in the efforts to deploy the ALCF’s exascale supercomputer. With the full machine in place and powered on, the Aurora team was able to begin the process of stress-testing, stabilizing, and optimizing the massive system to prepare for acceptance and full deployment in 2024.  
 
-Built in partnership with Hewlett Packard Enterprise (HPE), [Aurora](www.alcf.anl.gov/aurora) is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
+Built in partnership with Hewlett Packard Enterprise (HPE), [Aurora](https://www.alcf.anl.gov/aurora) is one of the fastest supercomputers in the world, with a theoretical peak performance of more than two exaflops of computing power (or more than 2 billion billion calculations per second). It is also one of world’s largest supercomputers, occupying 10,000 square feet and weighing 600 tons. The system is powered by 21,248 Intel Xeon CPU Max Series processors and 63,744 Intel Data Center GPU Max Series processors. Notably, Aurora features more GPUs and more network endpoints in its interconnect technology than any system to date. To pave the way for a machine of this scale, Argonne first had to complete some substantial facility upgrades, including adding new data center space, mechanical rooms, and equipment that significantly increased the building’s power and cooling capacity. 
 
 <br>
 
@@ -26,7 +26,7 @@ As is the case with all DOE leadership supercomputers, Aurora is a first-of-its-
 
 # Early Performance Numbers
 
-In November, Aurora demonstrated strong [early performance numbers](www.alcf.anl.gov/news/argonne-shares-strong-early-performance-numbers-aurora-supercomputer) while still in the stabilization period, underscoring its immense potential for scientific computing. 
+In November, Aurora demonstrated strong [early performance numbers](https://www.alcf.anl.gov/news/argonne-shares-strong-early-performance-numbers-aurora-supercomputer) while still in the stabilization period, underscoring its immense potential for scientific computing. 
 
 At the SC23 conference, the supercomputer made its debut on the semi-annual TOP500 List with a partial system run. Using approximately half of the system’s nodes, Aurora achieved 585.34 petaflops, earning the #2 overall spot. In addition, Aurora’s storage system, DAOS, earned the top spot on the IO500 Production List, a semi-annual ranking of HPC storage performance. 
 
@@ -38,8 +38,8 @@ At the SC23 conference, the supercomputer made its debut on the semi-annual TOP5
 
 # Early Science Access
 
-In another significant milestone for the supercomputer, early science teams began using Aurora for the first time in 2023. Several teams from the ALCF’s Aurora Early Science Program (ESP) and DOE’s Exascale Computing Project (ECP) were able to transition their work from the [Sunspot test and development system](www.alcf.anl.gov/news/argonne-s-new-sunspot-testbed-provides-ramp-aurora-exascale-supercomputer) to Aurora to start scaling and optimizing their applications for the supercomputer’s initial science campaigns. Their work has included performing scientifically meaningful calculations across a wide range of research areas.
+In another significant milestone for the supercomputer, early science teams began using Aurora for the first time in 2023. Several teams from the ALCF’s Aurora Early Science Program (ESP) and DOE’s Exascale Computing Project (ECP) were able to transition their work from the [Sunspot test and development system](https://www.alcf.anl.gov/news/argonne-s-new-sunspot-testbed-provides-ramp-aurora-exascale-supercomputer) to Aurora to start scaling and optimizing their applications for the supercomputer’s initial science campaigns. Their work has included performing scientifically meaningful calculations across a wide range of research areas.
 
 Once the early science period begins, the ECP and ESP teams will use the machine to carry out innovative research campaigns involving simulation, artificial intelligence, and data-intensive workloads in areas ranging from fusion energy science and cosmology to cancer research and aircraft design. In addition to pursuing groundbreaking research, these early users help to further stress test the supercomputer and identify potential bugs that need to be resolved ahead of its deployment.
 
-In 2024, an additional 24 research teams will begin using Aurora to ready their codes for the system via allocation awards from DOE’s [INCITE program](www.alcf.anl.gov/news/incite-program-awards-supercomputing-time-75-high-impact-projects). 
+In 2024, an additional 24 research teams will begin using Aurora to ready their codes for the system via allocation awards from DOE’s [INCITE program](https://www.alcf.anl.gov/news/incite-program-awards-supercomputing-time-75-high-impact-projects). 
