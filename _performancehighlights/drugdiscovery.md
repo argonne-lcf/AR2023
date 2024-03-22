@@ -10,8 +10,8 @@ award: 'Early Science Program'
 systems: '-'
 sdl: 'l'
 
-image: '-' 
-image-caption: '-'
+image: 'drugdiscovery.png' 
+image-caption: 'Results of a screening run on Aurora targeting the oncoprotein RTCB ligase. The identified top compounds share a hydroxamic acid group."
 image-credit: '-'
 
 ---
