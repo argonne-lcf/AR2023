@@ -73,7 +73,7 @@ Zhu, H., and N. Y. Gnedin. “Cosmic Reionization on Computers: Baryonic Effects
 Banik, S., D. Dhabal, H. Chan, S. Manna, M. Cherukara, V. Molinero, and S. K. R. S. Sankaranarayanan. “CEGANN: Crystal Edge Graph Attention Neural Network for Multiscale Classification of Materials Environment," <i>npj Computational Materials</i> (February 2023), Springer Nature. doi: 10.1038/s41524-023-00975-z
 
 Clyde, A., X. Liu, T. Brettin, H. Yoo, A. Partin, Y. Babuji, B. Blaiszik, J. Mohd-Yusof, A. Merzky, M. Turilli, S. Jha, A. Ramanathan, and R. Stevens. “AI-Accelerated Protein-Ligand Docking for SARS-CoV-2 Is 100-Fold Faster with No Significant Change in Detection," <i>Scientific Reports</i> (February 2023), Springer Nature. doi: 10.1038/s41598-023-28785-9
- 
+
 Jaysaval, P., G. Hammond, and T. C. Johnson. “Massively Parallel Modeling and Inversion of Electrical Resistivity Tomography Data Using PFLOTRAN," <i>Geoscientific Model Development</i> (February 2023), European Geosciences Union. doi: 10.5194/gmd-2022-66
 
 Musaelian, A., S. Batzner, A. Johansson, L. Sun, C. J. Owen, M. Kornbluth, and B. Kozinsky. “Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics," <i>Nature Communications</i> (February 2023), Springer Nature. doi: 10.1038/s41467-023-36329-y
@@ -81,9 +81,9 @@ Musaelian, A., S. Batzner, A. Johansson, L. Sun, C. J. Owen, M. Kornbluth, and B
 Raskar, S., T. Applencourt, K. Kumaran, and G. Gao. “Towards Maximum Throughput of Dataflow Software Pipeline under Resource Constraints," <i>PMAM'23: Proceedings of the 14th International Workshop on Programming Models and Applications for Multicores and Manycores</i> (February 2023), ACM, pp. 20-28. doi: 10.1145/3582514.3582521
 
 Rigo, M., B. Hall, M. Hjorth-Jensen, A. Lovato, and F. Pederiva. “Solving the Nuclear Pairing Model with Neural Network Quantum States," <i>Physical Review E</i> (February 2023), APS. doi: 10.1103/PhysRevE.107.025310
- 
+
 Shao, X., C. Zhu, P. Kumar, Y. Wang, J. Lu, M. Cha, L. Yao, Y. Cao, X. Mao, H. Heinz, and N. A. Kotov. “Voltage-Modulated Untwist Deformations and Multispectral Optical Effects from Ion Intercalation into Chiral Ceramic Nanoparticles," <i>Advanced Materials</i> (February 2023), John Wiley and Sons. doi: 10.1002/adma.202206956
- 
+
 Vallejo, J. L. G., G. M. Tow, E. J. Maginn, B. Q. Pham, D. Datta, and M. S. Gordon. “Quantum Chemical Modeling of Propellant Degradation," <i>The Journal of Physical Chemistry A</i> (February 2023), ACS Publications. doi: 10.1021/acs.jpca.2c08722
 
 
