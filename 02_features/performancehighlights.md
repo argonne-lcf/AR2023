@@ -3,6 +3,7 @@ layout: page
 
 title: Aurora Performance Highlights
 intro: "Now that Aurora is fully assembled, ECP and ESP team members are beginning to transition their work to the supercomputer to ready their applications for full system runs. Here are some early performance results on Aurora."
+hero-img-source: openmc.PNG
 
 theme: dark
 permalink: features/performancehighlights
