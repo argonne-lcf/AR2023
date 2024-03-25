@@ -253,7 +253,7 @@ Xu, X., X. Wang, E. Cruz-Camacho, C. D. Carothers, K. A. Brown, R. B. Ross, Z. L
 # JULY
 
 Bollweg, D., D. A. Clarke, J. Goswami, O. Kaczmarek, F. Karsch, S. Mukherjee, P. Petreczky, C. Schmidt, and S. Sharma. “Equation of State and Speed of Sound of (2 + 1)-Flavor QCD in Strangeness-Neutral Matter at Nonvanishing Net Baryon-Number Density," <i>Physical Review D</i> (July 2023), APS. doi: 10.1103/PhysRevD.108.014510
- 
+
 Bolotnov, I. A. “Direct Numerical Simulation of Single- and Two-Phase Flows for Nuclear Engineering Geometries," <i>Nuclear Technology</i> (July 2023), Informa UK Limited. doi: 10.1080/00295450.2023.2232222
 
 Conroy, N. S., M. Bauböck, V. Dhruv, D. Lee, A. E. Broderick, C. Chan, B. Georgiev, A. V. Joshi, B. Prather, and C. F. Gammie. “Rotation in Event Horizon Telescope Movies," <i>The Astrophysical Journal</i> (July 2023), IOP Publishing. doi: 10.3847/1538-4357/acd2c8
