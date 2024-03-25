@@ -352,47 +352,37 @@ Xie, Z., S. Raskar, M. Emani, and V. Vishwanath. “TrainBF: High-Performance DN
 
 # SEPTEMBER
 
-Coleman, M. S. B., and A. Burrows. “Kicks and Induced Spins of Neutron Stars at Birth," <i>Monthly Notices of the Royal Astronomical Society</i> (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2573
+Ahn, J., I. Hong, G. Lee, H. Shin, A. Benali, J. T. Krogel, and Y. Kwon. “Structural Stability of Graphene-Supported Pt Layers: Diffusion Monte Carlo and Density Functional Theory Calculations," <i>The Journal of Physical Chemistry C</i> (September 2023), ACS. doi: 10.1021/acs.jpcc.3c03160
 
-Dorier, M., R. Egele, P. Balaprakash, J. Koo, S. Madireddy, S. Ramesh, A. D. Malony, and R. Ross. “HPC Storage Service Autotuning Using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization," <i>2022 IEEE International Conference on Cluster Computing (CLUSTER)</i> (September 2022), IEEE, pp. 381-393. doi: 10.1109/CLUSTER51413.2022.00049
+Blum, T., P. A. Boyle, M. Bruno, D. Giusti, V. Gülpers, R. C. Hill, T. Izubuchi, Y.-C. Jang, L. Jin, C. Jung, A. Jüttner, C. Kelly, C. Lehner, N. Matsumoto, R. D. Mawhinney, A. S. Meyer, and J. T. Tsang. “Update of Euclidean Windows of the Hadronic Vacuum Polarization," <i>Physical Review D</i> (September 2023), APS. doi: 10.1103/physrevd.108.054507
 
-Fletcher, G. D., C. Bertoni, M. Keceli, and M. J. D'Mello. “Prediction of Correlation Energies Using Variational Subspace Valence Bond," <i>The Journal of Chemical Physics</i> (September 2022), AIP. doi: 10.1063/5.0098146
+Boëzennec, R., F. Dufossé, and G. Pallez. “Optimization Metrics for the Evaluation of Batch Schedulers in HPC," <i>Job Scheduling Strategies for Parallel Processing: 26th Workshop, JSSPP 2023</i> (September 2023), St. Petersburg, FL, ACM, pp. 97-115. doi: 10.1007/978-3-031-43943-8_5
 
-Gautham, S. M. B., T. K. Patra. “Deep Learning Potential of Mean Force Between Polymer Grafted Nanoparticles," <i>Soft Matter</i> (September 2022), The Royal Society of Chemistry. doi: 10.1039/d2sm00945e
+Chen, L., P.-H. Lin, T. Vanderbruggen, C. Liao, M. Emani, and B. de Supinski. “LM4HPC: Towards Effective Language Model Application in High-Performance Computing," <i>IWOMP 2023: OpenMP: Advanced Task-Based, Device and Compiler Programming</i> (September 2023), Springer Nature, pp. 18-33. doi: 10.1007/978-3-031-40744-4_2
 
-Hobbs, B. F., J. Zhang, H. F. Hamann, C. Siebenschuh, R. Zhang, B. Li, I. Krad, V. Krishnan, E. Spyrou, Y. Wang, Q. Xu, and S. Zhang. “Using Probabilistic Solar Power Forecasts to Inform Flexible Ramp Product Procurement for the California ISO," <i>Solar Energy Advances</i> (September 2022), Elsevier. doi: 10.1016/j.seja.2022.100024
+Chitty-Venkata, K. T., Y. Bian, M. Emani, V. Vishwanath, and A. K. Somani. “Differentiable Neural Architecture, Mixed Precision and Accelerator Co-Search," <i>IEEE Access</i> (September 2023), IEEE. doi: 10.1109/ACCESS.2023.3320133
 
-Huang, S., and J. M. Cole. “BatteryDataExtractor: Battery-Aware Text-Mining Software Embedded with BERT Models," <i>Chemical Science</i> (September 2022), Royal Society of Chemistry. doi: 10.1039/d2sc04322j
+Chitty-Venkata, K. T., S. Mittal, M. Emani, V. Vishwanath, and A. K. Somani. “A Survey of Techniques for Optimizing Transformer Inference," <i>Journal of Systems Architecture</i> (September 2023), Elsevier. doi: 10.1016/j.sysarc.2023.102990
 
-Kaur, S., R. Kanungo, W. Horiuchi, G. Hagen, J. D. Holt, B. S. Hu, T. Miyagi, T. Suzuki, F. Ameil, J. Atkinson, Y. Ayyad, S. Bagchi, D. Cortina-Gil, I. Dillmann, A. Estradé, A. Evdokimov, F. Farinon, H. Geissel, G. Guastalla, R. Janik, R. Knöbel, J. Kurcewicz, Y. A. Litvinov, M. Marta, M. Mostazo, I. Mukha, C. Nociforo, H. J. Ong, T. Otsuka, S. Pietri, A. Prochazka, C. Sceidenberger, B. Sitar, P. Strmen, M. Takechi, J. Tanaka, I. Tanihata, S. Terashima, J. Vargas, H. Weick, and J. S. Winfield. “Proton Distribution Radii of <sup>16–24</sup>O: Signatures of New Shell Closures and Neutron Skin," <i>Physical Review Letters</i> (September 2022), APS. doi: 10.1103/PhysRevLett.129.142502
+Haberlie, A. M., W. S. Ashley, V. A. Gensini, and A. C. Michaels. “The Ratio of Mesoscale Convective System Precipitation to Total Precipitation Increases in Future Climate Change Scenarios," <i>npj Climate and Atmospheric Science</i> (September 2023), Springer Nature. doi: 10.1038/s41612-023-00481-5
 
-Kononov, A., C.-W. Lee, T. P. dos Santos, B. Robinson, Y. Yao, X. Andrade, A. D. Baczewski, E. Constantinescu, A. A. Correa, Y. Kanai, N. Modine, and A. Schleife. “Electron Dynamics in Extended Systems within Real-Time Time-Dependent Density-Functional Theory," <i>Computational Approaches for Materials Discovery and Development Perspective</i> (September 2022), Springer Nature. doi: 10.1557/s43579-022-00273-7
+Himanshu, K. Chakraborty, and T. K. Patra. “Developing Efficient Deep Learning Model for Predicting Copolymer Properties," <i>Physical Chemistry Chemical Physics</i> (September 2023), Royal Society of Chemistry. doi: 10.1039/d3cp03100d
 
-Li, Z., R. Chard, Y. Babuji, B. Galewsky, T. J. Skluzacek, K. Nagaitsev, A. Woodard, B. Blaiszik, J. Bryan, D. S. Katz, I. Foster, and K. Chard. “funcX: Federated Function as a Service for Science," <i>IEEE Transactions on Parallel and Distributed Systems</i> (September 2022), IEEE. doi: 10.1109/TPDS.2022.3208767
+Isazawa, T., and J. M. Cole. “Automated Construction of a Photocatalysis Dataset for Water-Splitting Applications," <i>Scientific Data</i> (September 2023), Springer Nature. doi: 10.1038/s41597-023-02511-6
 
-McCray, A. R. C., Y. Li, R. Basnet, K. Pandey, J. Hu, D. P. Phelan, X. Ma, A. K. Petford-Long, and C. Phatak. “Thermal Hysteresis and Ordering Behavior of Magnetic Skyrmion Lattices," <i>Nano Letters</i> (September 2022), ACS Publications. doi: 10.1021/acs.nanolett.2c02275
+König, K., S. Fritzsche, G. Hagen, J. D. Holt, A. Klose, J. Lantis, Y. Liu, K. Minamisono, T. Miyagi, W. Nazarewicz, T. Papenbrock, S. V. Pineda, R. Powel, and P.-G. Reinhard. “Surprising Charge-Radius Kink in the Sc Isotopes at N=20," <i>Physical Review Letters</i> (September 2023), APS. doi: 10.1103/PhysRevLett.131.102501
 
-Mulligan, V. K. “Computational Methods for Peptide Macrocycle Drug Design," <i>Peptide Therapeutics: Fundamentals of Design, Development, and Delivery</i> (September 2022), Springer Nature, pp. 79-161. doi: 10.1007/978-3-031-04544-8_3
+Navrátil, P., K. Kravvaris, P. Gysbers, C. Hebborn, G. Hupin, and S. Quaglioni. “Ab Initio Investigations of A=8 Nuclei: α–α Scattering, Deformation in <up>8</sup>He, Radiative Capture of Protons on <sup>7</sup>Be and <sup>7</sup>Li and the X17 Boson," <i>Journal of Physics: Conference Series</i> (September 2023), vol. 2586, IOP Publishing. doi: 10.1088/1742-6596/2586/1/012062
 
-Sobczyk, J. E., S. Bacca, G. Hagen, and T. Papenbrock. “Spectral Function for <sup>4</sup>He Using the Chebyshev Expansion in Coupled-Cluster Theory," <i>Physical Review C</i> (September 2022), APS. doi: 10.1103/PhysRevC.106.034310
+Navrátil, P., and S. Quaglioni. “Ab Initio Nuclear Reaction Theory with Applications to Astrophysics," <i>Handbook of Nuclear Physics</i> (September 2023), Springer, Singapore, pp. 1545-1590. doi: 10.1007/978-981-19-6345-2_7
 
-Tews, I., Z. Davoudi, A. Ekström, J. D. Holt, K. Becker, R. Briceño, D. J. Dean, W. Detmold, C. Drischler, T. Duguet, E. Epelbaum, A. Gasparyan, J. Gegelia, J. R. Green, H. W. Grießhammer, A. D. Hanlon, M. Heinz, H. Hergert, M. Hoferichter, M. Illa, D. Kekejian, A. Kievsky, S. König, H. Krebs, K. D. Launey, D. Lee, P. Navrátil, A. Nicholson, A. Parreño, D. R. Phillips, M. Płoszajczak, X.-L. Ren, T. R. Richardson, C. Robin, G. H. Sargsyan, M. J. Savage, M. R. Schindler, P. E. Shanahan, R. P. Springer, A. Tichai, U. van Kolck, M. L. Wagman, A. Walker-Loud, C.-J. Yang, and X. Zhang. “Nuclear Forces for Precision Nuclear Physics: A Collection of Perspectives," <i>Few-Body Systems</i> (September 2022), Springer Nature. doi: 10.1007/s00601-022-01749-x
+Nicolae, B., T. Z. Islam, R. Ross, H. Van Dam, K. Assogba, P. Shpilker, M. Titov, M. Turilli, T. Wang, O. O. Kilic, S. Jha, and L. C. Pouchard. “Building the I (Interoperability) of FAIR for Performance Reproducibility of Large-Scale Composable Workflows in RECUP," <i>2023 IEEE 19th International Conference on e-Science (e-Science)</i> (September 2023), Limassol, Cyprus, IEEE. doi: 10.1109/e-Science58273.2023.10254808
 
-Tsai, P.- H., and P. Fischer. “Parametric Model-Order-Reduction Development for Unsteady Convection," <i>Frontiers in Physics</i> (September 2022), vol. 10, Frontiers Media SA. doi: 10.3389/fphy.2022.903169
+Saeedizade, E., R. Taheri, and E. Arslan. “I/O Burst Prediction for HPC Clusters Using Darshan Logs," <i>2023 IEEE 19th International Conference on e-Science (e-Science)</i> (September 2023), Limassol, Cyprus, IEEE. doi: 10.1109/e-Science58273.2023.10254871
 
-Tsant, B. T.-H., D. Vartanyan, and A. Burrows. “Applications of Machine Learning to Predicting Core-Collapse Supernova Explosion Outcomes," <i>The Astrophysical Journal Letters</i> (September 2022), IOP Publishing. doi: 10.3847/2041-8213/ac8f4b
+Yalamanchi, K. K., S. Kommalapati, P. Pal, N. Kuzhagaliyeva, A. S. AlRamadan, B. Mohan, Y. Pei, S. M. Sarathy, E. Cenker, and J. Badra. “Uncertainty Quantification of a Deep Learning Fuel Property Prediction Model," <i>Applications in Energy and Combustion Science</i> (September 2023), Elsevier. doi: 10.1016/j.jaecs.2023.100211
 
-Wang, T., D. Vartanyan, A. Burrows, and M. S. B. Coleman. “The Essential Character of the Neutrino Mechanism of Core-Collapse Supernova Explosions," <i>Monthly Notices of the Royal Astronomical Society</i> (September 2022), Oxford University Publishing. doi: 10.1093/mnras/stac2691
-
-Wu, S., S. Patel, and M. Ameen. “Investigation of Cycle-to-Cycle Variations in Internal Combustion Engine Using Proper Orthogonal Decomposition," <i>Flow, Turbulence and Combustion</i> (September 2022), Springer Nature. doi: 10.1007/s10494-022-00368-0
-
-Yang, H., M. Govoni, A. Kundu, and G. Galli. “Computational Protocol to Evaluate Electron–Phonon Interactions within Density Matrix Perturbation Theory," <i>Journal of Chemical Theory and Computation</i> (September 2022), ACS. doi: 10.1021/acs.jctc.2c00579
-
-Yang, T. T., A. Wang, S. D. House, J. Yang, J.-K. Lee, and W. A. Saidi. “Computationally Guided Design to Accelerate Discovery of Doped β-Mo<sub>2</sub>C Catalysts toward Hydrogen Evolution Reaction," <i>ACS Catalysis</i> (September 2022), ACS Publications. doi: 10.1021/acscatal.2c03184
-
-Zacharoudiou, I., J. W. S. McCullough, and P. V. Coveney. “Development and Performance of a HemeLB GPU Code for Human-Scale Blood Flow Simulation," <i>Computer Physics Communications</i> (September 2022), Elsevier. doi: 10.1016/j.cpc.2022.108548
-
-
+Zhang, C., F. Gygi, and G. Galli. “Engineering the Formation of Spin-Defects from First Principles," <i>Nature Communications</i> (September 2023), Springer Nature. doi: 10.1038/s41467-023-41632-9
 
 
 # OCTOBER
