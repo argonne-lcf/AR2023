@@ -2,7 +2,7 @@
 layout: page
 
 title: Aurora Performance Highlights
-intro: "The quick brown fox jumps over the lazy dog"
+intro: "Now that Aurora is fully assembled, ECP and ESP team members are beginning to transition their work to the supercomputer to ready their applications for full system runs. Here are some early performance results on Aurora."
 
 theme: dark
 permalink: features/performancehighlights
