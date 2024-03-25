@@ -27,7 +27,7 @@ permalink: features/performancehighlights
 <div class="teaser">
   <a href="{{ site.url }}{{ item.url }}">
   	<div class="image-wrapper">
-  		<div><img src="{{ site.url }}/assets/images/openmc.PNG{{ item.image }}"></div>
+  		<div><img src="{{ site.url }}/assets/images/{{ item.image }}"></div>
   		<div class="hover-scrim"></div>
   	</div>
   	<div class="content-wrapper">
