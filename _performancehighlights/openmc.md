@@ -10,7 +10,7 @@ award: 'Exascale Computing Project'
 systems: '-'
 sdl: 's'
 
-image: 'openmc.png' 
+image: 'openmc.PNG' 
 image-caption: '-'
 image-credit: '-'
 
