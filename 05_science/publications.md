@@ -387,52 +387,29 @@ Zhang, C., F. Gygi, and G. Galli. “Engineering the Formation of Spin-Defects f
 
 # OCTOBER
 
-Abbot, R., M. S. Albergo, D. Boyda, K. Cranmer, D. C. Hackett, G. Kanwar, S. Racaniere, D. J. Rezende, F. Romero-Lopez, P. E. Shanahan, B. Tian, and J. M. Urban. “Gauge-Equivariant Flow Models for Sampling in Lattice Field Theories with Pseudofermions," <i>Physical Review D</i> (October 2022), APS. doi: 10.1103/physrevd.106.074506
+Burrows, A., D. Vartanyan, and T. Wang. “Black Hole Formation Accompanied by the Supernova Explosion of a 40 M<sub>⊙</sub> Progenitor Star," <i>The Astrophysical Journal</i> (October 2023), IOP Publishing. doi: 10.3847/1538-4357/acfc1c
 
-Ali, A., H. Sharma, R. Kettimuthu, P. Kenesei, D. Trujillo, A. Miceli, I. Foster, R. Coffee, J. Thayer, and Z. Liu. “fairDMS: Rapid Model Training by Data and Model Reuse," <i>2022 IEEE International Conference on Cluster Computing (CLUSTER)</i> (October 2022), Heidelberg, Germany, IEEE. doi: 10.1109/CLUSTER51413.2022.00050
+Chen, Y., E. M. Y. Lee, P. S. Gil, P. Ma, C. V. Amanchukwu, and J. J. de Pablo. “Molecular Engineering of Fluoroether Electrolytes for Lithium Metal Batteries," <i>Molecular Systems Design and Engineering</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/d2me00135g
 
-Bacchini, F., L. Arzamasskiy, V. Zhdankin, G. R. Werner, M. C. Begelman, and D. A. Uzdensky. “Fully Kinetic Shearing-Box Simulations of Magnetorotational Turbulence in 2D and 3D. I. Pair Plasmas," <i>The Astrophysical Journal</i> (October 2022), IOP Publishing. doi: 10.3847/1538-4357/ac8a94 
+Datta, D., and M. S. Gordon. “Accelerating Coupled-Cluster Calculations with GPUs: An Implementation of the Density-Fitted CCSD(T) Approach for Heterogeneous Computing Architectures Using OpenMP Directives," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS Publications. doi: 10.1021/acs.jctc.3c00876
 
-Campos, L., D. Jiménez, S. H. Rizzi, and E. Meneses. “An Evaluation of a Ray-Tracing Based Model for Photorealistic Image Rendering of Confined Plasma in Stellarators," <i>Computación y Sistemas</i> (October 2022), vol. 26, no. 4, Instituto Politécnico Nacional.
+Harb, H., S. N. Elliott, L. Ward, I. T. Foster, S. J. Klippenstein, L. A. Curtiss, and R. S. Assary. “Uncovering Novel Liquid Organic Hydrogen Carriers: A Systematic Exploration of Chemical Compound Space Using Cheminformatics and Quantum Chemical Methods," <i>Digital Discovery</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/D3DD00123G
 
-Chang, W. H. R. “The Dynamics of Drop Breakup in Breaking Waves," <i>Proceedings of the 34th Symposium on Naval Hydrodynamics</i> (October 2022), Washington, DC, The George Washington University.
+Huang, S., and J. M. Cole. “ChemDataWriter: A Transformer-Based Toolkit for Auto-Generating Books That Summarise Research," <i>Digital Discovery</i> (October 2023), Royal Society of Chemistry. doi: 10.1039/D3DD00159H
 
-Chitty-Venkata, K. T., M. Emani, V. Vishwanath, and A. K. Somani. “Neural Architecture Search for Transformers: A Survey," <i>IEEE Access</i> (October 2022), IEEE. doi: 10.1109/ACCESS.2022.3212767
+Kravvaris, K., P. Navrátil, S. Quaglioni, C. Hebborn, and G. Hupin. “Ab Initio Informed Evaluation of the Radiative Capture of Protons on 7Be," <i>Physics Letters B</i> (October 2023), Elsevier. doi: 10.1016/j.physletb.2023.138156
 
-Davies, C. T. H., C. Detar, A. X. El-Khadra, S. Gottlieb, D. Hatton, A. S. Kronfeld, S. Lahert, G. P. Lepage, C. McNeile, E. T. Neil, C. T. Peterson, G. S. Ray, R. S. Van de Water, and A. Vaquero. “Windows on the Hadronic Vacuum Polarization Contribution to the Muon Anomalous Magnetic Moment," <i>Physical Review D</i> (October 2022), vol. 106, no. 7, APS. doi: 10.1103/physrevd.106.074509
+Liu, X., S. Jiang, A. Vasan, A. Brace, O. Gokdemir, T. Brettin, F. Xia, I. Foster, and R. Stevens. “DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization," <i>NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development</i> (October 2023), New Orleans, LA, Neural Information Processing Systems Foundation.
 
-Deematties, D., S. Rizzi, G. K. Thiruvathukal, and A. Wainselboim. “Towards an Active Foveated Approach to Computer Vision," <i>Computación y Sistemas</i> (October 2022), vol. 26, no. 4, Instituto Politécnico Nacional.
+Minch, P., R. Bhattarai, and T. D. Rhone. “Data-Driven Study of Magnetic Anisotropy in Transition Metal Dichalcogenide Monolayers," <i>Solid State Communications</i> (October 2023), Elsevier. doi: 10.1016/j.ssc.2023.115248
 
-Garland, N. A., R. Maulik, Q. Tang, X.-Z. Tang, and P. Balaprakash. “Efficient Data Acquisition and Training of Collisional-Radiative Model Artificial Neural Network Surrogates through Adaptive Parameter Space Sampling," <i>Machine Learning: Science and Technology</i> (October 2022), IOP Publishing. doi: 10.1088/2632-2153/ac93e7
+Vartanyan, D., and A. Burrows. “Neutrino Signatures of 100 2D Axisymmetric Core-Collapse Supernova Simulations," <i>Monthly Notices of the Royal Astronomical Society</i> (October 2023), Oxford University Press. doi: 10.1093/mnras/stad2887
 
-Giannakopoulos, G. K., K. Keskinen, J. Koch, C. E. Frouzakis, Y. M. Wright, and K. Boulouchos. “Characterizing the Evolution of Boundary Layers in IC Engines by Combined Direct Numerical and Large-Eddy Simulations," <i>Flow, Turbulence and Combustion</i> (October 2022), Springer Nature. doi: 10.1007/s10494-022-00383-1
+Wan, S., A. P. Bhati, and P. V. Coveney. “Comparison of Equilibrium and Nonequilibrium Approaches for Relative Binding Free Energy Predictions," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS. doi: 10.1021/acs.jctc.3c00842
 
-Hobbs, B. F., V. Krishnan, J. Zhang, H. F. Hamann, C. Siebenschuh, R. Zhang, B. Li, L. He, P. Edwards, H. Sky, I. Krad, E. Spyrou, X. Fang, Y. Wang, Q. Xu, and S. Zhang. “How Can Probabilistic Solar Power Forecasts Be Used to Lower Costs and Improve Reliability in Power Spot Markets? A Review and Application to Flexiramp Requirements," <i>IEEE Open Access Journal of Power and Energy</i> (October 2022), IEEE. doi: 10.1109/OAJPE.2022.3217909
+Zahariev, F., P. Xu, B. M. Westheimer, S. Webb, J. G. Vallejo, A. Tiwari, V. Sundriyal, M. Sosonkina, J. Shen, G. Schoendorff, M. Schlinsog, T. Sattasathuchana, K. Ruedenberg, L. B. Roskop, A. P. Rendell, D. Poole, P. Piecuch, B. Q. Pham, V. Mironov, J. Mato, S. Leonard, S. S. Leang, J. Ivanic, J. Hayes, T. Harville, K. Gururangan, E. Guidez, I. S. Gerasimov, C. Friedl, K. N. Ferreras, G. Elliott, D. Datta, D. Del Angel Cruz, L. Carrington, C. Bertoni, G. M. J. Barca, M. Alkan, and M. S. Gordon. “The General Atomic and Molecular Electronic Structure System (GAMESS): Novel Methods on Novel Architectures," <i>Journal of Chemical Theory and Computation</i> (October 2023), ACS. doi: 10.1021/acs.jctc.3c00379
 
-Kim, H., S. Kang, J. Y. Lee, T. W. Heo, B. C. Wood, J.-H. Shim, Y. W. Cho, D. H. Kim, J.-Y. Suh, and Y.-S. Lee. “A New Perspective on the Initial Hydrogenation of TiFe<sub>0.9</sub>M<sub>0.1</sub> (M = V, Cr, Fe, Co, Ni) Alloys Gained from Surface Oxide Analyses and Nucleation Energetics," <i>Applied Surface Science</i> (October 2022), Elsevier. doi: 10.1016/j.apsusc.2022.155443
-
-Lee, G., I. Hong, J. Ahn, H. Shin, A. Benali, and Y. Kwon. “Hydrogen Separation with a Graphenylene Monolayer: Diffusion Monte Carlo Study," <i>The Journal of Chemical Physics</i> (October 2022), AIP. doi: 10.1063/5.0116092
-
-Li, B., Y. Fan, M. Dearing, Z. Lan, P. Rich, W. Allcock, and M. Papka. “MRSch: Multi-Resource Scheduling for HPC," <i>2022 IEEE International Conference on Cluster Computing (CLUSTER)</i> (October 2022), IEEE. doi: 10.1109/cluster51413.2022.00020
-
-Petro, J. M., H. Rong, C. Michaud, N. Layad, Z. Liu, and R. Coffee. “Enabling Real-Time Adaptation of Machine Learning Models at X-ray Free Electron Laser Facilities with High-Speed Training Optimized Computational Hardware," <i>Frontiers in Physics</i> (October 2022), Frontiers Media SA. doi: 10.3389/fphy.2022.958120
-
-Sankaran, S., H. Wang, L. F. Guilhoto, and P. Perdikaris. “On the Impact of Larger Batch Size in the Training of Physics Informed Neural Networks," <i>The Symbiosis of Deep Learning and Differential Equations II</i> (October 2022), NeurIPS.
-
-Shah, A. H., Z. Zhang, Z. Huang, S. Wang, G. Zhong, C. Wan, A. N. Alenandrova, Y. Huang, and X. Duan. “The Role of Alkali Metal Cations and Platinum-Surface Hydroxyl in the Alkaline Hydrogen Evolution Reaction," <i>Nature Catalysis</i> (October 2022), Springer Nature. doi: 10.1038/s41929-022-00851-x
-
-Sierepeklis, O., and J. M. Cole. “A Thermoelectric Materials Database Auto-Generated from the Scientific Literature Using ChemDataExtractor," <i>Scientific Data</i> (October 2022), Springer Nature. doi: 10.1038/s41597-022-01752-1
-
-Vescovi, R., R. Chard, N. D. Saint, B. Blaiszik, J. Pruyne, T. Bicer, A. Lavens, Z. Liu, M. E. Papka, S. Narayanan, N. Schwarz, K. Chard, and I. T. Foster. “Linking Scientific Instruments and Computation: Patterns, Technologies, and Experiences," <i>Patterns</i> (October 2022), Cell Press. doi: 10.1016/j.patter.2022.100606
-
-Wilkins, M., Y. Guo, R. Thakur, P. Dinda, and N. Hardavellas. “ACCLAiM: Advancing the Practicality of MPI Collective Communication Autotuning Using Machine Learning," <i>2022 IEEE International Conference on Cluster Computing (CLUSTER)</i> (October 2022), Heidelberg, Germany, IEEE. doi: 10.1109/CLUSTER51413.2022.00030
-
-Yang, L., S. C. Tiwari, S. Fukushima, F. Shimojo, R. K. Kalia, A. Nakano, P. Vashishta, and P. S. Branicio. “Photoexcitation-Induced Nonthermal Ultrafast Loss of Long-Range Order in GeTe," <i>The Journal of Physical Chemistry Letters</i> (October 2022), ACS. doi: 10.1021/acs.jpclett.2c02448
-
-Zhang, Z., Z. Wei, P. Sautet, and A. N. Alexandrova. “Hydrogen-Induced Restructuring of a Cu(100) Electrode in Electroreduction Conditions," <i>Journal of the American Chemical Society</i> (October 2022), ACS Publications. doi: 10.1021/jacs.2c06188
-
-
-
+Zyvagin, M., A. Brace, K. Hippie, Y. Deng, B. Zhang, C. O. Bohorquez, A. Clyde, B. Kale, D. Perez-Rivera, H. Ma, C. M. Mann, M. Irvin, J. G. Pauloski, L. Ward, V. Hayot-Sasson, M. Emani, S. Foreman, Z. Xie, D. Lin, M. Shukla, W. Nie, J. Romero, C. Dallago, A. Vahdat, C. Xiao, T. Gibbs, I. Foster, J. J. Davis, M. E. Papka, T. Brettin, R. Stevens, A. Anandkumar, V. Vishwanath, and A. Ramanathan. “GenSLMs: Genome-Scale Language Models Reveal SARS-CoV-2 Evolutionary Dynamics," <i>The International Journal of High Performance Computing Applications</i> (October 2023), SAGE Publications. doi: 10.1177/10943420231201154
 
 # NOVEMBER
 
