@@ -42,3 +42,11 @@ An Argonne-led team relied on the ALCF AI Testbed when using LLMs to discover SA
 
 # Battery Materials
 Argonne scientists are leveraging the ALCF AI Testbed to aid in the development of an application that combines two types of computations for research into potential battery materials: (1) running physics simulations of molecules under redox and (2) training a machine learning model that predicts that energy quantity. The application uses the machine learning model to predict the outcomes of the redox simulations, helping to identify molecules with the desired capacity for energy storage. The ALCF AI Testbed has enabled shortened latency when cycling between the execution of a new calculation that yields additional training data and when that model is used to select the next calculation.
+
+<br>
+
+{% include media-video.html
+   embed-code= '<iframe src="https://www.youtube.com/embed/lLMyjZqci2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   caption= "The ALCF's Murali Emani leads a hands-on workshop covering use and functionality of the ALCF's AI Testbed."
+%}
+
