@@ -3,7 +3,7 @@ layout: page
 
 title: Building a Diverse HPC Workforce
 hero-img-source: "MorrissetteMateevitsi.jpg"
-hero-img-caption: "Morrissette (right) discusses his digital twins research project with Mateevitsi. Image: Argonne National Laboratory"
+hero-img-caption: "Undergraduate James Morrissette (right) discusses his digital twins research project with ALCF's Victor Mateevitsi as part of the ALCF's Summer Student program. Image: Argonne National Laboratory"
 
 theme: white
 permalink: community-and-outreach/dei
