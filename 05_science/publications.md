@@ -372,7 +372,7 @@ Isazawa, T., and J. M. Cole. “Automated Construction of a Photocatalysis Datas
 
 König, K., S. Fritzsche, G. Hagen, J. D. Holt, A. Klose, J. Lantis, Y. Liu, K. Minamisono, T. Miyagi, W. Nazarewicz, T. Papenbrock, S. V. Pineda, R. Powel, and P.-G. Reinhard. “Surprising Charge-Radius Kink in the Sc Isotopes at N=20," <i>Physical Review Letters</i> (September 2023), APS. doi: 10.1103/PhysRevLett.131.102501
 
-Navrátil, P., K. Kravvaris, P. Gysbers, C. Hebborn, G. Hupin, and S. Quaglioni. “Ab Initio Investigations of A=8 Nuclei: α–α Scattering, Deformation in <up>8</sup>He, Radiative Capture of Protons on <sup>7</sup>Be and <sup>7</sup>Li and the X17 Boson," <i>Journal of Physics: Conference Series</i> (September 2023), vol. 2586, IOP Publishing. doi: 10.1088/1742-6596/2586/1/012062
+Navrátil, P., K. Kravvaris, P. Gysbers, C. Hebborn, G. Hupin, and S. Quaglioni. “Ab Initio Investigations of A=8 Nuclei: α–α Scattering, Deformation in <sup>8</sup>He, Radiative Capture of Protons on <sup>7</sup>Be and <sup>7</sup>Li and the X17 Boson," <i>Journal of Physics: Conference Series</i> (September 2023), vol. 2586, IOP Publishing. doi: 10.1088/1742-6596/2586/1/012062
 
 Navrátil, P., and S. Quaglioni. “Ab Initio Nuclear Reaction Theory with Applications to Astrophysics," <i>Handbook of Nuclear Physics</i> (September 2023), Springer, Singapore, pp. 1545-1590. doi: 10.1007/978-981-19-6345-2_7
 
