@@ -501,49 +501,30 @@ Zhang, C., B. Sun, X. Yu, Z. Xie, W. Zheng, K. A. Iskra, P. Beckman, and D. Tao.
 Zubair, M., A. Walden, G. Nastac, E. Nielsen, C. Bauinger, and X. Zhu. “Optimization of Ported CFD Kernels on Intel Data Center GPU Max 1550 using oneAPI ESIMD," <i>SC-W '23: Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis</i> (November 2023), ACM, pp. 1705-1712. doi: 10.1145/3624062.3624251
 
 # DECEMBER
+Babbar, A., S. Ragunathan, D. Mitra, A. Dutta, and T. K. Patra. “Explainability and Extrapolation of Machine Learning Models for Predicting the Glass Transition Temperature of Polymers," <i>Journal of Polymer Science</i> (December 2023), John Wiley and Sons. doi: 10.1002/pol.20230714
 
-Bass, B., J. New, and Z. Wade. “Future Typical Meteorological Year (fTMY) Weather Data and Climate Change Impacts to Maricopa County, Arizona," <i>BuildSys &rsquo;22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (December 2022), Association for Computing Machinery, pp. 504-507. doi: 10.1145/3563357.3567408
+Barwey, S., V., Shankar, V. Viswanathan, and R. Maulik, "Multiscale Graph Neural Network Autoencoders for Interpretable Scientific Machine Learning," <i>Journal of Computational Physics</i> (December 2023), Elsevier. doi: 10.1016/j.jcp.2023.112537
 
-Blöndal, K., K. Sargsyan, D. H. Bross, B. Ruscic, and C. F. Goldsmith. “Configuration Space Integration for Adsorbate Partition Functions: The Effect of Anharmonicity on the Thermophysical Properties of CO–Pt(111) and CH<sub>3</sub>OH–Cu(111)," <i>ACS Catalysis</i> (December 2022), ACS. doi: 10.1021/acscatal.2c04246
+Chen, J. L., J. L. Prelesnik, B. Liang, Y. Sun, M. Bhatt, C. Knight, K. Mahesh, and J. I. Siepmann. “Large-Scale Molecular Dynamics Simulations of Bubble Collapse in Water: Effects of System Size, Water Model, and Nitrogen," <i>The Journal of Chemical Physics</i> (December 2023), AIP Publishing. doi: 10.1063/5.0181781
 
-Hoy, J., and I. Bermejo-Moreno. “Fluid-Structural Coupling of an Impinging Shock-Turbulent Boundary Layer Interaction at Mach 3 over a Flexible Panel," <i>Flow</i> (December 2022), Cambridge University Press. doi: 10.1017/flo.2022.28
+Ding, H. T., X. Gao, A. D. Hanlon, S. Mukherjee, P. Petreczky, Q. Shi, S. Syritsyn, and Y. Zhao. “Lattice QCD Predictions of Pion and Kaon Electromagnetic Form Factors at Large Momentum Transfer," <i>The 40th International Symposium on Lattice Field Theory (LATTICE2023)</i> (December 2023), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0320
 
-Jain, S. S., and A. Mani. “A Computational Model for Transport of Immiscible Scalars in Two-Phase Flows," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111843
+Duarte, J., H. Li, A. Roy, R. Zhu, E. A. Huerta, D. Diaz, P. Harris, R. Kansal, D. S. Katz, I. H. Kavoori, V. V. Kindratenko, F. Mokhtar, M. S. Neubauer, S. E. Park, M. Quinnan, R. Rusack, and Z. Zhao. “FAIR AI Models in High Energy Physics," <i>Machine Learning: Science and Technology</i> (December 2023), IOP Publishing. doi: 10.1088/2632-2153/ad12e3
 
-Jain, S. S., M. C. Adler, J. R. West, A. Mani, P. Moin, and S. K. Lele. “Assessment of Diffuse-Interface Methods for Compressible Multiphase Fluid Flows and Elastic-Plastic Deformation in Solids," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111866
+Foreman, S., X.-Y. Jin, and J. C. Osborn. “MLMC: Machine Learning Monte Carlo for Lattice Gauge Theory," <i>The 40th International Symposium on Lattice Field Theory (LATTICE2023)</i> (December 2023), Batavia, IL, Sissa Medialab. doi: 10.22323/1.453.0036
 
-Kraus, M., L. Naoufal, L. Zhengchun, and R. Coffee. “EdgeAI: Machine Learning via Direct Attached Accelerator for Streaming Data Processing at High Shot Rate X-Ray Free-Electron Lasers," <i>Frontiers in Physics</i> (December 2022), Frontiers Media SA. doi: 10.3389/fphy.2022.957509
+Hackett, D. C., P. R. Oare, D. A. Pefkou, and P. E. Shanahan. “Gravitational Form Factors of the Pion from Lattice QCD," <i>Physical Review D</i> (December 2023), APS. doi: 10.1103/physrevd.108.114504
 
-Linker, T., K. Nomura, S. Fukushima, R. K. Kalia, A. Krishnamoorthy, A. Nakano, K. Shimamura, F. Shimojo, and P. Vashishta. “Squishing Skyrmions: Symmetry-Guided Dynamic Transformation of Polar Topologies under Compression," <i>The Journal of Physical Chemistry Letters</i> (December 2022), ACS. doi: 10.1021/acs.jpclett.2c03029
+Narykov, O., Y. Zhu, T. Brettin, Y. A. Evrard, A. Partin, M. Shukla, F. Xia, A. Clyde, P. Vasanthakumari, J. H. Doroshow, and R. L. Stevens. "Integration of Computational Docking into Anti-Cancer Drug Response Prediction Models," <i>Cancers</i> (December 2023), MDPI. doi: 10.3390/cancers16010050
 
-Linot, A. J., J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. “Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems," <i>Journal of Computational Physics</i> (December 2022), Elsevier. doi: 10.1016/j.jcp.2022.111838
+Sarkar, A., D. Lee, and U.-G. Meißner. “Floating Block Method for Quantum Monte Carlo Simulations," <i>Physical Review Letters</i> (December 2023), APS. doi: 10.1103/PhysRevLett.131.242503
 
-Maris, P., R. Roth, E. Epelbaum, R. J. Furnstahl, J. Golak, K. Hebeler, T. Hüther, H. Kamada, H. Krebs, H. Le, U.-G. Meißner, J. A. Melendez, A. Nogga, P. Reinert, R. Skibiński, J. P. Vary, H. Witała, and T. Wolfgruber. “Nuclear Properties with Semilocal Momentum-Space Regularized Chiral Interactions beyond N<sup>2</sup>LO," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/PhysRevC.106.064002
+Tian, M., E. A. Huerta, and H. Zheng. “AI Ensemble for Signal Detection of Higher Order Gravitational Wave Modes of Quasi-Circular, Spinning, Non-Precessing Binary Black Hole Mergers," <i>2023 Workshop on Machine Learning and the Physical Sciences</i> (December 2023), New Orleans, LA, Neural Information Processing Systems Foundation. doi: 10.48550/arXiv.2310.00052
 
-Marrinan, T., J. Tan, J. A. Insley, A. Kanayinkal, and M. E. Papka. “Interactive Virtual Reality Exploration of Large-Scale Datasets Using Omnidirectional Stereo Images," <i>ISVC 2022: Advances in Visual Computing</i> (December 2022), Springer Nature. doi: 10.1007/978-3-031-20713-6_9
+Wallace, B. C., A. M. Haberlie, W. S. Ashley, V. A. Gensini, and A. C. Michaelis. “Decomposing the Precipitation Response to Climate Change in Convection Allowing Simulations over the Conterminous United States," <i>Earth and Space Science</i> (December 2023), John Wiley and Sons. doi: 10.1029/2023ea003094
 
-Moran, K. R., K. Heitmann, E. Lawrence, S. Habib, D. Bingham, A. Upadhye, J. Kwan, D. Higdon, and R. Payne. “The Mira-Titan Universe – IV. High Precision Power Spectrum Emulation," <i>Monthly Notices of the Royal Astronomical Society</i> (December 2022), Oxford University Publishing. doi: 10.1093/mnras/stac3452
+Wang, H.-H., S.-Y. Moon, H. Kim, G. Kim, W.-Y. Ah, Y. Y. Joo, and J. Cha. “Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children," <i>Heliyon</i> (December 2023), Cell Press. doi: 10.1016/j.heliyon.2023.e23345
 
-Nealey, I., N. Ferrier, J. A. Insley, V. A. Mateevitsi, S. Rizzi, and J. Schulze. “Sort-Last In-Transit Data Visualization with SENSEI, Catalyst, and Unreal Engine," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966391
+Wildenberg, G., H. Li, V. Sampathkumar, A. Sorokina, and N. Kasthuri. “Isochronic Development of Cortical Synapses in Primates and Mice," <i>Nature Communications</i> (December 2023), Springer Nature. doi: 10.1038/s41467-023-43088-3
 
-Norman, M., I. Lyngaas, A. Bagusetty, and M. Berrill. “Portable C++ Code That Can Look and Feel Like Fortran Code with Yet Another Kernel Launcher (YAKL)," <i>International Journal of Parallel Programming</i> (December 2022), Springer Nature. doi: 10.1007/s10766-022-00739-0
-
-Ortiz, J. A., J. A. Insley, J. Knowles, V. A. Mateevitsi, M. E. Papka, and S. Rizzi. “Massive Data Visualization Techniques for Use in Virtual Reality Devices," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966400
-
-Rostamijavanani, A., S. Li, and Y. Yang. “Physics-Constrained Deep Learning of Nonlinear Normal Modes of Spatiotemporal Fluid Flow Dynamics," <i>Physics of Fluids</i> (December 2022), AIP Publishing. doi: 10.1063/5.0124455
-
-Sun, Z. H., C. A. Bell, G. Hagen, and T. Papenbrock. “How to Renormalize Coupled Cluster Theory," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/PhysRevC.106.L061302
-
-Tishchenko, N., N. Ferrier, J. A. Insley, V. A. Mateevitsi, M. E. Papka, S. Rizzi, and J. Tan. “Toward Bi-directional In Situ Visualization and Analysis of Blood Flow Simulations with Dynamic Deforming Walls," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966389
-
-Torelli, R., Y. Pei, Y. Zhang, and S. Som. “End-to-End Modeling of Fuel Injection via Static Coupling of Internal Flow and Ensuing Spray," <i>Communications Engineering</i> (December 2022), Springer Nature. doi: 10.1038/s44172-022-00038-z
-
-Weiss, R., P. Soriano, A. Lovato, J. Menendez, and R. B. Wiringa. “Neutrinoless Double-β Decay: Combining Quantum Monte Carlo and the Nuclear Shell Model with the Generalized Contact Formalism," <i>Physical Review C</i> (December 2022), APS. doi: 10.1103/physrevc.106.065501
-
-Wu, Q., J. Bessac, W. Huang, J. Wang, and R. Kotamarthi. “A Conditional Approach for Joint Estimation of Wind Speed and Direction Under Future Climates," <i>Advances in Statistical Climatology, Meteorology and Oceanography</i> (December 2022), Copernicus Publications. doi: 10.5194/ascmo-8-205-2022
-
-Wu, Q., J. A. Insley, V. A. Mateevitsi, S. Rizzi, and K.-L. Ma. “Distributed Volumetric Neural Representation for In Situ Visualization and Analysis," <i>2022 IEEE 12th Symposium on Large Data Analysis and Visualization (LDAV)</i> (December 2022), Oklahoma City, OK, IEEE. doi: 10.1109/LDAV57265.2022.9966405
-
-Wu, S., H. Li, and A. Ma. “Exact Reaction Coordinates for Flap Opening in HIV-1 Protease," <i>Proceedings of the National Academy of Sciences</i> (December 2022), NAS. doi: 10.1073/pnas.2214906119
-
-Wu, S., S. S. Patel, and M. M. Ameen. “Investigating the Origins of Cyclic Variability in Internal Combustion Engines Using Wall-Resolved Large Eddy Simulations," <i>Journal of Engineering for Gas Turbines and Power</i> (December 2022), The American Society of Mechanical Engineers. doi: 10.1115/1.4056095
+Ye, Z., F. Gygi, and G. Galli. “Raman Spectra of Electrified Si–Water Interfaces: First-Principles Simulations," <i>The Journal of Physical Chemistry Letters</i> (December 2023), ACS. doi: 10.1021/acs.jpclett.3c03122
