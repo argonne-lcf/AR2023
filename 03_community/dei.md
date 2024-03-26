@@ -3,7 +3,7 @@ layout: page
 
 title: Building a Diverse HPC Workforce
 hero-img-source: "MorrissetteMateevitsi.jpg"
-hero-img-caption: "Undergraduate James Morrissette (right) discusses his digital twins research project with ALCF's Victor Mateevitsi as part of the ALCF's Summer Student program. Image: Argonne National Laboratory"
+hero-img-caption: "James Morrissette (right) first began working with ALCF mentor Victor Mateevitsi (left) as a high school student participating in the Argonne ACT-SO program. In 2023, he returned to the ALCF as a college intern through the Sustainable Research Pathways program. Image: Argonne National Laboratory"
 
 theme: white
 permalink: community-and-outreach/dei
