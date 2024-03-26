@@ -11,8 +11,6 @@ systems: '-'
 sdl: 's'
 
 image: 'nwchemex.jpg' 
-image-caption: '-'
-image-credit: '-'
 
 ---
 
