@@ -5,7 +5,7 @@ theme: white
 permalink: 'science/highlights/kent'
 
 title: 'Towards DMC Accuracy Across Chemical Space with Scalable Δ-QML'
-pi: 'Paul Kent, Oak Ridge National Laboratory; <br> Anouar Benali, Argonne National Laboratory'
+pi: 'Paul Kent, Oak Ridge National Laboratory; Anouar Benali, Argonne National Laboratory'
 award: 'INCITE'
 systems: 'Theta'
 field: 'Materials Science'
