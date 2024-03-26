@@ -10,9 +10,6 @@ award: 'Aurora Early Science Program and Exascale Computing Project'
 sdl: 's'
 
 image: 'xgc.png'
-image-caption: '-'
-image-credit: '-'
-
 ---
 
 {% include txt-intro.html 
