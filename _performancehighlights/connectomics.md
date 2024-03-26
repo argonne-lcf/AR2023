@@ -11,8 +11,7 @@ systems: '-'
 sdl: 'd,l'
 
 image: 'connectomics.png' 
-image-caption: '-'
-image-credit: '-'
+
 
 ---
 
