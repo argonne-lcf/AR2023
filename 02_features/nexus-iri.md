@@ -7,11 +7,11 @@ permalink: features/aurora-and-aps
 title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
-intro: "With Argonne’s Nexus effort, the ALCF continues its work to accelerate data-intensive science via the development of an integrated research infrastructure that seamlessly connects supercomputing resources with large-scale experimental facilities."
+intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing methods and tools to accelerate data-intensive science via an integrated research infrastructure."
 ---
 
 
-When the massive upgrade at Argonne’s Advanced Photon Source (APS) is completed in 2024, experiments at the powerful X-ray light source are expected to generate 100-200 petabytes of scientific data per year. That’s a substantial increase over the approximately 5 petabytes that were being produced annually at the APS before the upgrade. And if you consider the DOE’s four other light sources, the facilities are projected to yield an exabyte of data per year in the coming decade.
+When the massive upgrade at Argonne’s Advanced Photon Source (APS) is completed in 2024, experiments at the powerful X-ray light source are expected to generate 100-200 petabytes of scientific data per year. That’s a substantial increase over the approximately 5 petabytes that were being produced annually at the APS before the upgrade. When factoring in DOE’s four other light sources, the facilities are projected to collectively generate an exabyte of data per year in the coming decade.
 
 The growing deluge of scientific data is not unique to light sources. Telescopes, particle accelerators, fusion research facilities, remote sensors, and other scientific instruments also produce large amounts of data. And as their capabilities improve over time, the data generation rates will only continue to grow. The scientific community’s ability to process, analyze, store, and share these massive datasets is critical to gaining insights that will spark new discoveries. 
 
