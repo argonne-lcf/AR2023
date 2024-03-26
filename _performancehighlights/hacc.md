@@ -11,8 +11,6 @@ systems: '-'
 sdl: 's'
 
 image: 'hacc.png' 
-image-caption: '-'
-image-credit: '-'
 
 ---
 
