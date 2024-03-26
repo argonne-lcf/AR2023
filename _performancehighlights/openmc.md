@@ -11,8 +11,6 @@ systems: '-'
 sdl: 's'
 
 image: 'openmc.PNG' 
-image-caption: '-'
-image-credit: '-'
 
 ---
 
