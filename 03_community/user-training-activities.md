@@ -3,7 +3,7 @@ layout: page
 
 title: Training ALCF Users
 hero-img-source: "TourImg.jpg"
-hero-img-caption: "Argonne’s Wilkie Olin-Ammentorp gives ALCF Hands-on Workshop attendees an overview of the Aurora blade as part of the facility tour."
+hero-img-caption: "Argonne’s Wilkie Olin-Ammentorp gives ALCF Hands-on Workshop attendees an overview of the Aurora blade as part of a facility tour."
 
 theme: white
 permalink: community-and-outreach/user-training-activities
@@ -14,7 +14,7 @@ permalink: community-and-outreach/user-training-activities
 Starting July of 2023, the ALCF hosted a series of training workshops that introduced researchers to the novel AI accelerators deployed at the ALCF AI Testbed. The four individual workshops demonstrated to participants the architecture and software of the [SambaNova DataScale SN30 system](https://www.alcf.anl.gov/sambanova-ai-workshop-2023), the [Cerebras CS-2 system](https://www.alcf.anl.gov/cerebras-ai-workshop-2023), the [Graphcore Bow Pod system](https://www.alcf.anl.gov/graphcore-ai-workshop-2023), and the [GroqRack system](https://www.alcf.anl.gov/events/groq-ai-workshop).
 
 # ALCF Hands-on HPC Workshop
-Held in October at Argonne, the [ALCF Hands-on HPC Workshop](https://www.alcf.anl.gov/events/alcf-hands-hpc-workshop) is designed to help attendees boost application performance on ALCF systems.  The three-day workshop provided an opportunity for hands-on time on Polaris and AI Testbeds focusing on porting applications to heterogeneous architectures (CPU + GPU), improving code performance, and exploring AI/ML applications development on ALCF systems. For a recap of the 2023 event, [read the article on our website.](https://www.alcf.anl.gov/news/hands-workshop-helps-attendees-enhance-research-using-alcf-supercomputers)
+Held in October at Argonne, the [ALCF Hands-on HPC Workshop](https://www.alcf.anl.gov/events/alcf-hands-hpc-workshop) is designed to help attendees boost application performance on ALCF systems. The three-day workshop provided an opportunity for hands-on time on Polaris and AI Testbeds focusing on porting applications to heterogeneous architectures (CPU + GPU), improving code performance, and exploring AI/ML applications development on ALCF systems. For a recap of the 2023 event, [read the article on our website.](https://www.alcf.anl.gov/news/hands-workshop-helps-attendees-enhance-research-using-alcf-supercomputers)
 
 # ALCF INCITE Hackathon
 In April and May, the ALCF partnered with NVIDIA to host its [GPU Hackathon](https://www.alcf.anl.gov/events/alcf-incite-hackathon-april-18-25-and-may-2-4-2023) for the third time, a hybrid event designed to help developers accelerate their codes on ALCF resources and prepare for the INCITE call for proposals. The multi-day hackathon gave attendees access to ALCF’s Polaris system. A total of 12 teams participated this year, exploring a vast array of topics including weather research and forecasting models, colon cancer research, and methods to reconstruct large biomolecular structures. For a recap of the 2023 event, [read the article on our website.](https://www.alcf.anl.gov/news/alcf-workshop-helps-researchers-prepare-codes-polaris-supercomputer)
@@ -45,7 +45,7 @@ In 2023, the ALCF, OLCF, NERSC, and ECP continued their collaboration with the I
 # DOE Cross-facility Workflows Training
 In April, the ALCF, OLCF, and NERSC hosted a [training event](https://www.alcf.anl.gov/events/doe-cross-facility-workflows-training) on the topic of workflows and workflow tools across the DOE. Through a half-day Zoom event attendees were able to find the right workflow tools and answer their questions about running workflows on supercomputers. There were hands-on examples of GNU Parallel, Parsl, FireWorks, and Balsam- all of which can be used at ALCF, NERSC, and OLCF.
 
-# Getting Started Bootcamp on Polaris
+# Getting Started on Polaris Bootcamp
 The ALCF [Getting Started Bootcamp](https://www.alcf.anl.gov/events/getting-started-bootcamp-polaris) introduced attendees to using the Polaris computing environment. Aimed at participants who have experience using clusters or supercomputers but are new to ALCF systems, the bootcamp covered the PBS job scheduler, utilizing preinstalled environments, proper compiler and profiler use, Python environments, and running Jupyter notebooks. The webinar showed those in attendance where these tools are located and which ones to properly use.
 
 # INCITE Proposal Writing Webinars 
