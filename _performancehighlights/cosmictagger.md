@@ -11,8 +11,7 @@ systems: '-'
 sdl: 'l'
 
 image: 'cosmictagger.png' 
-image-caption: '-'
-image-credit: '-'
+
 
 ---
 
