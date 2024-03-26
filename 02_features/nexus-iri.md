@@ -7,7 +7,7 @@ permalink: features/aurora-and-aps
 title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
-intro: "With Argonne’s Nexus effort, researchers are working to accelerate data-intensive science by developing an integrated research infrastructure that seamlessly connects supercomputing resources with large-scale experimental facilities."
+intro: "With Argonne’s Nexus effort, the ALCF continues its work to accelerate data-intensive science via the development of an integrated research infrastructure that seamlessly connects supercomputing resources with large-scale experimental facilities."
 ---
 
 
@@ -23,7 +23,7 @@ To help scientists manage the ever-increasing amount of scientific data, [Argonn
    credit= "Argonne National Laboratory"
 %}
 
-For over a decade, the ALCF has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS](https://www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility](https://www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)](https://www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
+For over 30 years, Argonne has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS](https://www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility](https://www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)](https://www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
 
 These collaborations have led to the creation of new capabilities for on-demand computing and managing complex workflows, giving the lab valuable experience to support the DOE IRI initiative. Argonne also operates several resources and services that are key to realizing the IRI vision.
 
