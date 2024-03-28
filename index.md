@@ -13,7 +13,7 @@ title: Argonne Leadership Computing Facility
 		<div>
 			<!-- <img src="{{ site.url }}/assets/images/cover.png"> -->
 			<!-- poster="{{ site.url }}/assets/images/cover.png"  -->
-			<video autoplay loop>
+			<video autoplay loop muted>
 				<source src="{{ site.url }}/assets/video/hypersonic.webm" type="video/webm">	
 				<source src="{{ site.url }}/assets/video/hypersonic.mp4" type="video/mp4">
   				Your browser does not support the video tag.
