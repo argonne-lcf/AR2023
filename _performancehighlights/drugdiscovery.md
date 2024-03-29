@@ -34,6 +34,12 @@ Drug screening inference scaled to 128 nodes on Aurora, screening approximately 
 
 SST showed comparable accuracy to state-of-the-art surrogate models, with r-squared values between 70 and 90 percent on multiple test protein receptors, affirming the capability of SST to learn molecular information directly from language-based data. One significant advantage of the SST approach is its notably faster tokenization preprocessing compared to alternative preprocessing methods such as generating molecular descriptors. Furthermore, SST predictions emphasize several molecular motifs that have previously been confirmed to interact with residues in their target binding pockets.
 
+{% include media-img.html
+   source= "Chart_DrugScreening.png"
+   caption= "Molecules/second"
+   credit= "-"
+%}
+
 # Impact
 The team’s approach presents an efficient means for screening otherwise cumbersomely extensive compound databases for molecular properties that could prove useful for targeting cancer and other diseases. Aurora system capabilities will make possible screening 40 to 60 billion candidate compounds for potential synthesis. A key future direction for the workflow involves integrating de-novo drug design, enabling the researchers to scale their efforts to explore the limits of synthesizable compounds within chemical space.
 
