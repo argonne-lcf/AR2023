@@ -28,7 +28,11 @@ To take full advantage of exascale architectures, it is critical that applicatio
 # Performance Results
 In 2023, the GAMESS team leveraged the Aurora system to perform simulations of silica nanoparticles surrounded by thousands of water molecules, scaling on up to 512 nodes of the system. Results have demonstrated performance some 2.5 times greater than was achieved using other tested architectures.
 
-
+{% include media-img.html
+   source= "Chart_GAMESS.png"
+   caption= "Placeholder caption."
+   credit= "-"
+%}
 
 # Impact
 Full-scale utilization of the Aurora system will enable GAMESS users to carry out demanding tasks like computing the energies and reaction pathways of catalysis processes within a large silica nanoparticle.
