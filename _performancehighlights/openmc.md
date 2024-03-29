@@ -31,6 +31,12 @@ Current full-machine projections for OpenMC running on Aurora, based on prelimin
 # Performance Results
 The code has been run across multiple types of GPUs, with large performance gains—all over 2x—demonstrated on the Aurora testbed, Sunspot, over other systems. The increases have been consistent across single-GPU, full-node, and multi-node comparisons performed in 2023 on as many as 96 GPUs.
 
+{% include media-img.html
+   source= "Chart_OpenMC.png"
+   caption= "Placeholder caption"
+   credit= "-"
+%}
+
 
 
 # Impact

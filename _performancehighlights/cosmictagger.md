@@ -29,6 +29,11 @@ The CosmicTagger project deals with the detection of neutrino interactions in a 
 # Performance Results
 Running on Sunspot, the Aurora testbed, CosmicTagger achieved node throughput of 280 samples per second, representing a more than fivefold increase over other compared systems' throughput. Running the code on 512 nodes of Aurora achieved 83 percent scaling efficiency per node, using PyTorch and the distributed deep learning training framework Horovod. 
 
+{% include media-img.html
+   source= "Chart_CosmicTagger.png"
+   caption= "Node throughput samples/second"
+   credit= "-"
+%}
 
 # Impact
 Deep learning has enabled state-of-the-art results in high-energy neutrino physics, with this application achieving substantially improved background particle rejection compared to classical techniques. Deploying CosmicTagger on Aurora will enable training and inference of the model at the highest resolution data and with the most scientifically accurate model.
