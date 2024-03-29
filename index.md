@@ -86,7 +86,7 @@ title: Argonne Leadership Computing Facility
 		<h2>Insights</h2>
 		<div class='embed-1'>
 			<div class="embed-wrapper">
-				<iframe src="https://www.youtube.com/embed/-UBFVYZqoHQ?si=ipgAks7uAWq-Dq-q&amp";clip=UgkxMyXhlXf6cejE6yfL-z6T4-cvDN9wRY-9&amp)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				<iframe src="https://www.youtube.com/embed/-UBFVYZqoHQ?si=ipgAks7uAWq-Dq-q&amp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
 			<small class="caption">
 				The quick brown fox jumps over the lazy dog. <span class="credit">Credit: Person/Source</span>
