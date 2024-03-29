@@ -27,7 +27,7 @@ The testbed’s newest additions give the ALCF user community access to new lead
 Together, the ALCF AI Testbed systems provide advanced capabilities that will support Argonne’s efforts to develop an integrated research infrastructure that seamlessly connects advanced computing resources with data-intensive experiments, such as light sources and fusion experiments, to accelerate the pace of discovery.
 
 {% include media-video2x.html
-   embed-code1= '<iframe src="https://youtu.be/XZ4pNVmQTb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+   embed-code1= '<iframe src="https://www.youtube.com/embed/XZ4pNVmQTb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption1= "Venkat Vishwanath Explains that Different Use Cases for AI Inference Workloads"
    embed-code2= '<iframe src="https://youtu.be/1Y6E3aCHhU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
    caption2= "Arvind Ramanathan Talks About the Use of AI in Science"
