@@ -30,7 +30,7 @@ In 2023, the GAMESS team leveraged the Aurora system to perform simulations of s
 
 {% include media-img.html
    source= "Chart_GAMESS.png"
-   caption= "Placeholder caption."
+   caption= "PVC performance about 2.5x that of a single A100 GPU."
    credit= "-"
 %}
 
