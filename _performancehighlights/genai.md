@@ -34,6 +34,11 @@ AuroraGenAI is 5.7 times more powerful than GPT-4, which contains 175 million pa
 # Performance Results
 The one-trillion-parameter LLM run on Aurora using 64 nodes in parallel, half the number of nodes required to run the entire model on other GPU-based systems. Additionally, data parallel scaling of the trillion-parameter model was carried out on 256 Aurora nodes. The researchers subsequently began working toward scaling AuroraGenAI to more than 10,000 nodes on Aurora.
 
+{% include media-img.html
+   source= "Chart_GenAI.png"
+   caption= "Placeholder caption."
+   credit= "-"
+%}
 
 # Impact
 The AuroraGenAI project has potential uses in systems biology, cancer research, climate science, cosmology, polymer chemistry, and materials science, among other fields, and stands to accelerate research and development across these different fields as a uniquely powerful resource for researchers.
