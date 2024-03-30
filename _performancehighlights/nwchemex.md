@@ -32,7 +32,11 @@ To help localize communication and thereby reduce related bottlenecks, NWChemEx 
 
 For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to port any existing optimized CUDA code and translate it to DPC++. The Compatibility Tool is sophisticated enough that it reliably determines apposite syntax in translating abstractions from CUDA to SYCL, greatly reducing the developers’ burden. Subsequent to translation, the developers finetune the DPC++ code to remove any redundancies, inelegancies, or performance issues introduced by automation.
 
-
+{% include media-img.html
+   source= "Chart_NWChemEx.png"
+   caption= "Placeholder caption."
+   credit= "-"
+%}
 
 
 # Performance Results
