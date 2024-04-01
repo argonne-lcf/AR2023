@@ -21,14 +21,14 @@
 
 	h1 {
 		@include typestyle($sans-sm-bld);
-		color: color(blue, XXXX);
+		color: color(neutral, XXXXX);
 	}
 
 	h2 {
 		@include typestyle($sans-xs-bld);
 		text-transform: uppercase;
 		@include stack(xxs);
-		color: color(blue, XXXX);
+		color: color(neutral, XXXXX);
 
 		&::before {
 			content: "";
@@ -36,7 +36,7 @@
     	height: 8px;
     	margin-bottom: .75rem;
     	display: block;
-    	background-color: color(blue, XXXX);
+    	background-color: color(neutral, XXXXX);
 		}
 	}
 
@@ -52,16 +52,16 @@
 
 	a {
 		text-decoration: none;
-		color: color(blue, XXXX);
+		color: color(neutral, XXXXX);
 		&:hover {
 			text-decoration: underline;
-			text-decoration-color: color(blue, XXXX);
+			text-decoration-color: color(neutral, XXXXX);
 		}
 	}
 
 	a.current {
 	text-decoration: underline;
-	text-decoration-color: color(blue, XXXX);
+	text-decoration-color: color(neutral, XXXXX);
 	}
 
 	.menuitem-wrapper {

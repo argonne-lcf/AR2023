@@ -12,11 +12,13 @@
 <link rel="canonical" href="http://localhost:4000/features/aurora/xgc" />
 <meta property="og:url" content="http://localhost:4000/features/aurora/xgc" />
 <meta property="og:site_name" content="2023 ALCF Annual Report" />
+<meta property="og:image" content="http://localhost:4000/xgc.png" />
 <meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://localhost:4000/xgc.png" />
 <meta property="twitter:title" content="Multiphysics Magnetic Fusion Reactor Simulations: XGC" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Developed in tandem with the ECP-supported Whole Device Model Application project—which aims to build a high-fidelity model of magnetically confined fusion plasmas to plan experiments with ITER—XGC is a gyrokinetic particle-in-cell code (with an unstructured 2D grid and structured toroidal grid) used to perform large-scale simulations on DOE supercomputers, and optimized for treating edge plasma.","headline":"Multiphysics Magnetic Fusion Reactor Simulations: XGC","url":"http://localhost:4000/features/aurora/xgc"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Developed in tandem with the ECP-supported Whole Device Model Application project—which aims to build a high-fidelity model of magnetically confined fusion plasmas to plan experiments with ITER—XGC is a gyrokinetic particle-in-cell code (with an unstructured 2D grid and structured toroidal grid) used to perform large-scale simulations on DOE supercomputers, and optimized for treating edge plasma.","headline":"Multiphysics Magnetic Fusion Reactor Simulations: XGC","image":"http://localhost:4000/xgc.png","url":"http://localhost:4000/features/aurora/xgc"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -546,7 +548,7 @@ available parameters:
 
 <div class="media-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/"></div>
+		<div><img src="http://localhost:4000/assets/images/xgc.png"></div>
 	</div>
 
 	
@@ -580,6 +582,39 @@ available parameters:
 <h1 id="performance-results">Performance Results</h1>
 
 <p>Optimization for exascale has required both GPU offloading and algorithmic flexibility. XGC uses the Kokkos programming model as its portability layer, with different backends. Researchers evaluated system performance with a gyrokinetic particle-in-cell simulation of tokamak plasma using C++ to predict ITER fusion reactor plasma behavior with Tungsten impurity ions sputtered from the divertor. Performance on the Aurora testbed, Sunspot, yielded scaling performance comparable to that of other GPU-based systems, while single-GPU performance was as much as 46 percent greater than was achieved with other systems.</p>
+
+<!-- 
+
+MEDIA, IMAGE
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="media-img">
+	<div class="img-wrapper">
+		<div><img src="http://localhost:4000/assets/images/Chart_XGC.png" /></div>
+	</div>
+
+	
+		<small class="caption">
+			Placeholder caption.
+			
+				<span class="credit">Image: -</span>
+			
+		</small>
+	
+</div>
 
 <h1 id="impact">Impact</h1>
 <p>The resulting exascale application will be unique in its computational capabilities and will have potentially transformational impact in fusion science, for example, by studying a much larger and more realistic range of dimensionless plasma parameters than ever before—by providing the energy-angle distribution of plasmas hitting the material wall, by calculating the critically needed tungsten penetration into the burning core, and by assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma (e.g., tokamaks, stellarators)—with the core and the edge plasma strongly coupled at a fundamental kinetic level based on the gyrokinetic equations.</p>

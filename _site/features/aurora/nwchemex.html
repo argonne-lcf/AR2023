@@ -12,13 +12,13 @@
 <link rel="canonical" href="http://localhost:4000/features/aurora/nwchemex" />
 <meta property="og:url" content="http://localhost:4000/features/aurora/nwchemex" />
 <meta property="og:site_name" content="2023 ALCF Annual Report" />
-<meta property="og:image" content="http://localhost:4000/-" />
+<meta property="og:image" content="http://localhost:4000/nwchemex.jpg" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:4000/-" />
+<meta property="twitter:image" content="http://localhost:4000/nwchemex.jpg" />
 <meta property="twitter:title" content="High-Performance Computational Chemistry: NWChemEx" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"As the original NWChem code—an ab initio computational chemistry software package which includes quantum chemical and molecular dynamics functionality— is nearly a quarter-century old, in updating the application, the NWChemEx developers decided to rewrite from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new, exascale-ready code is capable of enabling chemistry research on a variety of leading-edge computing systems.","headline":"High-Performance Computational Chemistry: NWChemEx","image":"http://localhost:4000/-","url":"http://localhost:4000/features/aurora/nwchemex"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"As the original NWChem code—an ab initio computational chemistry software package which includes quantum chemical and molecular dynamics functionality— is nearly a quarter-century old, in updating the application, the NWChemEx developers decided to rewrite from the ground up, with the ultimate goal of providing the framework for a next-generation molecular modeling package. The new, exascale-ready code is capable of enabling chemistry research on a variety of leading-edge computing systems.","headline":"High-Performance Computational Chemistry: NWChemEx","image":"http://localhost:4000/nwchemex.jpg","url":"http://localhost:4000/features/aurora/nwchemex"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="https://use.typekit.net/vpa7ous.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
@@ -548,16 +548,9 @@ available parameters:
 
 <div class="media-img">
 	<div class="img-wrapper">
-		<div><img src="http://localhost:4000/assets/images/-"></div>
+		<div><img src="http://localhost:4000/assets/images/nwchemex.jpg"></div>
 	</div>
 
-	
-		<small class="caption">
-			-
-			
-				<span class="credit">Image: -</span>
-			
-		</small>
 	
 </div>
 
@@ -591,6 +584,39 @@ available parameters:
 <p>To help localize communication and thereby reduce related bottlenecks, NWChemEx is being geared such that CPUs handle communication protocols as well as any other non-intensive components (that is conditional-structure-based algorithms). Anything else—anything “embarrassingly parallel” or computationally expensive—is to be processed by GPU.</p>
 
 <p>For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to port any existing optimized CUDA code and translate it to DPC++. The Compatibility Tool is sophisticated enough that it reliably determines apposite syntax in translating abstractions from CUDA to SYCL, greatly reducing the developers’ burden. Subsequent to translation, the developers finetune the DPC++ code to remove any redundancies, inelegancies, or performance issues introduced by automation.</p>
+
+<!-- 
+
+MEDIA, IMAGE
+please use hero-page include for hero images
+
+-------------------------------------------------------------------------------
+
+available parameters:
+* source
+- caption
+- credit
+
+* required
+
+-------------------------------------------------------------------------------
+
+-->
+
+<div class="media-img">
+	<div class="img-wrapper">
+		<div><img src="http://localhost:4000/assets/images/Chart_NWChemEx.png" /></div>
+	</div>
+
+	
+		<small class="caption">
+			Placeholder caption.
+			
+				<span class="credit">Image: -</span>
+			
+		</small>
+	
+</div>
 
 <h1 id="performance-results">Performance Results</h1>
 
