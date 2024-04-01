@@ -7,7 +7,7 @@ permalink: features/aurora-and-aps
 title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg
 hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
-intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing methods and tools to accelerate data-intensive science via an integrated research infrastructure."
+intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing tools and capabilities to accelerate data-intensive science via an integrated research infrastructure."
 ---
 
 
@@ -79,7 +79,7 @@ In the case of user accounts, the existing process can get unwieldy for experime
 
 To address the job scheduling issue, the Argonne team has set aside a portion of Polaris nodes to run with “on-demand” and “preemptable” queues. This approach allows time-sensitive jobs to run on the dedicated nodes immediately. 
 
-Using data collected during an APS experiment, the team was able to complete their first fully automated end-to-end test of the service accounts and preemptible queues on Polaris with no humans in the loop. While work continues to enable these capabilities at more and more beamlines, this effort points to a future where the integration of the upgraded APS and the ALCF's Aurora exascale supercomputer will transform science at Argonne and beyond.
+Using data collected during an APS experiment, the team was able to complete their first fully automated end-to-end test of the service accounts and preemptable queues on Polaris with no humans in the loop. While work continues to enable these capabilities at more and more beamlines, this effort points to a future where the integration of the upgraded APS and the ALCF's Aurora exascale supercomputer will transform science at Argonne and beyond.
 
 # Bringing It All Together
 
