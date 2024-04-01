@@ -261,7 +261,7 @@ p.intro {
 .theme--cyan {
   background: color(blue, XXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(green, XX);
   }
   // .sidenav {
@@ -272,7 +272,7 @@ p.intro {
 .theme--dark {
   background: color(neutral, XXXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption  {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(green, XX);
   }
   // .sidenav {
@@ -287,7 +287,7 @@ p.intro {
 .theme--warm {
   background: color(warm, XXXXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(warm, XX);
   }
   // .sidenav {
@@ -298,7 +298,7 @@ p.intro {
 .theme--green {
   background: color(green, XXX);
   color: color(neutral, X);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(blue, XX);
   }
   // .sidenav {
@@ -309,7 +309,7 @@ p.intro {
 .theme--sky {
   background: color(blue, XX);
   color: color(blue, XXXXX);
-  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption {
+  h1, h2, h3, h4, h5, h6, .intro, .media-hero-img .caption, .media-img .caption, .media-embed2x .caption, .media-embed .caption {
     color: color(blue, XXXXX);
   }
   // .sidenav {
