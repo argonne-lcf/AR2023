@@ -5,14 +5,12 @@ theme: dark
 permalink: 'features/aurora/genai'
 
 title: 'One Trillion Parameter LLM: AuroraGenAI'
-pi: 'Venkat Vishwanath, Argonne National Laboratory'
+pi: 'Rick Stevens, Argonne National Laboratory'
 award: '-'
 systems: '-'
 sdl: 'l'
 
-image: '-' 
-image-caption: '-'
-image-credit: '-'
+image: 'genai.png' 
 
 ---
 
