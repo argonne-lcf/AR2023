@@ -20,7 +20,7 @@ Built in partnership with Hewlett Packard Enterprise (HPE), [Aurora](https://www
 
 <br>
 
-{% include media-video.html embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=02Bsm94uZaZQgSrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>' caption= "The quick brown fox jumps over the lazy dog." credit= "Name A. Name" %}
+{% include media-video.html embed-code= '<iframe src="https://www.youtube.com/embed/VW0hCq4G3uM?si=02Bsm94uZaZQgSrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>' caption= "The quick brown fox jumps over the lazy dog." credit= "Name A. Name" %}
 
 As is the case with all DOE leadership supercomputers, Aurora is a first-of-its-kind system equipped with leading-edge technologies that are being deployed at an unprecedented scale. This presents unique challenges in launching leadership-class systems as various hardware and software issues only emerge when approaching full-scale operations. The Aurora team, which includes staff from Argonne, Intel and HPE, continues work to stabilize the supercomputer, which includes efforts such as optimizing the flow of data between network endpoints.
 
