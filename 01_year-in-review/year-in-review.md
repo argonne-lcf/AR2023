@@ -10,8 +10,8 @@ permalink: year-in-review/year-in-review
 
 
 {% include media-img.html
-   source= "allcock-kumaran.png"
-   caption= "Left: Bill Allcock, right: Kalyan Kumaran"
+   source= "Allcock_1600x900.jpg"
+   caption= "Bill Allcock"
 %}
 
 # Bill Allcock, ALCF Director of Operations
@@ -30,7 +30,10 @@ Last, but certainly not least, the Operations team has been decisively engaged i
 We continue to collaborate with Altair Engineering and the OpenPBS community. We found some scale-related bugs that were making administration on Aurora slow and difficult. We worked closely with Altair and they provided patch updates very quickly and integrated those fixes into the production releases. We continued our work on porting PBS to the AI Testbed systems, but their unique hardware architectures and constraints have been challenging. However, later in the year, we were forced to table the AI system work and focus on Aurora.
 
 
-
+{% include media-img.html
+   source= "Kumaran_1600x900.jpg"
+   caption= "Kalyan Kumaran"
+%}
 
 # Kalyan Kumaran, ALCF Director of Technology
 
@@ -44,8 +47,8 @@ In the AI for science realm, we enhanced the capabilities of the ALCF AI Testbed
 Finally, our ongoing efforts to develop IRI tools and capabilities got a boost with Polaris and the launch of Argonne’s Nexus — a coordinated effort that builds off our long history of research to integrate ALCF computing resources with experiments. We currently have workflows from the Advanced Photon Source and the DIII-D National Fusion Facility running on Polaris, as well as workflows prototyped for DOE’s Earth System Grid Federation and for Fermilab's flagship Short Baseline Neutrino Program. Our team also delivered talks to share our IRI research at the Monterey Data Conference, the Smoky Mountains Computational Sciences and Engineering Conference, Confab23, and the DOE booth at SC23. With momentum building for continued advances in our IRI activities, the Aurora deployment, and AI for science, we have a lot to look forward to in 2024. 
 
 {% include media-img.html
-   source= "ramprakash-riley.png"
-   caption= "Left: Jini Ramprakash, right: Katherine Riley"
+   source= "Ramprakash_1600x900.jpg"
+   caption= "Jini Ramprakash"
 %}
 
 # Jini Ramprakash, ALCF Deputy Director
@@ -58,6 +61,10 @@ We also made progress toward an Argonne Enterprise Registration System, a new la
 
 As a final note on 2023, we kicked off the ALCF-4 project to plan for our next-generation supercomputer, with DOE approving the CD-0 (Critical Decision-0) mission need for the project in April. We also established the leadership team (with myself as the project director and Kevin Harms as technical director) and began conversations with vendors to discuss their technology roadmaps. We look forward to ramping up the ALCF-4 project in 2024.
 
+{% include media-img.html
+   source= "Riley_1600x900.jpg"
+   caption= "Katherine Riley"
+%}
 
 # Katherine Riley, ALCF Director of Science
 
