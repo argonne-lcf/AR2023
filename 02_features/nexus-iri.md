@@ -6,8 +6,8 @@ permalink: features/nexus-iri
 
 title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg
-hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader integrated research infrastructure."
-intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing tools and capabilities to accelerate data-intensive science via an integrated research infrastructure."
+hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader Integrated Research Infrastructure."
+intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing tools and capabilities to accelerate data-intensive science via an Integrated Research Infrastructure."
 ---
 
 
@@ -15,15 +15,15 @@ When the massive upgrade at Argonne’s Advanced Photon Source (APS) is complete
 
 The growing deluge of scientific data is not unique to light sources. Telescopes, particle accelerators, fusion research facilities, remote sensors, and other scientific instruments also produce large amounts of data. And as their capabilities improve over time, the data generation rates will only continue to grow. The scientific community’s ability to process, analyze, store, and share these massive datasets is critical to gaining insights that will spark new discoveries. 
 
-To help scientists manage the ever-increasing amount of scientific data, [Argonne’s Nexus effort](https://www.anl.gov/nexus-connect) is playing a key role in supporting DOE’s vision to build an integrated research infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
+To help scientists manage the ever-increasing amount of scientific data, [Argonne’s Nexus effort](https://www.anl.gov/nexus-connect) is playing a key role in supporting DOE’s vision to build an Integrated Research Infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
 
 {% include media-img.html
    source= "Nexus-Infographic.jpg"
-   caption= "Argonne's Nexus effort is working to advance data-intensive science via an integrated research infrastructure that connects experimental facilities, supercomputing resources and data technologies."
+   caption= "Argonne's Nexus effort is working to advance data-intensive science via an Integrated Research Infrastructure that connects experimental facilities, supercomputing resources and data technologies."
    credit= "Argonne National Laboratory"
 %}
 
-For over 30 years, Argonne has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS](https://www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility](https://www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)](https://www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
+For over three decades, Argonne has been working to develop tools and methods to integrate its powerful computing resources with experiments. The ALCF’s IRI efforts include a number of successful collaborations that demonstrate the efficacy of combining its supercomputers with experiments for near real-time data analysis. [Merging ALCF supercomputers with the APS](https://www.alcf.anl.gov/news/bright-lights-big-data-how-argonne-bringing-supercomputing-and-x-rays-together-scientific) has been a significant focus of the lab’s IRI-related research, but the work has also involved collaborations with facilities ranging from [DIII-D National Fusion Facility](https://www.alcf.anl.gov/news/close-computation-far-away-demand-analysis-fuels-frontier-science) in California to [CERN’s Large Hadron Collider (LHC)](https://www.alcf.anl.gov/news/argonne-team-brings-leadership-computing-cern-s-large-hadron-collider) in Switzerland.
 
 These collaborations have led to the creation of new capabilities for on-demand computing and managing complex workflows, giving the lab valuable experience to support the DOE IRI initiative. Argonne also operates several resources and services that are key to realizing the IRI vision.
 
@@ -71,7 +71,7 @@ To that end, Argonne has developed and demonstrated methods for overcoming both 
 
 {% include media-img.html
    source= "ALCF-Polaris.jpg"
-   caption= "The ALCF’s Polaris supercomputer is supporting research to advance the development of an integrated research infrastructure."
+   caption= "The ALCF’s Polaris supercomputer is supporting research to advance the development of an Integrated Research Infrastructure."
    credit= "Argonne National Laboratory"
 %}
 
