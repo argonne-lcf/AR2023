@@ -8,7 +8,6 @@ title: 'Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Co
 pi: 'Katrin Heitmann, Salman Habib, Argonne National Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
-sdl: 's'
 
 image: 'hacc.png' 
 

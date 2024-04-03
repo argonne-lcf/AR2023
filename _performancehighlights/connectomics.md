@@ -8,7 +8,6 @@ title: 'Brain Connectome Reconstruction at Scale: Connectomics Machine Learnin
 pi: 'Nicola Ferrier, Argonne National Laboraotory'
 award: 'Early Science Program'
 systems: '-'
-sdl: 'd,l'
 
 image: 'connectomics.png' 
 

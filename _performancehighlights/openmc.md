@@ -8,7 +8,6 @@ title: 'Monte Carlo Neutron and Photon Transport Simulations: OpenMC'
 pi: 'Steven Hamilton, Oak Ridge National Laboratory; Paul Romano, Jon Tramm, Argonne National Laboratory'
 award: 'Exascale Computing Project'
 systems: '-'
-sdl: 's'
 
 image: 'openmc.PNG' 
 

@@ -8,7 +8,6 @@ title: 'High-Energy Particle Physics at Scale: CosmicTagger'
 pi: 'Corey Adams, Argonne National Laboratory'
 award: '-'
 systems: '-'
-sdl: 'l'
 
 image: 'cosmictagger.png' 
 

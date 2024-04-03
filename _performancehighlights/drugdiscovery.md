@@ -8,7 +8,6 @@ title: 'Accelerating Drug Design and Discovery'
 pi: 'Archit Vasan, Argonne National Laboratory'
 award: 'Early Science Program'
 systems: '-'
-sdl: 'l'
 
 image: 'drugdiscovery.png' 
 

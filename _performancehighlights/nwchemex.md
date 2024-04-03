@@ -8,7 +8,6 @@ title: 'High-Performance Computational Chemistry: NWChemEx'
 pi: 'Theresa Windus, Ames National Laboratory and Iowa State University'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
-sdl: 's'
 
 image: 'nwchemex.jpg' 
 

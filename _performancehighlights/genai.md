@@ -8,7 +8,6 @@ title: 'One Trillion Parameter LLM: AuroraGenAI'
 pi: 'Rick Stevens, Argonne National Laboratory'
 award: '-'
 systems: '-'
-sdl: 'l'
 
 image: 'genai.png' 
 

@@ -8,7 +8,6 @@ title: 'Unlocking the Secrets of Molecular Science: GAMESS'
 pi: 'Mark Gordon, Iowa State University'
 award: 'Exascale Computing Project'
 systems: '-'
-sdl: 's'
 
 image: 'gamess.png' 
 
