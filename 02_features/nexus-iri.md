@@ -2,7 +2,7 @@
 layout: page
 
 theme: dark
-permalink: features/aurora-and-aps
+permalink: features/nexus-iri
 
 title: Bringing Supercomputers and Experiments Together
 hero-img-source: Aurora+APS.jpg

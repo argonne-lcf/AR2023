@@ -20,7 +20,7 @@ toc:
       - page: Aurora Performance Highlights
         url: features/performancehighlights
       - page: Bringing Supercomputers and Experiments Together
-        url: features/aurora-and-aps
+        url: features/nexus-iri
       - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
         url: features/alcf-ai-testbed
       - page: ALCF Retires Theta Supercomputer
