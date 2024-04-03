@@ -6,7 +6,7 @@ permalink: expertise-and-resources/staff-news
 
 title: Staff News
 hero-img-source: "Balin-award.jpg"
-hero-img-caption: "ALCF's Riccardo Balin (left) received a Postdoctoral Performance Award from Argonne Director Paul Kearns."
+hero-img-caption: "ALCF's Riccardo Balin (left) received a Postdoctoral Performance Award from Argonne Director Paul Kearns at the lab's Postdoctoral Research and Career Symposium in November."
 ---
 
 
@@ -16,7 +16,7 @@ ALCF researchers authored a study that was recognized as the [Most Outstanding P
 
 {% include media-img.html
    source= "Papka-BOG.jpg"
-   caption= "ALCF Director Michael Papka receives the Distinguished Performance Award at the Argonne Board of Governors Awards ceremony on September 19, 2023."
+   caption= "ALCF Director Michael Papka receives the Distinguished Performance Award at the Argonne Board of Governors Awards ceremony in September."
 %}
 
 # Papka Receives Distinguished Performance Award
