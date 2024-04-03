@@ -19,7 +19,11 @@ intro: "The ALCF is providing supercomputing and AI resources and capabilities t
 <div class="teaser">
   <a href="{{ site.url }}/{{ entry.url }}">
   	<div class="image-wrapper">
-  		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+  		{% if feature[0].teaser-img-source %}
+      <div><img src="{{ site.url }}/assets/images/{{ feature[0].teaser-img-source }}"></div>
+      {% elsif feature[0].hero-img-source %}
+      <div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+      {% endif %}
   		<div class="hover-scrim"></div>
   	</div>
   	<div class="content-wrapper">

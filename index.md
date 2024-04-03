@@ -54,7 +54,11 @@ title: Argonne Leadership Computing Facility
 			  <div class="teaser">
 			    <a href="{{ site.url }}/{{ entry.url }}">
 			    	<div class="image-wrapper">
+			    		{% if feature[0].teaser-img-source %}
+			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].teaser-img-source }}"></div>
+			    		{% elsif feature[0].hero-img-source %}
 			    		<div><img src="{{ site.url }}/assets/images/{{ feature[0].hero-img-source }}"></div>
+			    		{% endif %}
 			    		<div class="hover-scrim"></div>
 			    	</div>
 			    	<div class="content-wrapper">
