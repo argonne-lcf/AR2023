@@ -9,7 +9,7 @@ pi: 'Rick Stevens, Argonne National Laboratory'
 award: '-'
 systems: '-'
 
-image: 'genai.png' 
+image: 'Stevens-LLM.png' 
 
 ---
 
