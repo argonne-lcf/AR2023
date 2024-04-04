@@ -1,6 +1,6 @@
 ---
 layout: page
-theme: cyan
+theme: dark
 permalink: features/theta
 
 title: ALCF Retires Theta Supercomputer

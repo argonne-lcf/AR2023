@@ -1,7 +1,7 @@
 ---
 layout: page
 
-theme: cyan
+theme: dark
 permalink: features
 
 title: Features

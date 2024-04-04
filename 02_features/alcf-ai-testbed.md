@@ -1,7 +1,7 @@
 ---
 layout: page
 
-theme: green
+theme: dark
 permalink: features/alcf-ai-testbed
 
 title: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science
