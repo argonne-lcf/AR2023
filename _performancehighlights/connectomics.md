@@ -9,7 +9,7 @@ pi: 'Nicola Ferrier, Argonne National Laboraotory'
 award: 'Early Science Program'
 systems: '-'
 
-image: 'connectomics.png' 
+image: 'Ferrier-connectomics.png' 
 
 
 ---
