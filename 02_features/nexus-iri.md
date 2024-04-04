@@ -5,7 +5,7 @@ theme: dark
 permalink: features/nexus-iri
 
 title: Bringing Supercomputers and Experiments Together
-hero-img-source: Aurora+APS.jpg
+hero-img-source: polaris+aps_1600x900.jpg
 hero-img-caption: "The co-location of the ALCF and APS at Argonne provides an ideal environment for developing and demonstrating capabilities for a broader Integrated Research Infrastructure."
 intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long history of developing tools and capabilities to accelerate data-intensive science via an Integrated Research Infrastructure."
 ---
