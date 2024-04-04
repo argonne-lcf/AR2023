@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/hacc'
+permalink: 'features/aurora-performance-highlights/hacc'
 
 title: 'Learning from the Sky Ising the Hardware/Hybrid Accelerated Cosmology Code: CRK- HACC'
 pi: 'Katrin Heitmann, Salman Habib, Argonne National Laboratory'

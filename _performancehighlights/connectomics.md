@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/connectomics'
+permalink: 'features/aurora-performance-highlights/connectomics'
 
 title: 'Brain Connectome Reconstruction at Scale: Connectomics Machine Learning with Flood-Filling Networks'
 pi: 'Nicola Ferrier, Argonne National Laboraotory'

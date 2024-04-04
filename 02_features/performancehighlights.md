@@ -6,7 +6,7 @@ intro: "Now that Aurora is fully assembled, ECP and ESP team members are beginni
 teaser-img-source: openmc.PNG
 
 theme: dark
-permalink: features/performancehighlights
+permalink: features/aurora-performance-highlights
 ---
 
 <!-- <ul>

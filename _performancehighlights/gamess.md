@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/gamess'
+permalink: 'features/aurora-performance-highlights/gamess'
 
 title: 'Unlocking the Secrets of Molecular Science: GAMESS'
 pi: 'Mark Gordon, Iowa State University'

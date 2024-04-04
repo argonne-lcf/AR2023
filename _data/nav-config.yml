@@ -18,7 +18,7 @@ toc:
       - page: Bringing Aurora Online
         url: features/aurora
       - page: Aurora Performance Highlights
-        url: features/performancehighlights
+        url: features/aurora-performance-highlights
       - page: Bringing Supercomputers and Experiments Together
         url: features/nexus-iri
       - page: ALCF Continues to Expand AI Testbed Systems Deployed for Open Science

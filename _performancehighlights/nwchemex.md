@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/nwchemex'
+permalink: 'features/aurora-performance-highlights/nwchemex'
 
 title: 'High-Performance Computational Chemistry: NWChemEx'
 pi: 'Theresa Windus, Ames National Laboratory and Iowa State University'

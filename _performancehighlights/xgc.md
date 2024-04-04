@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/xgc'
+permalink: 'features/aurora-performance-highlights/xgc'
 
 title: 'Multiphysics Magnetic Fusion Reactor Simulations: XGC'
 pi: 'Choongseok Chang, Princeton Plasma Physics Laboratory'

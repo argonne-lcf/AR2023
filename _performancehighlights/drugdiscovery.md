@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/drugdiscovery'
+permalink: 'features/aurora-performance-highlights/drugdiscovery'
 
 title: 'Accelerating Drug Design and Discovery'
 pi: 'Archit Vasan, Argonne National Laboratory'

@@ -2,7 +2,7 @@
 layout: highlight
 
 theme: dark
-permalink: 'features/aurora/openmc'
+permalink: 'features/aurora-performance-highlights/openmc'
 
 title: 'Monte Carlo Neutron and Photon Transport Simulations: OpenMC'
 pi: 'Steven Hamilton, Oak Ridge National Laboratory; Paul Romano, Jon Tramm, Argonne National Laboratory'
