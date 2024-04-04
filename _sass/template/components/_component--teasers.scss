@@ -141,4 +141,19 @@
   }
 }
 
+.theme--dark {
+  .teasers {
+
+  	h3 {
+  		color: color(blue, XX);
+  	}
+  	
+  	.teaser {
+  		background-color: color(green, XXXXX);
+  		color: color(blue, XX);
+  	}
+
+  }
+}
+
 
