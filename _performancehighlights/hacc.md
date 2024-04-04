@@ -9,7 +9,7 @@ pi: 'Katrin Heitmann, Salman Habib, Argonne National Laboratory'
 award: 'Aurora Early Science Program and Exascale Computing Project'
 systems: '-'
 
-image: 'hacc.png' 
+image: 'Habib-HACC.png' 
 
 ---
 
