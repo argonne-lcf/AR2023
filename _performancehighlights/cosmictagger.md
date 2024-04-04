@@ -9,7 +9,7 @@ pi: 'Corey Adams, Argonne National Laboratory'
 award: '-'
 systems: '-'
 
-image: 'cosmictagger.png' 
+image: 'Adams-cosmictagger.png' 
 
 
 ---
