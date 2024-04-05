@@ -94,6 +94,7 @@ ASCR recently launched the IRI Blueprint Activity to create a framework for impl
 
 {% include media-download.html
    thumbsource= "IRI-blueprint-report.png"
+   filesource= "https://www.osti.gov/biblio/1984466"
    title= "IRI Architecture Blueprint Activity Report"
    credit= "Department of Energy"
    filetype= "PDF"

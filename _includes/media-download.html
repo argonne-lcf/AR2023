@@ -31,16 +31,18 @@ available parameters:
 			<div><img src="{{ site.url }}/assets/images/docthumb"></div>
 			{% endif %}
 		</div>
-		<h3 class='download--title'>{{ include.title }}</h3>
-		{% if include.credit %}
-		<small class='download--credit'>{{ include.credit }}</small>
-		{% endif %}
-		{% if include.filetype %}
-		<small class='download--filetype'>{{ include.filetype }}</small>
-		{% endif %}
-		{% if include.filesize %}
-		<small class='download--filesize'>{{ include.filesize }}</small>
-		{% endif %}
+		<div class='download--text'>
+			<h3 class='download--title'>{{ include.title }}</h3>
+			{% if include.credit %}
+			<small class='download--credit'>{{ include.credit }}</small>
+			{% endif %}
+			{% if include.filetype %}
+			<small class='download--filetype'>{{ include.filetype }}</small>
+			{% endif %}
+			{% if include.filesize %}
+			<small class='download--filesize'>{{ include.filesize }}</small>
+			{% endif %}
+		</div>
 	</div>
 	</a>
 </div>
