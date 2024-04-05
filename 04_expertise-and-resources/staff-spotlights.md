@@ -60,7 +60,7 @@ In 2023, Sean deployed the scientific software stacks on Aurora and Aurora's tes
    caption= "Left: Marieme Ngom, right: Filippo Simini"
 %}
 
-# Marieme Ngom, Assistant Computational Scientist
+# Marieme Ngom, Assistant Computer Scientist
 
 Marieme Ngom joined ALCF in May 2023 as an Assistant Computer Scientist in the data science team. Since joining ALCF,  Marieme's research has been focused on implementing and testing scalable Gaussian Processes (GP) models for different applications including materials sciences on ALCF's machines. In addition, Marieme has been working on assessing and enforcing the diversity, stability, and robustness of Argonne's based ML models. 
 
