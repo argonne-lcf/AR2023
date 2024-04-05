@@ -29,10 +29,6 @@
 		text-decoration: none;
 	}
 
-	a:hover {
-		text-decoration: underline;
-	}
-
 	.download--content {
 		padding: 12px 0 0;
 		border-top: 1px solid color(neutral, XXX);
@@ -73,6 +69,15 @@
 		padding-right: 8px;
 		display: inline-block;
 		@include stack(xxs);
+	}
+
+	a:hover .download--title,
+	a:hover .download--credit {
+		text-decoration: underline;
+	}
+
+	a:hover .download--thumb {
+		opacity: .5;
 	}
 
 
