@@ -35,7 +35,8 @@ SST showed comparable accuracy to state-of-the-art surrogate models, with r-squa
 
 {% include media-img.html
    source= "Chart_DrugScreening.png"
-   caption= "Screening ~40-60B of the most synthesizable compounds made possible using the system capabilities and software stack on Aurora."<br> <sub>"*Simplified Molecular Input Line Entry System (SMILES) - Representation for Molecules."</sub>
+   caption= "Screening ~40-60B of the most synthesizable compounds made possible using the system capabilities and software stack on Aurora."    
+   credit= "* Simplified Molecular Input Line Entry System (SMILES) - Representation for Molecules."
 %}
 
 # Impact

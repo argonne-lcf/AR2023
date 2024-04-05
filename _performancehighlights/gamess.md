@@ -28,9 +28,7 @@ To take full advantage of exascale architectures, it is critical that applicatio
 In 2023, the GAMESS team leveraged the Aurora system to perform simulations of silica nanoparticles surrounded by thousands of water molecules, scaling on up to 512 nodes of the system. Results have demonstrated performance some 2.5 times greater than was achieved using other tested architectures.
 
 {% include media-img.html
-   source= "Chart_GAMESS.png"
-   caption= "PVC performance about 2.5x that of a single A100 GPU."
-   credit= "-"
+   source= "Chart_GAMESS_.png"
 %}
 
 # Impact
