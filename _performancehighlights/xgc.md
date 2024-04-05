@@ -30,9 +30,7 @@ To prepare for the next generation of high-performance computing, the code is be
 Optimization for exascale has required both GPU offloading and algorithmic flexibility. XGC uses the Kokkos programming model as its portability layer, with different backends. Researchers evaluated system performance with a gyrokinetic particle-in-cell simulation of tokamak plasma using C++ to predict ITER fusion reactor plasma behavior with Tungsten impurity ions sputtered from the divertor. Performance on the Aurora testbed, Sunspot, yielded scaling performance comparable to that of other GPU-based systems, while single-GPU performance was as much as 46 percent greater than was achieved with other systems.
 
 {% include media-img.html
-   source= "Chart_XGC.png"
-   caption= "Placeholder caption."
-   credit= "-"
+   source= "Chart_XGC_.png"
 %}
 
 # Impact
