@@ -6,7 +6,6 @@ permalink: 'features/aurora-performance-highlights/genai'
 
 title: 'One Trillion Parameter LLM: AuroraGenAI'
 pi: 'Rick Stevens, Argonne National Laboratory'
-systems: '-'
 
 image: 'Stevens-LLM.png' 
 
