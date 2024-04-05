@@ -25,7 +25,7 @@ In addition, Kyle joined the INCITE Computational Readiness committee in 2023. I
 
 # Paige Kinsley, ALCF Education Outreach Lead
 
-Paige Kinsley is the ALCF Education Outreach Lead, working with staff to develop and lead the facility's training and education activities. In this role, she is also the central point for all education, outreach, and training activities for the ALCF. Paige is committed to engaging underserved populations in STEM and increasing access to resources and knowledge about the power of science and high-performance computing to change the world.
+As the ALCF education outreach lead, Paige Kinsley works with staff to develop and lead the facility's training and education activities. In this role, she is also the central point for all education, outreach, and training activities for the ALCF. Paige is committed to engaging underserved populations in STEM and increasing access to resources and knowledge about the power of science and high-performance computing to change the world.
  
 In 2023, she co-led a team of 20 organizers and trainers from national labs, academia, and a non-profit to run the first pilot of the Introduction to HPC Bootcamp. As a team, they developed engaging and inclusive materials for a diverse set of students. Based on student feedback, the bootcamp increased their interest in HPC and national lab careers, and a number of them have applied for DOE internship programs.
  
@@ -50,7 +50,7 @@ Janet enjoys running marathons and ultramarathons, skiing, playing electric guit
 
 # Sean Koyama, HPC Systems Administration Specialist
 
-Sean Koyama joined the ALCF in 2022 as an HPC Systems Administration Specialist. He is responsible for integrating scientific software stacks into the computing environments on ALCF supercomputers. His daily duties include the installation, testing, and support of crucial applications for scientific research. A significant focus of his work is leveraging the Spack HPC package manager to create automated frameworks for building site-customized programming environments.
+Sean Koyama joined the ALCF in 2022 as an HPC systems administration specialist. He is responsible for integrating scientific software stacks into the computing environments on ALCF supercomputers. His daily duties include the installation, testing, and support of crucial applications for scientific research. A significant focus of his work is leveraging the Spack HPC package manager to create automated frameworks for building site-customized programming environments.
 
 In 2023, Sean deployed the scientific software stacks on Aurora and Aurora's test and development system, Sunspot. He prioritized the installation of critical scientific applications on each supercomputer, enabling early science users to begin collecting data and optimizing applications. He also began a collaborative effort to build up an integrated programming environment on Aurora which is owned and configured by the ALCF. This approach is designed to be portable to other supercomputers such as Polaris, and its implementation would lead to a more uniform experience for users and more readily maintainable software environments.
 
@@ -62,7 +62,7 @@ In 2023, Sean deployed the scientific software stacks on Aurora and Aurora's tes
 
 # Marieme Ngom, Assistant Computer Scientist
 
-Marieme Ngom joined ALCF in May 2023 as an Assistant Computer Scientist in the data science team. Since joining ALCF,  Marieme's research has been focused on implementing and testing scalable Gaussian Processes (GP) models for different applications including materials sciences on ALCF's machines. In addition, Marieme has been working on assessing and enforcing the diversity, stability, and robustness of Argonne's based ML models. 
+Marieme Ngom joined ALCF in May 2023 as an assistant computer scientist in the data science team. Since joining ALCF,  Marieme's research has been focused on implementing and testing scalable Gaussian Processes (GP) models for different applications including materials sciences on ALCF's machines. In addition, Marieme has been working on assessing and enforcing the diversity, stability, and robustness of Argonne's based ML models. 
 
 In parallel, Marieme helped organize the ALCF Hands-on HPC workshop and gave a tutorial on deep learning at the 2023 Argonne Training Program on Extreme-Scale Computing. Marieme also co-leads the CELS Technical Women group and has co-organized different meetups and activities geared towards CELS technical women
 
