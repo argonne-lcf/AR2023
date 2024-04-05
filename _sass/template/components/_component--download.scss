@@ -6,4 +6,62 @@
   */
 
 .media-download {
+	@include stack(sm);
+	@include grid-child($cols: 12);
+	@include respond-to(m){
+		@include grid-child($cols: 8);
+		grid-column-start: 4;
+	}
+
+	h2 {
+		grid-column: 1 / -1;
+	}
+
+	.download--content {
+		@include grid-child($cols: 12);
+		@include respond-to(m){
+			@include grid-child($cols: 8);
+		}
+		border-top: 1px solid color(neutral, XXX);;
+		border-bottom: 1px solid color(neutral, XXX);;
+	}
+
+	.download--thumb {
+		grid-column: 1 / 5;
+		@include respond-to(m){
+			grid-column: 1 / -1;
+		}
+		@include aspect-ratio(16, 9);
+		@include stack(xs);
+		border: 1px solid color(neutral, XXX);
+	}
+
+	.download--thumb img {
+		object-fit: contain;
+	}
+
+	.download--title {
+		grid-column: 5 / -1;
+		@include respond-to(m){
+			grid-column: 1 / -1;
+		}
+	}
+
+	.download--credit {
+		grid-column: 5 / -1;
+		@include respond-to(m){
+			grid-column: 1 / -1;
+		}
+	}
+
+	.download--filetype, 
+	.download--filesize {
+		grid-column: span 6;
+		@include respond-to(m){
+			grid-column: span 4;
+		}
+	}
+
+
+
 }
