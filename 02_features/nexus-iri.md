@@ -39,7 +39,7 @@ The IRI will not only enable experiments to analyze vast amounts of data, but it
 
 {% include media-img.html
    source= "SC23-Nexus-talk.jpg"
-   caption= "Rachana Ananthakrishnan of Globus (left) and Tom Uram of Argonne (right) give a talk on Nexus at the DOE booth at the SC23 Conference."
+   caption= "Rachana Ananthakrishnan, Globus executive director (left), and Tom Uram, ALCF IRI lead (right), give a talk on Nexus at the DOE booth at the SC23 Conference."
    credit= "Argonne National Laboratory"
 %}
 
