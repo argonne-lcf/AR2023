@@ -92,4 +92,12 @@ While Argonne and its fellow national labs have been working on projects to demo
 
 ASCR recently launched the IRI Blueprint Activity to create a framework for implementing the IRI. In 2023, the blueprint team, which included Ramprakash and Schwarz, released the [IRI Archictecture Blueprint Activity Report](https://www.osti.gov/biblio/1984466), which describes a path forward from the lab’s individual partnerships and demonstrations to a broader long-term strategy that will work across the DOE ecosystem. Over the past year, the blueprint activities have started to formalize with the introduction of IRI testbed resources and environments. Now in place at each of the DOE computing facilities, the testbeds facilitate research to explore and refine IRI ideas in collaboration with teams from DOE experimental facilities.
 
+{% include media-download.html
+   thumbsource= "IRI-blueprint-report.png"
+   title= "IRI Architecture Blueprint Activity Report"
+   credit= "Department of Energy"
+   filetype= "PDF"
+   filesize= "1.2kb"
+%}
+
 With the launch of Argonne’s Nexus effort, the lab will continue to leverage its expertise and resources to help DOE and the larger scientific community enable and scale this new paradigm across a diverse range of research areas, scientific instruments, and user facilities. 
