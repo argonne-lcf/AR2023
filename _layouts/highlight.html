@@ -27,13 +27,19 @@
 
 	<h1 class="page-title">{{ page.title }}</h1>
 
+	{% if page.award%}
 	{% 	include txt-meta.html 
 		  name-1 = "PI"
 			value-1 = page.pi
 			name-2 = "AWARD"
 			value-2 = page.award
 	%}
-
+	{% else %}
+	{% 	include txt-meta.html 
+		  name-1 = "PI"
+			value-1 = page.pi
+	%}
+	{% endif %}
 
 	{% 	include media-img.html 
 		  source = page.image
