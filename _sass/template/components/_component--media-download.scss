@@ -23,11 +23,18 @@
 		@include respond-to(m){
 			@include grid-child($cols: 8);
 		}	
+	}
+
+	a {
 		text-decoration: none;
 	}
 
+	a:hover {
+		text-decoration: underline;
+	}
+
 	.download--content {
-		padding: 12px 0;
+		padding: 12px 0 0;
 		border-top: 1px solid color(neutral, XXX);
 		border-bottom: 1px solid color(neutral, XXX);
 	}
@@ -54,16 +61,18 @@
 	}
 
 	.download--title {
-
 	}
 
 	.download--credit {
-
+		display: block;
+		@include stack(xxs);
 	}
 
 	.download--filetype, 
 	.download--filesize {
-
+		padding-right: 8px;
+		display: inline-block;
+		@include stack(xxs);
 	}
 
 
