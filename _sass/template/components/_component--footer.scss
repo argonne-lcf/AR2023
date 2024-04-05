@@ -87,16 +87,23 @@ footer {
 	}
 
 
-
 	.doe-info {
 		grid-column: 1 / -1;
 		grid-row: 2;
 	}
 
-	.doe-info img {
+	.doe-info img.doe {
 		width: 168px;
 		opacity: .5;
 		margin-right: bl(4); //16px
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.doe-info img.llc {
+		width: 140px;
+		opacity: .5;
+		margin-right: bl(8); //32px
 		display: inline-block;
 		vertical-align: middle;
 	}
