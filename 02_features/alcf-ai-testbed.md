@@ -18,13 +18,13 @@ The testbed’s newest additions give the ALCF user community access to new lead
 
 -The new <b>Graphcore Bow Pod64</b> is well-suited for both common and specialized machine learning applications, which will help to facilitate the use of new AI techniques and model types. The Graphcore Bow Pod64 relies on Intelligence Processing Units (IPUs). IPUs are designed to handle the computational demands of AI-driven tasks. These specialized accelerators are equipped with highly efficient memory architectures that include high-bandwidth memory and on-chip memory, and can more easily support specialized software frameworks and libraries necessary for AI workloads.
 
--The new <b>GroqRack</b> system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data. Based on the Tensor Streaming Processor (TSP) architecture, the GroqChip processor included advanced vector and matrix mathematical acceleration units, and provides for predictable and repeatable performance
+-The new <b>GroqRack</b> system brings inference-based solutions that will aid in using trained machine learning models to make predictions or discover patterns in complex data. Based on the Tensor Streaming Processor (TSP) architecture, the GroqChip processor includes advanced vector and matrix mathematical acceleration units, and provides for predictable and repeatable performance.
 
 -The upgrade to a <b>Cerebras Wafer-Scale Cluster WSE-2</b> optimizes the ALCF’s existing Cerebras CS-2 system to include two CS-2 engines, enabling near-perfect linear scaling of large language models (LLMs). This capability helps make extreme-scale AI substantially more manageable.
 
 -The upgrade to a second-generation <b>SambaNova DataScale SN30 system</b> enables a wider range of AI-for-science applications, making massive AI models and datasets more tractable to users. In this system, each accelerator is allocated a terabyte of memory, which is ideal for applications involving LLMs as well as high-resolution imaging data from experimental facilities.
 
-Together, the ALCF AI Testbed systems provide advanced capabilities that will support Argonne’s efforts to develop an integrated research infrastructure that seamlessly connects advanced computing resources with data-intensive experiments, such as light sources and fusion experiments, to accelerate the pace of discovery.
+Together, the ALCF AI Testbed systems provide advanced data analysis capabilities that also support DOE's efforts to develop an Integrated Research Infrastructure that seamlessly connects advanced computing resources with data-intensive experiments, such as light sources and fusion experiments, to accelerate the pace of discovery.
 
 {% include media-video2x.html
    embed-code1= '<iframe src="https://www.youtube.com/embed/XZ4pNVmQTb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
@@ -36,7 +36,7 @@ Together, the ALCF AI Testbed systems provide advanced capabilities that will su
 Scientists are leveraging the ALCF AI Testbed systems for a wide range of data-driven research campaigns. The following summaries provide a glimpse of some of the efforts that are benefitting from the AI accelerators’ advanced capabilities.
 
 # Experimental Data Analysis
-Argonne researchers are leveraging multiple ALCF AI Testbed systems to accelerate and scale deep learning models to aid the analysis of X-ray data obtained at Argonne’s Advanced Photon Source (APS). The team is using the ALCF AI Testbed to train models—too large to run on a single GPU — to generate improved 3D images from x-ray data.
+Argonne researchers are leveraging multiple ALCF AI Testbed systems to accelerate and scale deep learning models to aid the analysis of X-ray data obtained at Argonne’s Advanced Photon Source (APS). The team is using the ALCF AI Testbed to train models — too large to run on a single GPU — to generate improved 3D images from x-ray data.
 
 They are also exploring the use of the ALCF’s AI platforms for fast-inference applications. Their work has yielded some promising initial results, with various models (PtychoNN, BraggNN, and AutoPhaseNN) showing speedups over traditional supercomputers. ALCF and vendor software teams are collaborating with the APS team to achieve further advances.
 
