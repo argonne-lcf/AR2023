@@ -15,7 +15,7 @@ When the massive upgrade at Argonne’s Advanced Photon Source (APS) is complete
 
 The growing deluge of scientific data is not unique to light sources. Telescopes, particle accelerators, fusion research facilities, remote sensors, and other scientific instruments also produce large amounts of data. And as their capabilities improve over time, the data generation rates will only continue to grow. The scientific community’s ability to process, analyze, store, and share these massive datasets is critical to gaining insights that will spark new discoveries. 
 
-To help scientists manage the ever-increasing amount of scientific data, [Argonne’s Nexus effort](https://www.anl.gov/nexus-connect) is playing a key role in supporting DOE’s vision to build an Integrated Research Infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI) and data resources.
+To help scientists manage the ever-increasing amount of scientific data, [Argonne’s Nexus effort](https://www.anl.gov/nexus-connect) is playing a key role in supporting DOE’s vision to build an Integrated Research Infrastructure (IRI). The development of an IRI would accelerate data-intensive science by creating an environment that seamlessly melds large-scale research facilities with DOE’s world-class supercomputing, artificial intelligence (AI), and data resources.
 
 {% include media-img.html
    source= "Nexus-Infographic.jpg"
@@ -30,7 +30,7 @@ These collaborations have led to the creation of new capabilities for on-demand 
 -	The ALCF's [Polaris](https://www.alcf.anl.gov/polaris) and [Aurora](https://www.alcf.anl.gov/aurora) systems are powerful supercomputers with advanced capabilities for simulation, AI, and data analysis.
 -	The [ALCF AI Testbed](https://www.alcf.anl.gov/alcf-ai-testbed) provides researchers with access to novel AI accelerators for data-intensive tasks and AI workloads, including training, inference, large language models, and computer vision models. 
 -	The [ALCF Community Data Co-Op (ACDC)](https://www.acdc.alcf.anl.gov) provides large-scale data storage capabilities, offering a portal that makes it easy to share data with external collaborators across the globe. 
--	[Globus](https://www.globus.org), a research automation platform created by researchers at Argonne and the University of Chicago, is a not-for-profit service used to manage high-speed data transfers, computing workflows, data collection and other tasks for experiments.
+-	[Globus](https://www.globus.org), a research automation platform created by researchers at Argonne and the University of Chicago, is a not-for-profit service used to manage high-speed data transfers, computing workflows, data collection, and other tasks for experiments.
 
 
 # Streamlining Science
@@ -47,7 +47,7 @@ For the Argonne-DIII-D collaboration, researchers demonstrated how the close int
 
 To help DIII-D researchers obtain results on a between-pulse timescale, the ALCF team automated and shifted the analysis step to ALCF systems, which computed the analysis of every single pulse and returned the results to the research team in a fraction of the time required by the computing resources locally available at DIII-D. Not only did the DIII-D team get the results in time to calibrate the next shot, they also got 16x higher resolution analyses that helped improve the accuracy of their experimental configuration.
 
-Many APS experiments, including battery research, the exploration of materials failure and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
+Many APS experiments, including battery research, the exploration of materials failure, and drug development, also need data analyzed in near real-time so scientists can modify their experiments as they are running. By getting immediate analysis results, researchers can use the insights to steer an experiment and zoom in on a particular area to see critical processes, such as the molecular changes that occur during a battery’s charge and discharge cycles, as they are happening.
 
 <br>
 
@@ -57,7 +57,7 @@ Many APS experiments, including battery research, the exploration of materials f
    credit= "Argonne National Laboratory"
 %}
 
-A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
+A fully realized IRI would also impact the people conducting the research. Scientists must often devote considerable time and effort to managing data when running an experiment. This includes tasks like storing, transferring, validating, and sharing data before it can be used to gain new insights. The IRI seeks to automate many of these tedious data management tasks so researchers can focus more on the science. This would help streamline the scientific process by freeing up scientists to form hypotheses while experiments are being carried out.
 
 # Supercomputing on Demand 
 
@@ -83,7 +83,7 @@ Using data collected during an APS experiment, the team was able to complete the
 
 # Bringing It All Together
 
-While Argonne and its fellow national labs have been working on projects to demonstrate the promise of an integrated research paradigm for the past several years, DOE’s Advanced Scientific Computing Research (ASCR) program made it a more formal initiative in 2020 with the creation of the IRI Task Force. Comprised of members from several national labs, including Argonne’s Corey Adams, Jini Ramprakash, Nicholas Schwarz, and Tom Uram, the task force identified the opportunities, risks and challenges posed by such an integration.
+While Argonne and its fellow national labs have been working on projects to demonstrate the promise of an integrated research paradigm for the past several years, DOE’s Advanced Scientific Computing Research (ASCR) program made it a more formal initiative in 2020 with the creation of the IRI Task Force. Comprised of members from several national labs, including Argonne’s Corey Adams, Jini Ramprakash, Nicholas Schwarz, and Tom Uram, the task force identified the opportunities, risks, and challenges posed by such an integration.
 
 {% include media-img.html
    source= "IRI-blueprint-report.png"
