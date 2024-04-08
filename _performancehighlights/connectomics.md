@@ -32,7 +32,7 @@ An exascale pipeline requires scalable computational tools for analysis of EM da
 Connectomics has done training and inference at scale on Aurora.  One of the largest brain connectomics reconstructions was carried out ising 512 nodes of Aurora and showed more a more than twofold performance gain over what was achieved using the ALCF’s 44-petaplop Polaris system at similar scale.
 
 {% include media-img.html
-   source= "Chart_Connectome.png"
+   source= "Chart_Connectome_.png"
    caption= "Inference throughput teravoxels/hour , small (128) and large (256)"
    credit= "-"
 %}
