@@ -33,8 +33,6 @@ Connectomics has done training and inference at scale on Aurora.  One of the lar
 
 {% include media-img.html
    source= "Chart_Connectome_.png"
-   caption= "Inference throughput teravoxels/hour , small (128) and large (256)"
-   credit= "-"
 %}
 
 # Impact
