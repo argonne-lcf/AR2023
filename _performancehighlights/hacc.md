@@ -35,7 +35,7 @@ Versions of HACC being developed for exascale systems incorporate basic gas phys
 HACC simulations have been performed on Aurora in runs using as many as 1920 nodes. Visualizations of results generated on Aurora illustrate the large-scale structure of the universe. Single-GPU performance on Aurora exceeds that of compared systems: Figure-of-Merit assessments measuring particle-steps per second used 33 million particles per GPU and saw performance increases ranging from 15 to 50 percent.
 
 {% include media-img.html
-   source= "Chart_CRK-HACC_.png"
+   source= "Chart_CRK_HACC_.png"
 %}
 
 # Impact
