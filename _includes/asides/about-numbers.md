@@ -1,4 +1,4 @@
-# By the Numbers
+# 2023 by the Numbers
 
 
 
@@ -11,7 +11,7 @@
 	figure-2 = "417"
 	label-2 = "Active projects"
 	note-2 = "Data from fiscal year 2023"
-	figure-3 = "192"
+	figure-3 = "240"
 	label-3 = "Publications"	
 %}
 
