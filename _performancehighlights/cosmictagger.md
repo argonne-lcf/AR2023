@@ -30,8 +30,6 @@ Running on Sunspot, the Aurora testbed, CosmicTagger achieved node throughput of
 
 {% include media-img.html
    source= "Chart_CosmicTagger_.png"
-   caption= "Node throughput samples/second"
-   credit= "-"
 %}
 
 # Impact

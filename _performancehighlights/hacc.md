@@ -36,8 +36,6 @@ HACC simulations have been performed on Aurora in runs using as many as 1920 nod
 
 {% include media-img.html
    source= "Chart_CRK-HACC_.png"
-   caption= "Placeholder caption."
-   credit= "-"
 %}
 
 # Impact

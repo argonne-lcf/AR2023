@@ -33,8 +33,6 @@ For Intel hardware, the developers employ Intel’s DPC++ Compatibility Tool to 
 
 {% include media-img.html
    source= "Chart_NWChemEx_.png"
-   caption= "Placeholder caption."
-   credit= "-"
 %}
 
 
