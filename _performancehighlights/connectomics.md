@@ -25,7 +25,7 @@ image: 'Ferrier-connectomics.png'
 Connectomics stresses many boundaries: high-throughput electron microscopy technology
 operating at nanometer resolution; tens of thousands of images, each with tens of gigapixels;
 accuracy sufficient to capture minuscule synaptic detail; computer vision methods to align
-corresponding structures across large images; deep learning networks that can trace
+corresponding structures across large images; and deep learning networks that can trace
 narrow axons and dendrites over large distances. Multiple applications contribute to the 3D reconstruction of neurons; the most demanding of them perform image alignment and segmentation.
 
 Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects must be aligned between neighboring images in an image stack. Image misalignment can occur when tissue samples are cut into thin sections, or during imaging on the electron microscope. The Feabas application (developed by collaborators at Harvard) uses template matching and feature matching techniques for coarse and fine-grained alignment, using a network-of-springs approach to produce optimal linear and local non-linear image transformations, to align the 2D image content between sections.
