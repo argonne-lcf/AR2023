@@ -33,7 +33,7 @@ Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects 
 # Performance Results
 Deep learning models for connectomic reconstruction have been trained on Aurora on up to 512 nodes, demonstrating performance increases up to 40 percent.
 
-Reconstructions have been run with these models on up to 1024 nodes on Aurora, with multiple inference processes per PVC GPU, to produce a segmentation of a teravoxel of data. Projecting from these runs to the full machine, the researchers anticipate being able to segment a petavoxel dataset on Aurora imminently.
+Reconstructions have been run with these models on up to 1024 nodes on Aurora, with multiple inference processes per GPU, to produce a segmentation of a teravoxel of data. Projecting from these runs to the full machine, the researchers anticipate being able to segment a petavoxel dataset on Aurora imminently.
 
 {% include media-img.html
    source= "Chart_Connectome_.png"
@@ -43,4 +43,4 @@ Reconstructions have been run with these models on up to 1024 nodes on Aurora, w
 
 Connectomics today is leveraging innovations in imaging, supercomputing, and artificial intelligence to improve our understanding of how the brain's neurons are arranged and connected; this is becoming possible today due to exascale computing on Aurora. The techniques developed guarantee that computing will scale from cubic millimeters of brain tissue today, to a cubic centimeter whole mouse brain in the future, and to larger volumes of human brain tissue. As imaging technology advances, computing will need to achieve high performance on post-exascale machines to avoid becoming the bottleneck.
 
-The work done to prepare this project for exascale will also benefit other exascale system users: with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source (APS), a DOE Office of Science User Facility.
+The work done to prepare this project for exascale will also benefit other exascale system users: with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source, a DOE Office of Science User Facility.
