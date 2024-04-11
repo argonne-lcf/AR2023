@@ -15,21 +15,25 @@ image: 'Ferrier-connectomics.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "Using the most advanced imaging techniques available, researchers led by Argonne National Laboratory aim to create a full mapping of neural connections in brains, known as a connectome, to reveal fundamental principles of organization and facilitate advances in neuroscience and neural computation by processing massive electron microscopy data of brain tissue. Only computing power on the scale provided by Aurora will meet the near-term challenges of brain mapping."
+    blurb = "The structure of the human brain is enormously complex and not well understood. Its 80 billion neurons, each connected to as many as 10,000 other neurons, support activities from sustaining vital life processes to defining who we are. From high-resolution electron microscopy images of brain tissue, computer vision and machine learning techniques operating at the exascale can reveal the morphology and connectivity of neurons in brain tissue samples, informing future studies of the structure and function of mammalian brains."
 %}
 
 
 
 # Challenge
 
-A brain connectome lays out every connection between every neuron and the precise location of the associated dendrites, axons and synapses that help form the communications or signaling pathways of a brain. These wiring diagrams and cellular maps of circuits suggest novel hypotheses about how neurons generate behavior and provide fundamental explanations for specific neural computations that cannot be inferred in any other way. However, until recently, exhaustive anatomical brain reconstructions were limited to the tiniest volumes and to the few labs capable of the extraordinary investment of human effort required. Recent technologies are dramatically improving the size, speed and integrity of brain imaging but require substantial resources in both hardware and software. Existing large-scale brain mapping efforts are producing data on standard laboratory animals (mice, flies, and worms), limiting neuroscientists’ ability to explore nature’s range of choices for brain function. Comparative studies across diverse phylogeny will require numerous mappings: across species, during development, and/or across genetic variations, with each mapping requiring petabytes or terabytes of data to be imaged, analyzed, and stored. To realize these studies, researchers require an exascale computational pipeline to analyze nanometer-resolution serial-section electron microscopy (EM) data and generate large scale mappings for multiple specimens. 
+Connectomics stresses many boundaries: high-throughput electron microscopy technology
+operating at nanometer resolution; tens of thousands of images, each with tens of gigapixels;
+accuracy sufficient to capture minuscule synaptic detail; computer vision methods to align
+corresponding structures across large images; deep learning networks that can trace
+narrow axons and dendrites over large distances. Multiple applications contribute to the 3D reconstruction of neurons; the most demanding of them perform image alignment and segmentation.
 
-An exascale pipeline requires scalable computational tools for analysis of EM data, including machine vision and machine learning, for stitching, alignment, segmentation, and tracing of neuronal structures in the extremely large 3D data sets. Real-time feedback from analysis of the brain datasets would increase efficiency of data collection and may improve quality. Flood Filling Network (FFN) performs segmentation of EM brain scans to extract structures (e.g., blood vessels and neurons), which are used to form complete maps of neural connections in animal brains. Current attempts at reconstructing brain wiring have already led to valuable insights, and integration of exascale computing to these efforts will advance significantly programs established by the NIH, NSF, and other federal agencies.
-
-
+Before the 3D shape of neurons can be reconstructed, the 2D profiles of objects must be aligned between neighboring images in an image stack. Image misalignment can occur when tissue samples are cut into thin sections, or during imaging on the electron microscope. The Feabas application (developed by collaborators at Harvard) uses template matching and feature matching techniques for coarse and fine-grained alignment, using a network-of-springs approach to produce optimal linear and local non-linear image transformations, to align the 2D image content between sections.
 
 # Performance Results
-Connectomics has done training and inference at scale on Aurora.  One of the largest brain connectomics reconstructions was carried out ising 512 nodes of Aurora and showed more a more than twofold performance gain over what was achieved using the ALCF’s 44-petaplop Polaris system at similar scale.
+Deep learning models for connectomic reconstruction have been trained on Aurora on up to 512 nodes, demonstrating performance increases up to 40 percent.
+
+Reconstructions have been run with these models on up to 1024 nodes on Aurora, with multiple inference processes per PVC GPU, to produce a segmentation of a teravoxel of data. Projecting from these runs to the full machine, the researchers anticipate being able to segment a petavoxel dataset on Aurora imminently.
 
 {% include media-img.html
    source= "Chart_Connectome_.png"
@@ -37,6 +41,6 @@ Connectomics has done training and inference at scale on Aurora.  One of the lar
 
 # Impact
 
-This project aims to establish and refine the computational methods needed for fast routine brain mapping, building an end-to-end processing pipeline for extracting large scale connectomic information from nanometer-resolution serial-section EM image data sets of brain samples, providing huge benefits to the brain science and neuroimaging communities. The realization of an exascale data and computational pipeline for neuroscience could help revolutionize our understanding of brain function and pathology. Connectomics can help elucidate how even the smallest neurological changes contribute to diseases and disorders such as Alzheimer’s and autism, perhaps thereby providing a path to improved treatments.
+Connectomics today is leveraging innovations in imaging, supercomputing, and artificial intelligence to improve our understanding of how the brain's neurons are arranged and connected; this is becoming possible today due to exascale computing on Aurora. The techniques developed guarantee that computing will scale from cubic millimeters of brain tissue today, to a cubic centimeter whole mouse brain in the future, and to larger volumes of human brain tissue. As imaging technology advances, computing will need to achieve high performance on post-exascale machines to avoid becoming the bottleneck.
 
-The work done to prepare this project for exascale will also serve as a benefit to other exascale system users; with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source (APS), a DOE Office of Science User Facility.
+The work done to prepare this project for exascale will also benefit other exascale system users: with the electron microscopy algorithms under development, for example, promising broad application to x-ray data, especially with the upcoming upgrade to Argonne’s Advanced Photon Source (APS), a DOE Office of Science User Facility.
