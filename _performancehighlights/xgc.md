@@ -34,6 +34,6 @@ Optimization for exascale has required both GPU offloading and algorithmic flexi
 %}
 
 # Impact
-The resulting exascale application will be unique in its computational capabilitiee. Impacts in fusion science will potentially be transformational. This includes studying a much larger and more realistic range of dimensionless plasma parameters than ever before, with the core and the edge plasma strongly coupled at a fundamental kinetic level based on the gyrokinetic equations; this is to be accomplished by providing the energy-angle distribution of plasmas hitting the material wall, calculating the critically needed Tungsten penetration into the burning core, and assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma (e.g., tokamaks, stellarators).
+The resulting exascale application will be unique in its computational capabilitiee. Impacts in fusion science will potentially be transformational. For example, this project will enable a much larger and more realistic range of dimensionless plasma parameters than ever before, with the core and the edge plasma strongly coupled at a fundamental kinetic level based on the gyrokinetic equations; this is to be accomplished by providing the energy-angle distribution of plasmas hitting the material wall, calculating the critically needed Tungsten penetration into the burning core, and assessing the rich spectrum of kinetic micro-instabilities that control the quality of energy confinement in a toroidal plasma (e.g., tokamaks, stellarators).
 
 
