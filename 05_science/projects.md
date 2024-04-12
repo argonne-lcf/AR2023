@@ -182,7 +182,7 @@ HOURS: ALCF: 850,000 Node-Hours, OLCF: 500,000 Node-Hours, NERSC: 250,000 Node-H
 ## PHYSICS
 
 ### [Continuum Limit Latice Calculation of Direct CP-violation in Kaon Decays](https://www.alcf.anl.gov/science/projects/continuum-limit-latice-calculation-direct-cp-violation-kaon-decays)
-PI: Christopher Kelly , Brookhaven National Laboratory\
+PI: Christopher Kelly, Brookhaven National Laboratory\
 HOURS: ALCF: 135,000 Node-Hours
 
 ### [Energy Partition and Particle Acceleration in Laser-Driven Laboratory Magnetized Shocks](https://www.alcf.anl.gov/science/projects/energy-partition-and-particle-acceleration-laser-driven-laboratory-magnetized)
@@ -367,44 +367,6 @@ PI: Rick Stevens, Argonne National Laboratory
 
 
 
-
-
-
-# ALCF DATA SCIENCE PROGRAM
-
-### Advanced Materials Characterization with AI-Informed Computation
-PI: Marco Govoni, Argonne National Laboratory
-
-### Autonomous Molecular Design for Redox Flow Batteries
-PI: Logan Ward, Argonne National Laboratory
-
-### Deep Learning at Scale for Multimessenger Astrophysics Through the NCSA-Argonne Collaboration
-PI: Eliu Huerta, University of Illinois at Urbana-Champaign
-
-### Developing High-Performance-Computing Applications for Liquid Argon Neutrino Detectors
-PI: Andrzej Szelc, University of Manchester
-
-### Dynamic Compressed Sensing for Real-Time Tomographic Reconstruction
-PI: Robert Hovden, University of Michigan
-
-### Learning Optimal Image Representations for Current and Future Sky Surveys
-PI: George Stein, Lawrence Berkeley National Laboratory
-
-### Machine Learning for Data Reconstruction to Accelerate Physics Discoveries in Accelerator-Based Neutrino Oscillation Experiments
-PI: Marco Del Tutto, Fermi National Accelerator Laboratory 
-
-### Machine Learning Magnetic Properties of Van Der Waals Heterostructures
-PI: Trevor Rhone, Rensselaer Polytechnic Institute
-
-### X-ray Microscopy of Extended 3D Objects: Scaling Towards the Future
-PI: Chris Jacobsen, Argonne National Laboratory and Northwestern University
-
-
-
-
-
-
-
 # DIRECTOR'S DISCRETIONARY
 
 The following list provides a sampling of the many Director’s Discretionary projects at the ALCF.
@@ -447,13 +409,13 @@ PI: Nicholas Schwarz, Argonne National Laboratory
 PI: Jacqueline Cole, University of Cambridge
 
 ### Optimizing Bayesian Neural Networks for Scientific Machine Learning Applications
-PI: Murali Krishna Emani, Argonne National Laboratory
+PI: Murali Emani, Argonne National Laboratory
 
 
 ## ENERGY TECHNOLOGIES
 
 ### Optimizing Bayesian Neural Networks for Scientific Machine Learning Applications
-PI: Joshua Ryan New, Oak Ridge National Laboratory
+PI: Joshua New, Oak Ridge National Laboratory
 
 ### Development of High-Fidelity Simulations of Gas Turbine Combustors for Sustainable Aviation Applications
 PI: Sicong Wu, Northwestern University
@@ -462,7 +424,7 @@ PI: Sicong Wu, Northwestern University
 PI: Yiqi Yu, Argonne National Laboratory
 
 ### Multiphase Simulations of Nuclear Reactor Thermal Hydraulics 
-PI: Igor A Bolotnov, North Carolina State University
+PI: Igor A. Bolotnov, North Carolina State University
 
 
 ## ENGINEERING
@@ -475,10 +437,10 @@ PI: Parisa Mirbod, University of Illinois at Chicago
 ## MATERIALS SCIENCE
 
 ### Adsorptive CO2 Removal from Dilute Sources 
-PI: John J Low, Argonne National Laboratory
+PI: John J. Low, Argonne National Laboratory
 
 ### Materials Informatics Study of Two-Dimensional Magnetic Materials and Their Heterostructures
-PI: Trevor David Rhone, Harvard University
+PI: Trevor David Rhone, Rensselaer Polytechnic Institute
 
 
 
