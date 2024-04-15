@@ -11,7 +11,7 @@ intro: "With Argonne’s Nexus effort, the ALCF continues to build off its long 
 ---
 
 
-When the massive upgrade at Argonne’s Advanced Photon Source (APS) is completed in 2024, experiments at the powerful X-ray light source are expected to generate 100-200 petabytes of scientific data per year. That’s a substantial increase over the approximately 5 petabytes that were being produced annually at the APS before the upgrade. When factoring in DOE’s four other light sources, the facilities are projected to collectively generate an exabyte of data per year in the coming decade.
+When the massive upgrade at Argonne’s Advanced Photon Source (APS) is completed in 2024, experiments at the powerful X-ray light source are expected to generate 100–200 petabytes of scientific data per year. That’s a substantial increase over the approximately 5 petabytes that were being produced annually at the APS before the upgrade. When factoring in DOE’s four other light sources, the facilities are projected to collectively generate an exabyte of data per year in the coming decade.
 
 The growing deluge of scientific data is not unique to light sources. Telescopes, particle accelerators, fusion research facilities, remote sensors, and other scientific instruments also produce large amounts of data. And as their capabilities improve over time, the data generation rates will only continue to grow. The scientific community’s ability to process, analyze, store, and share these massive datasets is critical to gaining insights that will spark new discoveries. 
 
