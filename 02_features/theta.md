@@ -20,7 +20,7 @@ Theta’s run as an Argonne supercomputer coincided with the emergence of AI as 
 
 Around the same time that Theta made its debut in 2017, the facility launched the ALCF Data Science Program (ADSP) to support HPC projects that were employing machine learning and other AI methods to tackle big data challenges. This initiative gave the facility’s data science and learning capabilities a boost while also building up a new community of users.
 
-Theta is succeeded by Polaris and the Aurora exascale system as the lab’s primary supercomputers for open scientific research. Theta’s Intel architecture and its expansion to include NVIDIA GPUs have played a key role in helping the facility and its user community transition to Polaris’ hybrid architecture and Aurora’s cutting-edge Intel exascale hardware. Theta’s MCDRAM mode, for example, helped pave the way to Aurora’s high-bandwidth memory capabilities. 
+Theta is succeeded by Polaris and the Aurora exascale system as the lab’s primary supercomputers for open scientific research. Theta’s Intel architecture and its expansion to include NVIDIA GPUs have played a key role in helping the facility and its user community transition to Polaris’s hybrid architecture and Aurora’s cutting-edge Intel exascale hardware. Theta’s MCDRAM mode, for example, helped pave the way to Aurora’s high-bandwidth memory capabilities. 
 
 {% include media-img.html
    source= "ThetaGPU.jpg"
