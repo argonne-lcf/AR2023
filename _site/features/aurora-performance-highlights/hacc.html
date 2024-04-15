@@ -132,7 +132,7 @@
                         </li>
                       
                         <li>
-                          <a href="/year-in-review/about-alcf#by-the-numbers">
+                          <a href="/year-in-review/about-alcf#2023-by-the-numbers">
                             2023 by the Numbers
                           </a>
                         </li>
@@ -575,8 +575,7 @@ functionality consisting of gravitational calculations along with the more recen
 
 <p>In bringing HACC to exascale, the developers have aimed to evaluate Aurora’s early hardware and software development kit on a set of more than 60 complex kernels primarily written in CUDA or otherwise under active development, minimize divergence between CUDA and SYCL versions of the codebase, identify configurations and implementation optimizations specific to Intel GPUs, and identify more generally applicable implementation optimizations.</p>
 
-<p>Versions of HACC being developed for exascale systems incorporate basic gas physics
-(hydrodynamics) to enable more detailed studies of structure formation on the scales of galaxy clusters and individual galaxies. These versions also include sub-grid models that integrate phenomena like star formation and supernova and AGN feedback, which means the addition of more performance-critical code sections that also run on GPUs. A GPU implementation of HACC with hydrodynamics was previously developed for the Titan and Summit systems using Open CL and CUDA. All the GPU versions of the code have been rewritten to target Aurora.</p>
+<p>Versions of HACC being developed for exascale systems incorporate basic gas physics (hydrodynamics) to enable more detailed studies of structure formation on the scales of galaxy clusters and individual galaxies. These versions also include sub-grid models that integrate phenomena like star formation and supernova and AGN feedback, which means the addition of more performance-critical code sections that also run on GPUs. A GPU implementation of HACC with hydrodynamics was previously developed for the Titan and Summit systems using OpenCL and CUDA. All the GPU versions of the code have been rewritten to target Aurora.</p>
 
 <h1 id="performance-results">Performance Results</h1>
 <p>HACC simulations have been performed on Aurora in runs using as many as 1920 nodes. Visualizations of results generated on Aurora illustrate the large-scale structure of the universe. Single-GPU performance on Aurora exceeds that of compared systems: Figure-of-Merit assessments measuring particle-steps per second used 33 million particles per GPU and saw performance increases ranging from 15 to 50 percent.</p>
@@ -608,9 +607,8 @@ available parameters:
 </div>
 
 <h1 id="impact">Impact</h1>
-<p>Modern cosmology provides a unique window to fundamental physics, and has led to remarkable discoveries culminating in a highly successful model for the dynamics of the
-Universe. Simulations and predictions enabled by the HACC code deployed at exascale will help deepen our understanding of the structure of the universe and its underlying physics.
-Furthermore, new generations of cosmological instruments, such as the Vera Rubin Observatory, will depend on exascale systems in order to interpret the measurements; exascale cosmological simulations developed through HACC will enable researchers to simultaneously analyze observational data from state-of-the-art telescopes to test different theories of cosmological evolution.</p>
+<p>Modern cosmology provides a unique window to fundamental physics, and has led to remarkable discoveries culminating in a highly successful model for the dynamics of the Universe. Simulations and predictions enabled by the HACC code deployed at exascale will help deepen our understanding of the structure of the universe and its underlying physics.
+Furthermore, new generations of cosmological instruments, such as the Vera C. Rubin Observatory, will depend on exascale systems in order to interpret the measurements; exascale cosmological simulations developed through HACC will enable researchers to simultaneously analyze observational data from state-of-the-art telescopes to test different theories of cosmological evolution.</p>
 
 	</div>
 
