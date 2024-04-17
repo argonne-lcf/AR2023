@@ -13,7 +13,7 @@ sdl: 's'
 
 image: 'grover.png' 
 image-caption: 'Contour of gas velocity along an experimental test article.'
-image-credit: 'ALCF Visualization and Data Analytics Team; University of Dayton Research Institute'
+image-credit: 'ALCF Visualization and Data Analytics Team, Air Force Research Laboratory, and University of Dayton Research Institute'
 
 publications:
   - authors: 'Valentini, P., M. S. Grover, A. M. Verhoff, and N. J. Bisek'
