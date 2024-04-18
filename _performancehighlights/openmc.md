@@ -38,6 +38,6 @@ The code has been run across multiple types of GPUs, with large performance gain
 
 # Impact
 
-The ECP-supported ExaSMR project aims to use OpenMC to model the entire core of a nuclear reactor, generating virtual reactor simulation datasets with high-fidelity, coupled physics models for reactor phenomena that are truly predictive, filling in crucial gaps in experimental and operational reactor data. The extreme performance gains OpenMC has achieved on GPUs is finally bringing within reach a much larger class of problems that historically were deemed too expensive to simulate using Monte Carlo methods.
+The ECP-supported ExaSMR project aims to use OpenMC to model the entire core of a nuclear reactor, generating virtual reactor simulation datasets with high-fidelity, coupled physics models for reactor phenomena that are truly predictive, filling in crucial gaps in experimental and operational reactor data. The extreme performance gains OpenMC has achieved on GPUs are finally bringing within reach a much larger class of problems that historically were deemed too expensive to simulate using Monte Carlo methods.
 
 
