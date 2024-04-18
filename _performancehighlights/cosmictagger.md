@@ -13,7 +13,7 @@ image: 'Adams-cosmictagger.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "A deep learning-guided computer vision model featuring high-resolution imaging data and corresponding segmentation labels originating from a high-energy neutrino physics experiment, CosmicTagger is used by researchers working in high-energy particle physics to detect neutrino interactions from other cosmic particles and background noise.  A key benchmark for high-performance computing systems, CosmicTagger is run in both PyTorch and TensorFlow on multiple systems, representing a variety of architectures."
+    blurb = "A deep learning-guided computer vision model featuring high-resolution imaging data and corresponding segmentation labels originating from a high-energy neutrino physics experiment, CosmicTagger is used by researchers working in high-energy particle physics to detect neutrino interactions and distinguish them from other cosmic particles and background noise.  A key benchmark for high-performance computing systems, CosmicTagger is run in both PyTorch and TensorFlow on multiple systems, representing a variety of architectures."
 %}
 
 
