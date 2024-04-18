@@ -19,7 +19,7 @@ image: 'Adams-cosmictagger.png'
 
 
 # Challenge
-The CosmicTagger project deals with the detection of neutrino interactions in a detector overwhelmed by cosmic particles. The goal is to differentiate and classify each pixel so as to separate cosmic pixels, background pixels, and neutrino pixels in a neutrinos dataset. The technique uses multiple 2D projections of the same image, with each event generating three images of raw data. The training model utilizes a UResNet architecture for multi-plane semantic segmentation and is available in both PyTorch and Tensorflow with single node and distributed-memory multi-node implementations.
+The CosmicTagger project deals with the detection of neutrino interactions in a detector overwhelmed by cosmic particles. The goal is to differentiate and classify each pixel so as to separate cosmic pixels, background pixels, and neutrino pixels in a neutrino dataset. The technique uses multiple 2D projections of the same image, with each event generating three images of raw data. The training model utilizes a UResNet architecture for multi-plane semantic segmentation and is available in both PyTorch and Tensorflow with single node and distributed-memory multi-node implementations.
 
 
 
