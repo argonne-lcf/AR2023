@@ -31,7 +31,7 @@ Running on Sunspot, the Aurora test and development system, CosmicTagger achieve
 %}
 
 # Impact
-Deep learning has enabled state-of-the-art results in high-energy neutrino physics, with this application achieving substantially improved background particle rejection compared to classical techniques. Deploying CosmicTagger on Aurora will enable training and inference of the model at the highest resolution data and with the most scientifically accurate model.
+Deep learning has enabled state-of-the-art results in high-energy neutrino physics, with this application in particular achieving substantially improved background particle rejection compared to classical techniques. Deploying CosmicTagger on Aurora will enable training and inference of the model at the highest resolution data and with the most scientifically accurate model.
 
 Additionally, the Short Baseline Neutrino Detector, which originated the CosmicTagger application in collaboration with Argonne, is expected to begin operations in 2024. CosmicTagger will be beneficial in aiding the scientific analysis of what is expected to be the biggest, highest-resolution beam neutrino dataset ever collected.
 
