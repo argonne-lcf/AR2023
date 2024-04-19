@@ -4,7 +4,7 @@ layout: page
 title: Partnering with Industry
 hero-mp4-source: "industry.mp4"
 hero-webm-source: "industry.webm"
-hero-img-caption: "Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This is a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the ARC M1 gas turbine combustor. The simulation was performed on ALCF computing resources using the Nek5000 code."
+hero-img-caption: "Argonne researchers are using ALCF computing resources to help the aviation industry advance the development of sustainable aviation fuels. This is a snapshot from a wall-resolved late eddy simulation of the turbulent flow inside the Army Research Laboratory's midsize combustor (ARC-M1) at the University of Illinois Urbana-Champaign. The simulation was performed on ALCF computing resources using the Nek5000 code."
 hero-img-credit: "ALCF Visualization and Data Analytics Team; Muhsin Ameen and Sicong Wu, Argonne National Laboratory"
 
 theme: white
