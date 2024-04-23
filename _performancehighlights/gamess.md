@@ -14,7 +14,7 @@ image: 'gamess.png'
 ---
 
 {% include txt-intro.html 
-    blurb = "GAMESS, or General Atomic and Molecular Electronic Structure System, is a general-purpose electronic structure code for computational chemistry. Full-scale utilization of the Aurora system will enable GAMESS users to carry out demanding tasks like computing the energies and reaction pathways of catalysis processes within a large silica nanoparticle.<br><br>Through computation or a well-defined representative heterogeneous catalysis problem comprising mesoporous silica nanoparticles, GAMESS has demonstrated the capability to model physical systems requiring chemical interactions that involve many thousands of atoms, indicating a new ability to model complex chemical processes."
+    blurb = "GAMESS, or General Atomic and Molecular Electronic Structure System, is a general-purpose electronic structure code for computational chemistry. Full-scale utilization of the Aurora system will enable GAMESS users to carry out demanding tasks like computing the energies and reaction pathways of catalysis processes within a large silica nanoparticle.<br><br>Through computation of a well-defined representative heterogeneous catalysis problem comprising mesoporous silica nanoparticles, GAMESS has demonstrated the capability to model physical systems requiring chemical interactions that involve many thousands of atoms, indicating a new ability to model complex chemical processes."
 %}
 
 
