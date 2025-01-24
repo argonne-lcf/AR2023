@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Building a Diverse HPC Workforce
+title: Building a HPC Workforce
 hero-img-source: "MorrissetteMateevitsi.jpg"
 hero-img-caption: "James Morrissette (right) first began working with ALCF mentor Victor Mateevitsi (left) as a high school student participating in the Argonne ACT-SO program. In 2023, he returned to the ALCF as a college intern through the Sustainable Research Pathways program. Image: Argonne National Laboratory"
 
@@ -39,7 +39,7 @@ Another effort includes [ACT-SO (Afro-Academic, Cultural, Technological & Scient
 
 At the college level, the ALCF is reaching the next generation of AI practitioners through its “Intro to AI-driven Science on Supercomputers” training series. Aimed at undergraduate and graduate students, the series teaches attendees the fundamentals of using AI and supercomputers for scientific research.
 
-# Increasing Diversity at the ALCF and Beyond
+# Recruitment at the ALCF and Beyond
 
 The ALCF maintains a presence at many computing conferences and events to communicate career opportunities and recruit new team members. The facility continues to have a presence at the annual [Grace Hopper Celebration](https://ghc.anitab.org/), an event that brings the research and career interests of women in computing to the forefront. ALCF staff also regularly attend the [Richard Tapia Celebration of Diversity](https://tapiaconference.cmd-it.org/) in Computing Conference, an annual event that seeks to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to strengthen diversity in computing.
 
