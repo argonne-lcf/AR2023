@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Building a HPC Workforce
+title: Building an HPC Workforce
 hero-img-source: "MorrissetteMateevitsi.jpg"
 hero-img-caption: "James Morrissette (right) first began working with ALCF mentor Victor Mateevitsi (left) as a high school student participating in the Argonne ACT-SO program. In 2023, he returned to the ALCF as a college intern through the Sustainable Research Pathways program. Image: Argonne National Laboratory"
 
