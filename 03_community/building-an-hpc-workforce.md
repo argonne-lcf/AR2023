@@ -6,7 +6,7 @@ hero-img-source: "MorrissetteMateevitsi.jpg"
 hero-img-caption: "James Morrissette (right) first began working with ALCF mentor Victor Mateevitsi (left) as a high school student participating in the Argonne ACT-SO program. In 2023, he returned to the ALCF as a college intern through the Sustainable Research Pathways program. Image: Argonne National Laboratory"
 
 theme: white
-permalink: community-and-outreach/dei
+permalink: community-and-outreach/building-an-hpc-workforce
 ---
 
 
